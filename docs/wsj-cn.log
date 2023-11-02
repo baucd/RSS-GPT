@@ -130,3 +130,15 @@ Existing_entries: 42
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-02 06:11:06.556239
+------------------------------------------------------
+Started: 2023-11-02 08:10:45.281654
+Existing_entries: 42
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1983
+Summarized using GPT-3.5-turbo
+Append: [上海万圣节成“万梗节”，人们盛装狂欢宣泄情绪](https://cn.wsj.com/articles/%E4%B8%8A%E6%B5%B7%E4%B8%87%E5%9C%A3%E8%8A%82%E6%88%90-%E4%B8%87%E6%A2%97%E8%8A%82-%E4%BA%BA%E4%BB%AC%E7%9B%9B%E8%A3%85%E7%8B%82%E6%AC%A2%E5%AE%A3%E6%B3%84%E6%83%85%E7%BB%AA-9c3b2883)
+Token length: 1513
+Summarized using GPT-3.5-turbo
+Append: [苹果公司财报发布在即，华尔街不甚乐观](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83%E5%9C%A8%E5%8D%B3-%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B8%8D%E7%94%9A%E4%B9%90%E8%A7%82-f80a61f4)
+append_entries: 2
+Finish: 2023-11-02 08:11:06.184964
