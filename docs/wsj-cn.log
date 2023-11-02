@@ -115,3 +115,12 @@ Summarized using GPT-3.5-turbo
 Append: [警惕中国经济秋季失速](https://cn.wsj.com/articles/%E8%AD%A6%E6%83%95%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%A7%8B%E5%AD%A3%E5%A4%B1%E9%80%9F-da919ab6)
 append_entries: 1
 Finish: 2023-11-02 02:16:33.278950
+------------------------------------------------------
+Started: 2023-11-02 04:10:03.990224
+Existing_entries: 41
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2151
+Summarized using GPT-3.5-turbo
+Append: [全球领导人在AI峰会发出警告：当心科幻小说预言的灾难](https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%9C%A8ai%E5%B3%B0%E4%BC%9A%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A-%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E9%87%8C%E7%9A%84%E7%81%BE%E9%9A%BE%E6%88%96%E8%83%BD%E6%88%90%E7%9C%9F-e963fb09)
+append_entries: 1
+Finish: 2023-11-02 04:10:20.116670
