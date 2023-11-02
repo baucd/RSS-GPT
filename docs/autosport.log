@@ -194,3 +194,18 @@ Summarized using GPT-3.5-turbo
 Append: [Andretti: F1 teams think "we are a bunch of hillbillies"](https://www.autosport.com/f1/news/andretti-f1-teams-think-we-are-a-bunch-of-hillbillies/10541610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 2
 Finish: 2023-11-02 16:10:45.045632
+------------------------------------------------------
+Started: 2023-11-02 18:10:31.874776
+Existing_entries: 62
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [Sainz: Current F1 sprint format "too revealing" of full grand prix events](https://www.autosport.com/f1/news/sainz-current-f1-sprint-format-too-revealing-of-full-grand-prix-events/10541709/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Tsunoda locked himself away after Mexico F1 clash with Piastri](https://www.autosport.com/f1/news/tsunoda-locked-himself-away-after-mexico-f1-clash-with-piastri/10541653/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: ["Absolutely no doubts" that Ricciardo would find F1 form again - Tost](https://www.autosport.com/f1/news/absolutely-no-doubts-that-ricciardo-would-find-form-again-tost/10541457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 3
+Finish: 2023-11-02 18:10:44.177996
