@@ -142,3 +142,12 @@ Summarized using GPT-3.5-turbo
 Append: [苹果公司财报发布在即，华尔街不甚乐观](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E5%8F%91%E5%B8%83%E5%9C%A8%E5%8D%B3-%E5%8D%8E%E5%B0%94%E8%A1%97%E4%B8%8D%E7%94%9A%E4%B9%90%E8%A7%82-f80a61f4)
 append_entries: 2
 Finish: 2023-11-02 08:11:06.184964
+------------------------------------------------------
+Started: 2023-11-02 10:09:25.405507
+Existing_entries: 44
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 722
+Summarized using GPT-3.5-turbo
+Append: [在岸人民币兑美元周四微涨](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%91%A8%E5%9B%9B%E5%BE%AE%E6%B6%A8-4ec2c87d)
+append_entries: 1
+Finish: 2023-11-02 10:09:42.853999
