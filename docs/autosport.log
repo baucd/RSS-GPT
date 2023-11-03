@@ -338,3 +338,21 @@ Summarized using GPT-3.5-turbo
 Append: [Brazilian Grand Prix: This is what the stats say will happen in F1 this weekend](https://www.autosport.com/f1/news/brazilian-grand-prix-this-is-what-the-stats-say-will-happen-in-f1-this-weekend/10541554/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 5
 Finish: 2023-11-03 18:11:00.478576
+------------------------------------------------------
+Started: 2023-11-03 20:09:14.689416
+Existing_entries: 84
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [Leclerc nearly abandoned Q3 F1 lap due to unprecedented Brazil conditions](https://www.autosport.com/f1/news/leclerc-nearly-abandoned-q3-f1-lap-due-to-unprecedented-conditions/10542306/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 391
+Summarized using GPT-3.5-turbo
+Append: [2023 Brazilian GP F1 qualifying results: Verstappen takes pole](https://www.autosport.com/f1/news/2023-brazilian-gp-f1-qualifying-results-verstappen-takes-pole-/10542273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [F1 Brazilian GP: Verstappen takes grand prix pole as rain curtails Q3](https://www.autosport.com/f1/news/f1-brazilian-gp-qualifying-report/10542258/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [Wolff: Elliott departure has "no correlation" with Mercedes F1 performance](https://www.autosport.com/f1/news/wolff-elliott-departure-has-no-correlation-with-mercedes-f1-performance/10542217/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 4
+Finish: 2023-11-03 20:09:31.723543
