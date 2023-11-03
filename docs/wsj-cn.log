@@ -250,3 +250,9 @@ Summarized using GPT-3.5-turbo
 Append: [在岸人民币周五温和上涨](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E6%B8%A9%E5%92%8C%E4%B8%8A%E6%B6%A8-5ca85604)
 append_entries: 1
 Finish: 2023-11-03 10:09:22.408630
+------------------------------------------------------
+Started: 2023-11-03 12:16:00.430170
+Existing_entries: 54
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-03 12:16:08.502899
