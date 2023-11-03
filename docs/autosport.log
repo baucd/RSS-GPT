@@ -257,3 +257,15 @@ Existing_entries: 67
 Fetching from https://www.autosport.com/rss/f1/news/
 append_entries: 0
 Finish: 2023-11-03 08:10:52.011456
+------------------------------------------------------
+Started: 2023-11-03 10:08:59.680237
+Existing_entries: 67
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Albon: Final races about Williams “holding on” in F1 battle for P7](https://www.autosport.com/f1/news/albon-final-races-about-williams-holding-on-in-f1-battle-for-p7/10541901/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Russell: New F1 approach means Mercedes won’t repeat rushed “mistakes”](https://www.autosport.com/f1/news/russell-new-f1-approach-means-mercedes-wont-repeat-rushed-mistakes/10541794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 2
+Finish: 2023-11-03 10:09:09.608714
