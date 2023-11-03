@@ -229,3 +229,15 @@ Existing_entries: 51
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-03 06:11:11.481979
+------------------------------------------------------
+Started: 2023-11-03 08:10:52.266577
+Existing_entries: 51
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1032
+Summarized using GPT-3.5-turbo
+Append: [苹果公司中国供应商股价走高，因iPhone需求强劲](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E4%B8%AD%E5%9B%BD%E4%BE%9B%E5%BA%94%E5%95%86%E8%82%A1%E4%BB%B7%E8%B5%B0%E9%AB%98-%E5%9B%A0iphone%E9%9C%80%E6%B1%82%E5%BC%BA%E5%8A%B2-e196aca5)
+Token length: 1179
+Summarized using GPT-3.5-turbo
+Append: [中国机器人公司股价走高，政府发出产业扶持信号](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E8%82%A1%E4%BB%B7%E8%B5%B0%E9%AB%98-%E6%94%BF%E5%BA%9C%E5%8F%91%E5%87%BA%E4%BA%A7%E4%B8%9A%E6%89%B6%E6%8C%81%E4%BF%A1%E5%8F%B7-1ea3ce67)
+append_entries: 2
+Finish: 2023-11-03 08:11:11.455227
