@@ -386,3 +386,9 @@ Summarized using GPT-3.5-turbo
 Append: [Russell, Ocon, Gasly each get two-place F1 Brazilian GP grid penalties](https://www.autosport.com/f1/news/russell-gets-two-place-brazilian-gp-grid-drop-for-f1-qualifying-incident/10542414/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 1
 Finish: 2023-11-04 00:36:55.073973
+------------------------------------------------------
+Started: 2023-11-04 02:15:56.684842
+Existing_entries: 94
+Fetching from https://www.autosport.com/rss/f1/news/
+append_entries: 0
+Finish: 2023-11-04 02:15:56.873318
