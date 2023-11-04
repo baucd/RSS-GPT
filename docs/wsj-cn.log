@@ -307,3 +307,9 @@ Summarized using GPT-3.5-turbo
 Append: [中概股简报：蔚来李斌发全员信：减少10%左右岗位 合并重复建设部门与岗位](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%8F%91%E5%85%A8%E5%91%98%E4%BF%A1-%E5%87%8F%E5%B0%9110-%E5%B7%A6%E5%8F%B3%E5%B2%97%E4%BD%8D-%E5%90%88%E5%B9%B6%E9%87%8D%E5%A4%8D%E5%BB%BA%E8%AE%BE%E9%83%A8%E9%97%A8%E4%B8%8E%E5%B2%97%E4%BD%8D-6413a5de)
 append_entries: 2
 Finish: 2023-11-04 02:16:20.896702
+------------------------------------------------------
+Started: 2023-11-04 04:09:25.573828
+Existing_entries: 57
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-04 04:09:32.912775
