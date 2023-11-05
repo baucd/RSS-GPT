@@ -515,3 +515,9 @@ Summarized using GPT-3.5-turbo
 Append: [Ferrari drivers having to lift and coast at "every corner" in Brazil F1 sprint](https://www.autosport.com/f1/news/ferrari-f1-drivers-having-to-lift-and-coast-at-every-corner-in-brazil-sprint/10542885/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 5
 Finish: 2023-11-04 22:08:14.603723
+------------------------------------------------------
+Started: 2023-11-05 00:40:18.769959
+Existing_entries: 115
+Fetching from https://www.autosport.com/rss/f1/news/
+append_entries: 0
+Finish: 2023-11-05 00:40:18.907172
