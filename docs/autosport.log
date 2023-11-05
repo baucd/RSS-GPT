@@ -620,3 +620,18 @@ Summarized using GPT-3.5-turbo
 Append: [F1 Brazilian GP: Albon, Magnussen first corner crash triggers red flag](https://www.autosport.com/f1/news/f1-brazilian-gp-red-flag/10543257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 2
 Finish: 2023-11-05 18:09:31.576510
+------------------------------------------------------
+Started: 2023-11-05 20:07:51.391041
+Existing_entries: 130
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 394
+Summarized using GPT-3.5-turbo
+Append: [Alonso thought Brazil F1 podium was "gone" after Perez pass](https://www.autosport.com/f1/news/alonso-thought-brazil-f1-podium-was-gone-after-perez-pass/10543338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [F1 Brazilian GP: Verstappen fends off Norris for 17th win of 2023](https://www.autosport.com/f1/news/f1-brazilian-gp-verstappen-fends-off-norris-for-17th-win-of-2023/10543309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 391
+Summarized using GPT-3.5-turbo
+Append: [2023 F1 Brazilian GP results: Max Verstappen wins 17th race of season](https://www.autosport.com/f1/news/2023-f1-brazilian-gp-results-max-verstappen-wins-17th-race-of-season/10543321/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 3
+Finish: 2023-11-05 20:08:03.190623
