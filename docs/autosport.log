@@ -608,3 +608,15 @@ Summarized using GPT-3.5-turbo
 Append: [Why has Felipe Massa launched legal action against F1? Everything explained](https://www.autosport.com/f1/news/why-has-felipe-massa-launched-legal-action-against-f1-everything-explained/10543209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 6
 Finish: 2023-11-05 16:10:00.918237
+------------------------------------------------------
+Started: 2023-11-05 18:09:25.246165
+Existing_entries: 128
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [Leclerc: Ferrari F1 engine issue caused Brazilian GP formation lap crash](https://www.autosport.com/f1/news/leclerc-ferrari-f1-engine-issue-caused-brazilian-gp-formation-lap-crash/10543286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [F1 Brazilian GP: Albon, Magnussen first corner crash triggers red flag](https://www.autosport.com/f1/news/f1-brazilian-gp-red-flag/10543257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 2
+Finish: 2023-11-05 18:09:31.576510
