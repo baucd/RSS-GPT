@@ -545,3 +545,18 @@ Existing_entries: 115
 Fetching from https://www.autosport.com/rss/f1/news/
 append_entries: 0
 Finish: 2023-11-05 08:09:37.076717
+------------------------------------------------------
+Started: 2023-11-05 10:07:44.782003
+Existing_entries: 115
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [F1 drivers call out “terrible to drive” tyres at Brazilian GP](https://www.autosport.com/f1/news/sun-f1-drivers-call-out-terrible-to-drive-tyres-at-interlagos/10543022/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 399
+Summarized using GPT-3.5-turbo
+Append: [The contenders looking to join Verstappen on the F1 Brazilian GP podium](https://www.autosport.com/f1/news/the-contenders-looking-to-join-verstappen-on-the-f1-brazilian-gp-podium/10543032/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [F1 impeding solution a "sticky plaster" to real problem, says Horner](https://www.autosport.com/f1/news/f1-impeding-solution-a-sticky-plaster-to-real-problem-says-horner/10543021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 3
+Finish: 2023-11-05 10:07:57.142362
