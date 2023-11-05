@@ -635,3 +635,21 @@ Summarized using GPT-3.5-turbo
 Append: [2023 F1 Brazilian GP results: Max Verstappen wins 17th race of season](https://www.autosport.com/f1/news/2023-f1-brazilian-gp-results-max-verstappen-wins-17th-race-of-season/10543321/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 3
 Finish: 2023-11-05 20:08:03.190623
+------------------------------------------------------
+Started: 2023-11-05 22:07:28.801578
+Existing_entries: 133
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 400
+Summarized using GPT-3.5-turbo
+Append: [Norris: Second attack on Verstappen in F1 Brazilian GP "not worth the risk"](https://www.autosport.com/f1/news/norris-second-attack-on-verstappen-in-f1-brazilian-gp-not-worth-the-risk/10543437/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [Hamilton suspects Mercedes F1 car's floor "not working" in Brazilian GP](https://www.autosport.com/f1/news/hamilton-suspects-mercedes-f1-cars-floor-not-working-in-brazilian-gp/10543430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [FIA summons F1 Brazilian GP organisers over fan track invasion](https://www.autosport.com/f1/news/fia-summons-f1-brazilian-gp-organisers-over-track-invasion/10543392/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Wolff feels sorry for Hamilton and Russell driving "miserable" Mercedes F1 cars](https://www.autosport.com/f1/news/wolff-feels-sorry-for-hamilton-and-russell-driving-miserable-mercedes-f1-cars/10543366/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 4
+Finish: 2023-11-05 22:07:42.376282
