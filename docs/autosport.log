@@ -575,3 +575,12 @@ Summarized using GPT-3.5-turbo
 Append: [Stella: It makes no sense to revisit F1 US GP track limits](https://www.autosport.com/f1/news/stella-it-makes-no-sense-to-revisit-f1-us-gp-track-limits/10543071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 3
 Finish: 2023-11-05 12:13:47.196109
+------------------------------------------------------
+Started: 2023-11-05 14:06:55.889113
+Existing_entries: 121
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [McLaren: Norris unlikely to beat Verstappen with better start in Brazil F1 sprint](https://www.autosport.com/f1/news/mclaren-norris-unlikely-to-beat-verstappen-with-better-start-in-brazil-f1-sprint/10543149/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 1
+Finish: 2023-11-05 14:07:04.535437
