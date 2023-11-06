@@ -502,3 +502,9 @@ Summarized using GPT-3.5-turbo
 Append: [外国公司从中国撤走千亿美元利润](https://cn.wsj.com/articles/%E5%A4%96%E5%9B%BD%E5%85%AC%E5%8F%B8%E4%BB%8E%E4%B8%AD%E5%9B%BD%E6%92%A4%E8%B5%B0%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E5%88%A9%E6%B6%A6-d88984fe)
 append_entries: 2
 Finish: 2023-11-06 12:16:29.734787
+------------------------------------------------------
+Started: 2023-11-06 14:09:17.916820
+Existing_entries: 64
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-06 14:09:26.369282
