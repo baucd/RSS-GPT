@@ -457,3 +457,15 @@ Summarized using GPT-3.5-turbo
 Append: [中国重拳打击跨国电信诈骗“杀猪盘”](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E6%89%93%E5%87%BB%E8%B7%A8%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97-%E6%9D%80%E7%8C%AA%E7%9B%98-42e4e1c8)
 append_entries: 1
 Finish: 2023-11-06 02:20:55.071082
+------------------------------------------------------
+Started: 2023-11-06 04:15:06.781815
+Existing_entries: 59
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2270
+Summarized using GPT-3.5-turbo
+Append: [中国消费者勒紧裤腰带，西方大品牌感受到压力](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E5%8B%92%E7%B4%A7%E8%A3%A4%E8%85%B0%E5%B8%A6-%E8%A5%BF%E6%96%B9%E5%A4%A7%E5%93%81%E7%89%8C%E6%84%9F%E5%8F%97%E5%88%B0%E5%8E%8B%E5%8A%9B-b5d9d48f)
+Token length: 2075
+Summarized using GPT-3.5-turbo
+Append: [中国取消澳大利亚进口限制，但有些澳方出口商不买账](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%96%E6%B6%88%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E8%BF%9B%E5%8F%A3%E9%99%90%E5%88%B6-%E4%BD%86%E6%9C%89%E4%BA%9B%E6%BE%B3%E6%96%B9%E5%87%BA%E5%8F%A3%E5%95%86%E4%B8%8D%E4%B9%B0%E8%B4%A6-2fba620d)
+append_entries: 2
+Finish: 2023-11-06 04:15:33.858348
