@@ -728,3 +728,18 @@ Summarized using GPT-3.5-turbo
 Append: [Three rival F1 teams summoned for Haas track limits review hearing](https://www.autosport.com/f1/news/red-bull-aston-martin-and-williams-summoned-for-haas-f1-review-hearing-/10543722/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
 append_entries: 2
 Finish: 2023-11-06 14:09:17.723348
+------------------------------------------------------
+Started: 2023-11-06 16:11:03.437993
+Existing_entries: 146
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 401
+Summarized using GPT-3.5-turbo
+Append: [Ricciardo ducked in cockpit to avoid “frisbeeing” F1 tyre](https://www.autosport.com/f1/news/ricciardo-ducked-in-cockpit-to-avoid-frisbeeing-f1-tyre/10543599/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [F1 and Pirelli to work on all-new tyre concept for 2025](https://www.autosport.com/f1/news/f1-and-pirelli-to-work-on-all-new-tyre-concept-for-2025/10543647/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 398
+Summarized using GPT-3.5-turbo
+Append: [10 things we learned from the 2023 F1 Brazilian Grand Prix](https://www.autosport.com/f1/news/10-things-we-learned-from-the-2023-f1-brazilian-grand-prix/10543690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 3
+Finish: 2023-11-06 16:11:23.952593
