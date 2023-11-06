@@ -448,3 +448,12 @@ Summarized using GPT-3.5-turbo-16k
 Append: [中国财经媒体报道汇总：万科拟6日与金融机构召开线上会议](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E4%B8%87%E7%A7%91%E6%8B%9F6%E6%97%A5%E4%B8%8E%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%8F%AC%E5%BC%80%E7%BA%BF%E4%B8%8A%E4%BC%9A%E8%AE%AE-ee0d1179)
 append_entries: 1
 Finish: 2023-11-06 00:38:53.702092
+------------------------------------------------------
+Started: 2023-11-06 02:20:38.671413
+Existing_entries: 58
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3220
+Summarized using GPT-3.5-turbo
+Append: [中国重拳打击跨国电信诈骗“杀猪盘”](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%8B%B3%E6%89%93%E5%87%BB%E8%B7%A8%E5%9B%BD%E7%94%B5%E4%BF%A1%E8%AF%88%E9%AA%97-%E6%9D%80%E7%8C%AA%E7%9B%98-42e4e1c8)
+append_entries: 1
+Finish: 2023-11-06 02:20:55.071082
