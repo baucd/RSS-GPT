@@ -689,3 +689,21 @@ Existing_entries: 139
 Fetching from https://www.autosport.com/rss/f1/news/
 append_entries: 0
 Finish: 2023-11-06 08:12:37.650909
+------------------------------------------------------
+Started: 2023-11-06 10:09:49.164320
+Existing_entries: 139
+Fetching from https://www.autosport.com/rss/f1/news/
+Token length: 403
+Summarized using GPT-3.5-turbo
+Append: [Video: Alonso’s defensive masterclass at the F1 Brazilian GP](https://www.autosport.com/f1/news/video-alonsos-defensive-masterclass-at-the-f1-brazilian-gp/10543626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 397
+Summarized using GPT-3.5-turbo
+Append: [Autosport Podcast: F1 Brazilian Grand Prix review](https://www.autosport.com/f1/news/autosport-podcast-f1-brazilian-grand-prix-review-10543616/10543616/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 394
+Summarized using GPT-3.5-turbo
+Append: [Leclerc reveals how electronic command issue triggered F1 crash](https://www.autosport.com/f1/news/leclerc-reveals-how-electronic-command-issue-triggered-f1-crash/10543597/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+Token length: 402
+Summarized using GPT-3.5-turbo
+Append: [Wolff: “Unacceptable” Brazilian GP my worst weekend in F1](https://www.autosport.com/f1/news/mon-wolff-unacceptable-brazilian-gp-my-worst-weekend-in-f1/10543596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk)
+append_entries: 4
+Finish: 2023-11-06 10:10:10.516017

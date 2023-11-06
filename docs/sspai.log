@@ -6954,3 +6954,15 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2023-11-06 10:09:27.459899
+Existing_entries: 195
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 5094
+Summarized using GPT-3.5-turbo-16k
+Append: [[送码] 派评 | 近期值得关注的 App](https://sspai.com/post/84194)
+Token length: 7552
+Summarized using GPT-3.5-turbo-16k
+Append: [既要吃好也要健康，你可以从几件小事开始改变饮食习惯](https://sspai.com/post/84033)
+append_entries: 2
+Finish: 2023-11-06 10:09:49.015733
