@@ -532,3 +532,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：斗鱼方面证实CEO陈少杰失联已近三周](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%96%97%E9%B1%BC%E6%96%B9%E9%9D%A2%E8%AF%81%E5%AE%9Eceo%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%E5%B7%B2%E8%BF%91%E4%B8%89%E5%91%A8-8c99aa3c)
 append_entries: 4
 Finish: 2023-11-07 03:02:00.417002
+------------------------------------------------------
+Started: 2023-11-07 04:10:00.750149
+Existing_entries: 68
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1080
+Summarized using GPT-3.5-turbo-1106
+Append: [中国10月出口下降6.4%，不及预期，进口意外转为增长3%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%87%BA%E5%8F%A3%E4%B8%8B%E9%99%8D6-4-%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-%E8%BF%9B%E5%8F%A3%E6%84%8F%E5%A4%96%E8%BD%AC%E4%B8%BA%E5%A2%9E%E9%95%BF3-d832342c)
+append_entries: 1
+Finish: 2023-11-07 04:10:11.880111
