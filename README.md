@@ -54,4 +54,5 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://stephanango.com/feed.xml -> https://yinan-c.github.io/RSS-GPT/steph-ango.xml
 - http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
 - https://www.autosport.com/rss/f1/news/ -> https://baucd.github.io/RSS-GPT/autosport.xml
+- http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
 - http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china -> https://baucd.github.io/RSS-GPT/wsj-cn.xml

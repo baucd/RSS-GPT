@@ -514,3 +514,21 @@ Existing_entries: 64
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-06 16:11:31.542593
+------------------------------------------------------
+Started: 2023-11-07 03:01:45.009766
+Existing_entries: 64
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 778
+Summarized using GPT-3.5-turbo-1106
+Append: [大股东发声支持万科，拟承接逾10亿美元城更项目](https://cn.wsj.com/articles/%E5%A4%A7%E8%82%A1%E4%B8%9C%E5%8F%91%E5%A3%B0%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91-%E6%8B%9F%E6%89%BF%E6%8E%A5%E9%80%BE10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9F%8E%E6%9B%B4%E9%A1%B9%E7%9B%AE-539f5bfc)
+Token length: 2915
+Summarized using GPT-3.5-turbo-1106
+Append: [中国是如何成为全球最大开发融资来源国的？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%BC%80%E5%8F%91%E8%9E%8D%E8%B5%84%E6%9D%A5%E6%BA%90%E5%9B%BD-a6576fc7)
+Token length: 3789
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：深圳国资委：必要时通过一切可能手段支持万科](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E6%B7%B1%E5%9C%B3%E5%9B%BD%E8%B5%84%E5%A7%94-%E5%BF%85%E8%A6%81%E6%97%B6%E9%80%9A%E8%BF%87%E4%B8%80%E5%88%87%E5%8F%AF%E8%83%BD%E6%89%8B%E6%AE%B5%E6%94%AF%E6%8C%81%E4%B8%87%E7%A7%91-b2fe8760)
+Token length: 2525
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：斗鱼方面证实CEO陈少杰失联已近三周](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%96%97%E9%B1%BC%E6%96%B9%E9%9D%A2%E8%AF%81%E5%AE%9Eceo%E9%99%88%E5%B0%91%E6%9D%B0%E5%A4%B1%E8%81%94%E5%B7%B2%E8%BF%91%E4%B8%89%E5%91%A8-8c99aa3c)
+append_entries: 4
+Finish: 2023-11-07 03:02:00.417002
