@@ -541,3 +541,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国10月出口下降6.4%，不及预期，进口意外转为增长3%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%87%BA%E5%8F%A3%E4%B8%8B%E9%99%8D6-4-%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-%E8%BF%9B%E5%8F%A3%E6%84%8F%E5%A4%96%E8%BD%AC%E4%B8%BA%E5%A2%9E%E9%95%BF3-d832342c)
 append_entries: 1
 Finish: 2023-11-07 04:10:11.880111
+------------------------------------------------------
+Started: 2023-11-07 06:11:01.404889
+Existing_entries: 69
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-07 06:11:07.960173
