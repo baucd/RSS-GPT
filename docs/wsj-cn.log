@@ -617,3 +617,15 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/wsj-cn
+------------------------------------------------------
+Started: 2023-11-08 02:18:13.359762
+Existing_entries: 74
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 445
+Summarized using GPT-3.5-turbo-1106
+Append: [万科美元债券遭遇冲击后价格回升](https://cn.wsj.com/articles/%E4%B8%87%E7%A7%91%E5%80%BA%E5%88%B8%E9%81%AD%E9%81%87%E5%86%B2%E5%87%BB%E5%90%8E%E4%BB%B7%E6%A0%BC%E5%9B%9E%E5%8D%87-0c282136)
+Token length: 4495
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：百度向华为订购1600片昇腾910B AI芯片，60%订单已交付](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E7%99%BE%E5%BA%A6%E5%90%91%E5%8D%8E%E4%B8%BA%E8%AE%A2%E8%B4%AD1600%E7%89%87%E6%98%87%E8%85%BE910b-ai%E8%8A%AF%E7%89%87-60-%E8%AE%A2%E5%8D%95%E5%B7%B2%E4%BA%A4%E4%BB%98-b5c29856)
+append_entries: 2
+Finish: 2023-11-08 02:18:26.048574

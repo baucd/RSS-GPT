@@ -7080,3 +7080,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：iQOO 12 系列发布、国行任天堂 Switch 延保计划将停售等](https://sspai.com/post/84243)
 append_entries: 1
 Finish: 2023-11-08 00:37:39.490349
+------------------------------------------------------
+Started: 2023-11-08 02:18:02.878550
+Existing_entries: 205
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2023-11-08 02:18:13.020307
