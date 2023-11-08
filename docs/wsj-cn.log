@@ -653,3 +653,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国正变成美股投资者的一个难题](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8F%98%E6%88%90%E7%BE%8E%E8%82%A1%E6%8A%95%E8%B5%84%E8%80%85%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9A%BE%E9%A2%98-512c2caf)
 append_entries: 1
 Finish: 2023-11-08 06:11:33.481492
+------------------------------------------------------
+Started: 2023-11-08 08:10:35.418899
+Existing_entries: 80
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-08 08:10:42.425899
