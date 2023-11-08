@@ -680,3 +680,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国平安否认被要求收购碧桂园](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%90%A6%E8%AE%A4%E8%A2%AB%E8%A6%81%E6%B1%82%E6%94%B6%E8%B4%AD%E7%A2%A7%E6%A1%82%E5%9B%AD-b41da2cf)
 append_entries: 5
 Finish: 2023-11-08 10:09:33.387400
+------------------------------------------------------
+Started: 2023-11-08 12:14:45.985808
+Existing_entries: 85
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-08 12:14:54.422747
