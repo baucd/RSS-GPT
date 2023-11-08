@@ -644,3 +644,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [日本汽车制造商在中国面临去留抉择](https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%8E%BB%E7%95%99%E6%8A%89%E6%8B%A9-6c0b6223)
 append_entries: 3
 Finish: 2023-11-08 04:10:18.203085
+------------------------------------------------------
+Started: 2023-11-08 06:11:22.583938
+Existing_entries: 79
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1429
+Summarized using GPT-3.5-turbo-1106
+Append: [中国正变成美股投资者的一个难题](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%8F%98%E6%88%90%E7%BE%8E%E8%82%A1%E6%8A%95%E8%B5%84%E8%80%85%E7%9A%84%E4%B8%80%E4%B8%AA%E9%9A%BE%E9%A2%98-512c2caf)
+append_entries: 1
+Finish: 2023-11-08 06:11:33.481492
