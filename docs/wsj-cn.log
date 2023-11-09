@@ -785,3 +785,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [蜂拥围堵——中国舰船控制南中国海的战术](https://cn.wsj.com/articles/%E8%9C%82%E6%8B%A5%E5%9B%B4%E5%A0%B5-%E4%B8%AD%E5%9B%BD%E8%88%B0%E8%88%B9%E6%8E%A7%E5%88%B6%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E7%9A%84%E6%88%98%E6%9C%AF-566339cf)
 append_entries: 5
 Finish: 2023-11-09 10:14:12.207190
+------------------------------------------------------
+Started: 2023-11-09 12:15:10.192268
+Existing_entries: 96
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-09 12:15:18.417860
