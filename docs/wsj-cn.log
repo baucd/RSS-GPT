@@ -731,3 +731,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [碧桂园股价大涨，中国平安否认被要求接管的报道](https://cn.wsj.com/articles/%E7%A2%A7%E6%A1%82%E5%9B%AD%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8-%E4%B8%AD%E5%9B%BD%E5%B9%B3%E5%AE%89%E5%90%A6%E8%AE%A4%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8E%A5%E7%AE%A1%E7%9A%84%E6%8A%A5%E9%81%93-c1d54431)
 append_entries: 3
 Finish: 2023-11-09 00:37:54.039792
+------------------------------------------------------
+Started: 2023-11-09 02:18:03.601151
+Existing_entries: 88
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1056
+Summarized using GPT-3.5-turbo-1106
+Append: [中国10月CPI同比下降0.2%，时隔两个月再度负增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88cpi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0-2-%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%86%8D%E5%BA%A6%E8%B4%9F%E5%A2%9E%E9%95%BF-c21c852f)
+Token length: 1053
+Summarized using GPT-3.5-turbo-1106
+Append: [中国10月PPI同比下降2.6%，降幅扩大且为连续第十三个月下降](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88ppi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D2-6-%E9%99%8D%E5%B9%85%E6%89%A9%E5%A4%A7%E4%B8%94%E4%B8%BA%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%8D%81%E4%B8%89%E4%B8%AA%E6%9C%88%E4%B8%8B%E9%99%8D-9f583902)
+Token length: 4301
+Summarized using GPT-3.5-turbo-1106
+Append: [乌拉圭现状表明拉美从美国转向中国](https://cn.wsj.com/articles/%E4%B9%8C%E6%8B%89%E5%9C%AD%E7%8E%B0%E7%8A%B6%E8%A1%A8%E6%98%8E%E6%8B%89%E7%BE%8E%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BD%AC%E5%90%91%E4%B8%AD%E5%9B%BD-7cbfa22d)
+append_entries: 3
+Finish: 2023-11-09 02:18:25.440938
