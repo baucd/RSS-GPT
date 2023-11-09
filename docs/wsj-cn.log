@@ -746,3 +746,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [乌拉圭现状表明拉美从美国转向中国](https://cn.wsj.com/articles/%E4%B9%8C%E6%8B%89%E5%9C%AD%E7%8E%B0%E7%8A%B6%E8%A1%A8%E6%98%8E%E6%8B%89%E7%BE%8E%E4%BB%8E%E7%BE%8E%E5%9B%BD%E8%BD%AC%E5%90%91%E4%B8%AD%E5%9B%BD-7cbfa22d)
 append_entries: 3
 Finish: 2023-11-09 02:18:25.440938
+------------------------------------------------------
+Started: 2023-11-09 04:10:12.614117
+Existing_entries: 91
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-09 04:10:21.669192
