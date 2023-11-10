@@ -869,3 +869,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Meta与腾讯达成头戴式设备合作协议，14年后重返中国](https://cn.wsj.com/articles/meta%E5%B0%86%E9%87%8D%E8%BF%94%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-%E4%B8%8E%E8%85%BE%E8%AE%AF%E8%BE%BE%E6%88%90%E5%A4%B4%E6%88%B4%E8%AE%BE%E5%A4%87%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE-c01d3f3c)
 append_entries: 1
 Finish: 2023-11-10 06:11:19.336223
+------------------------------------------------------
+Started: 2023-11-10 08:10:46.677439
+Existing_entries: 104
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2149
+Summarized using GPT-3.5-turbo-1106
+Append: [如何管住“嘴松”的银行家？香港正尝试解决](https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E7%AE%A1%E4%BD%8F-%E5%98%B4%E6%9D%BE-%E7%9A%84%E9%93%B6%E8%A1%8C%E5%AE%B6-%E9%A6%99%E6%B8%AF%E6%AD%A3%E5%B0%9D%E8%AF%95%E8%A7%A3%E5%86%B3-e27cfe1b)
+append_entries: 1
+Finish: 2023-11-10 08:11:08.216642
