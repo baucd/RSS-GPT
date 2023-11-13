@@ -1134,3 +1134,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国在中东的影响力有限](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%AD%E4%B8%9C%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%9C%89%E9%99%90-705ea465)
 append_entries: 4
 Finish: 2023-11-13 08:12:06.533138
+------------------------------------------------------
+Started: 2023-11-13 10:09:45.310342
+Existing_entries: 118
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 501
+Summarized using GPT-3.5-turbo-1106
+Append: [报道：中国可能解除对波音737 Max飞机的销售冻结](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%9B%BD%E5%8F%AF%E8%83%BD%E8%A7%A3%E9%99%A4%E5%AF%B9%E6%B3%A2%E9%9F%B3737-max%E9%A3%9E%E6%9C%BA%E7%9A%84%E9%94%80%E5%94%AE%E5%86%BB%E7%BB%93-699f7ed8)
+append_entries: 1
+Finish: 2023-11-13 10:14:48.429098
