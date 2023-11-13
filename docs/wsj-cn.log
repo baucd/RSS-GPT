@@ -1116,3 +1116,21 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/wsj-cn
+------------------------------------------------------
+Started: 2023-11-13 08:11:38.959032
+Existing_entries: 114
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2614
+Summarized using GPT-3.5-turbo-1106
+Append: [中国人“口味”生变，国外农场全力押宝](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BA%BA-%E5%8F%A3%E5%91%B3-%E7%94%9F%E5%8F%98-%E5%9B%BD%E5%A4%96%E5%86%9C%E5%9C%BA%E5%85%A8%E5%8A%9B%E6%8A%BC%E5%AE%9D-a43b8015)
+Token length: 585
+Summarized using GPT-3.5-turbo-1106
+Append: [惠誉将撤销对碧桂园服务的评级](https://cn.wsj.com/articles/%E6%83%A0%E8%AA%89%E5%B0%86%E6%92%A4%E9%94%80%E5%AF%B9%E7%A2%A7%E6%A1%82%E5%9B%AD%E6%9C%8D%E5%8A%A1%E7%9A%84%E8%AF%84%E7%BA%A7-65c472a5)
+Token length: 2451
+Summarized using GPT-3.5-turbo-1106
+Append: [中国工商银行遭黑客攻击扰乱美国债市，突显中美间的金融联系](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E7%BE%8E%E5%9B%BD%E5%AD%90%E5%85%AC%E5%8F%B8%E9%81%AD%E9%81%87%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB-d4b257c1)
+Token length: 1829
+Summarized using GPT-3.5-turbo-1106
+Append: [中国在中东的影响力有限](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%AD%E4%B8%9C%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B%E6%9C%89%E9%99%90-705ea465)
+append_entries: 4
+Finish: 2023-11-13 08:12:06.533138
