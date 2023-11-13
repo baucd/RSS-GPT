@@ -1152,3 +1152,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国绿色能源支出狂潮导致全球光伏组件过剩](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%BF%E8%89%B2%E8%83%BD%E6%BA%90%E6%94%AF%E5%87%BA%E7%8B%82%E6%BD%AE%E5%AF%BC%E8%87%B4%E5%85%A8%E7%90%83%E5%85%89%E4%BC%8F%E7%BB%84%E4%BB%B6%E8%BF%87%E5%89%A9-eb68e1f1)
 append_entries: 1
 Finish: 2023-11-13 12:15:36.688146
+------------------------------------------------------
+Started: 2023-11-13 14:08:24.756875
+Existing_entries: 120
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-13 14:08:32.934412
