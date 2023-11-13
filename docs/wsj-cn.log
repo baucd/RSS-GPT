@@ -1097,3 +1097,15 @@ Existing_entries: 112
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-13 02:25:58.224638
+------------------------------------------------------
+Started: 2023-11-13 04:10:19.147754
+Existing_entries: 112
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 524
+Summarized using GPT-3.5-turbo-1106
+Append: [资生堂下调展望，因中国业务恶化](https://cn.wsj.com/articles/%E8%B5%84%E7%94%9F%E5%A0%82%E4%B8%8B%E8%B0%83%E5%B1%95%E6%9C%9B-%E5%9B%A0%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1%E6%81%B6%E5%8C%96-8f2f761d)
+Token length: 583
+Summarized using GPT-3.5-turbo-1106
+Append: [SK海力士开始向Vivo发货新型先进制程芯片](https://cn.wsj.com/articles/sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%BC%80%E5%A7%8B%E5%90%91vivo%E5%8F%91%E8%B4%A7%E6%96%B0%E5%9E%8B%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E8%8A%AF%E7%89%87-077f0c7a)
+append_entries: 2
+Finish: 2023-11-13 04:10:33.711881
