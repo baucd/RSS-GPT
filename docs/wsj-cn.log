@@ -1329,3 +1329,12 @@ Existing_entries: 137
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-15 06:11:38.294750
+------------------------------------------------------
+Started: 2023-11-15 08:16:18.426358
+Existing_entries: 137
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1645
+Summarized using GPT-3.5-turbo-1106
+Append: [中国消费支出回升，房地产颓势加剧](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%94%AF%E5%87%BA%E5%9B%9E%E5%8D%87-%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF%E5%8A%A0%E5%89%A7-7e635806)
+append_entries: 1
+Finish: 2023-11-15 08:21:16.880415
