@@ -1359,3 +1359,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [腾讯第三季度利润下降，但游戏、广告和金融科技业务业绩强劲](https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D-%E4%BD%86%E6%B8%B8%E6%88%8F-%E5%B9%BF%E5%91%8A%E5%92%8C%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80%E4%B8%9A%E5%8A%A1%E4%B8%9A%E7%BB%A9%E5%BC%BA%E5%8A%B2-466728ce)
 append_entries: 1
 Finish: 2023-11-15 12:15:45.015285
+------------------------------------------------------
+Started: 2023-11-15 14:08:23.739244
+Existing_entries: 141
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-15 14:08:33.471681
