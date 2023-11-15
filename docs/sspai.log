@@ -7717,3 +7717,10 @@ Existing_entries: 235
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-11-15 14:08:23.327045
+------------------------------------------------------
+Started: 2023-11-15 16:10:48.796550
+Existing_entries: 235
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/sspai
