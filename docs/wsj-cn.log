@@ -1338,3 +1338,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国消费支出回升，房地产颓势加剧](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%94%AF%E5%87%BA%E5%9B%9E%E5%8D%87-%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A2%93%E5%8A%BF%E5%8A%A0%E5%89%A7-7e635806)
 append_entries: 1
 Finish: 2023-11-15 08:21:16.880415
+------------------------------------------------------
+Started: 2023-11-15 10:09:42.832051
+Existing_entries: 138
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 827
+Summarized using GPT-3.5-turbo-1106
+Append: [中国1-10月财政收支同比分别增长8.1%和4.6%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1-10%E6%9C%88%E8%B4%A2%E6%94%BF%E6%94%B6%E6%94%AF%E5%90%8C%E6%AF%94%E5%88%86%E5%88%AB%E5%A2%9E%E9%95%BF8-1-%E5%92%8C4-6-3632edd1)
+Token length: 549
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三飙升超500点、创逾3个月新高；美元指数暴跌](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E9%A3%99%E5%8D%87%E8%B6%85500%E7%82%B9-%E5%88%9B%E9%80%BE3%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E6%9A%B4%E8%B7%8C-7830f129)
+append_entries: 2
+Finish: 2023-11-15 10:09:58.437665
