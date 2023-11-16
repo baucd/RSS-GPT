@@ -1431,3 +1431,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国华融股价上涨，受收购中信股份少数股权提振](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%9E%8D%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-%E5%8F%97%E6%94%B6%E8%B4%AD%E4%B8%AD%E4%BF%A1%E8%82%A1%E4%BB%BD%E5%B0%91%E6%95%B0%E8%82%A1%E6%9D%83%E6%8F%90%E6%8C%AF-cad49375)
 append_entries: 1
 Finish: 2023-11-16 06:11:47.780414
+------------------------------------------------------
+Started: 2023-11-16 08:11:18.110660
+Existing_entries: 147
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 538
+Summarized using GPT-3.5-turbo-1106
+Append: [中国承诺以更大力度吸引外资、促进消费](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%89%BF%E8%AF%BA%E4%BB%A5%E6%9B%B4%E5%A4%A7%E5%8A%9B%E5%BA%A6%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84-%E4%BF%83%E8%BF%9B%E6%B6%88%E8%B4%B9-1b480f32)
+append_entries: 1
+Finish: 2023-11-16 08:11:28.468595
