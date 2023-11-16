@@ -1440,3 +1440,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国承诺以更大力度吸引外资、促进消费](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%89%BF%E8%AF%BA%E4%BB%A5%E6%9B%B4%E5%A4%A7%E5%8A%9B%E5%BA%A6%E5%90%B8%E5%BC%95%E5%A4%96%E8%B5%84-%E4%BF%83%E8%BF%9B%E6%B6%88%E8%B4%B9-1b480f32)
 append_entries: 1
 Finish: 2023-11-16 08:11:28.468595
+------------------------------------------------------
+Started: 2023-11-16 10:09:27.318356
+Existing_entries: 148
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 686
+Summarized using GPT-3.5-turbo-1106
+Append: [中国1-10月对外非金融类直接投资折合1047.4亿美元，同比增11%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1-10%E6%9C%88%E5%AF%B9%E5%A4%96%E9%9D%9E%E9%87%91%E8%9E%8D%E7%B1%BB%E7%9B%B4%E6%8E%A5%E6%8A%95%E8%B5%84%E6%8A%98%E5%90%881047-4%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%90%8C%E6%AF%94%E5%A2%9E11-489618e7)
+Token length: 558
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币下跌；美元指数从周二暴跌中连续反弹](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E4%BB%8E%E5%91%A8%E4%BA%8C%E6%9A%B4%E8%B7%8C%E4%B8%AD%E8%BF%9E%E7%BB%AD%E5%8F%8D%E5%BC%B9-7024f791)
+append_entries: 2
+Finish: 2023-11-16 10:09:37.863245
