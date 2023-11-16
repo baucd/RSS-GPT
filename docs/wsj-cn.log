@@ -1410,3 +1410,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国华融将以逾17亿美元收购中信股份的少数股权](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%9E%8D%E5%B0%86%E4%BB%A5%E9%80%BE17%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E4%B8%AD%E4%BF%A1%E8%82%A1%E4%BB%BD%E7%9A%84%E5%B0%91%E6%95%B0%E8%82%A1%E6%9D%83-a34b3a44)
 append_entries: 1
 Finish: 2023-11-16 02:22:52.056119
+------------------------------------------------------
+Started: 2023-11-16 04:10:31.756180
+Existing_entries: 144
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1807
+Summarized using GPT-3.5-turbo-1106
+Append: [现在押注中国楼市复苏为时过早](https://cn.wsj.com/articles/%E7%8E%B0%E5%9C%A8%E6%8A%BC%E6%B3%A8%E4%B8%AD%E5%9B%BD%E6%A5%BC%E5%B8%82%E5%A4%8D%E8%8B%8F%E4%B8%BA%E6%97%B6%E8%BF%87%E6%97%A9-7066c66b)
+Token length: 470
+Summarized using GPT-3.5-turbo-1106
+Append: [中国10月份新建商品住宅价格下降速度略有加快](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD10%E6%9C%88%E4%BB%BD%E6%96%B0%E5%BB%BA%E5%95%86%E5%93%81%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E4%B8%8B%E9%99%8D%E9%80%9F%E5%BA%A6%E7%95%A5%E6%9C%89%E5%8A%A0%E5%BF%AB-b25407b5)
+append_entries: 2
+Finish: 2023-11-16 04:10:46.309740
