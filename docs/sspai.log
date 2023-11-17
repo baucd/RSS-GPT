@@ -7844,3 +7844,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
 append_entries: 1
 Finish: 2023-11-17 02:22:37.064179
+------------------------------------------------------
+Started: 2023-11-17 04:10:09.945643
+Existing_entries: 241
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 11043
+Summarized using GPT-3.5-turbo-1106
+Append: [在 Mac 与 iPad 上远程使用 Windows 系统，这是我的折腾笔记](https://sspai.com/post/84443)
+append_entries: 1
+Finish: 2023-11-17 04:10:20.378922
