@@ -7835,3 +7835,12 @@ Existing_entries: 240
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-11-17 00:39:07.940364
+------------------------------------------------------
+Started: 2023-11-17 02:22:31.115570
+Existing_entries: 240
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 3715
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Apple 将在明年支持 RCS 协议、微软消息五则等](https://sspai.com/post/84467)
+append_entries: 1
+Finish: 2023-11-17 02:22:37.064179
