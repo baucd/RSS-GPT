@@ -1608,3 +1608,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [TikTok面临其最大危机：本·拉登视频、反犹内容和疯传推文](https://cn.wsj.com/articles/tiktok%E9%9D%A2%E4%B8%B4%E5%85%B6%E6%9C%80%E5%A4%A7%E5%8D%B1%E6%9C%BA-%E6%9C%AC-%E6%8B%89%E7%99%BB%E8%A7%86%E9%A2%91-%E5%8F%8D%E7%8A%B9%E5%86%85%E5%AE%B9%E5%92%8C%E7%96%AF%E4%BC%A0%E6%8E%A8%E6%96%87-4b214e8a)
 append_entries: 2
 Finish: 2023-11-18 02:20:45.610453
+------------------------------------------------------
+Started: 2023-11-18 04:10:03.090831
+Existing_entries: 162
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-18 04:10:15.117325
