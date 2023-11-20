@@ -1773,3 +1773,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国期房交付难问题越来越大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%9C%9F%E6%88%BF%E4%BA%A4%E4%BB%98%E9%9A%BE%E9%97%AE%E9%A2%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7-163f29e8)
 append_entries: 2
 Finish: 2023-11-20 04:11:03.829650
+------------------------------------------------------
+Started: 2023-11-20 06:12:03.361420
+Existing_entries: 167
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-20 06:12:09.326689
