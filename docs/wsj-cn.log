@@ -1779,3 +1779,12 @@ Existing_entries: 167
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-20 06:12:09.326689
+------------------------------------------------------
+Started: 2023-11-20 08:12:25.676469
+Existing_entries: 167
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3810
+Summarized using GPT-3.5-turbo-1106
+Append: [美国潜艇全面碾压中国的时代即将结束](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%BD%9C%E8%89%87%E5%85%A8%E9%9D%A2%E7%A2%BE%E5%8E%8B%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%97%B6%E4%BB%A3%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F-6c79cf0a)
+append_entries: 1
+Finish: 2023-11-20 08:12:37.832021
