@@ -1761,3 +1761,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国财经媒体报道汇总：证监会：坚持“一司一策”化解大型房企债券违约风险](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E8%AF%81%E7%9B%91%E4%BC%9A-%E5%9D%9A%E6%8C%81-%E4%B8%80%E5%8F%B8%E4%B8%80%E7%AD%96-%E5%8C%96%E8%A7%A3%E5%A4%A7%E5%9E%8B%E6%88%BF%E4%BC%81%E5%80%BA%E5%88%B8%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9-b5a04ff4)
 append_entries: 3
 Finish: 2023-11-20 02:23:59.427323
+------------------------------------------------------
+Started: 2023-11-20 04:10:49.898839
+Existing_entries: 165
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2761
+Summarized using GPT-3.5-turbo-1106
+Append: [工行黑客事件如何撼动了华尔街的回购协议市场](https://cn.wsj.com/articles/%E5%B7%A5%E8%A1%8C%E9%BB%91%E5%AE%A2%E4%BA%8B%E4%BB%B6%E5%A6%82%E4%BD%95%E6%92%BC%E5%8A%A8%E4%BA%86%E5%8D%8E%E5%B0%94%E8%A1%97%E7%9A%84%E5%9B%9E%E8%B4%AD%E5%8D%8F%E8%AE%AE%E5%B8%82%E5%9C%BA-73ddcf42)
+Token length: 2178
+Summarized using GPT-3.5-turbo-1106
+Append: [中国期房交付难问题越来越大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%9C%9F%E6%88%BF%E4%BA%A4%E4%BB%98%E9%9A%BE%E9%97%AE%E9%A2%98%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%A7-163f29e8)
+append_entries: 2
+Finish: 2023-11-20 04:11:03.829650
