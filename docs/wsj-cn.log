@@ -1866,3 +1866,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [麦当劳将收购凯雷对麦当劳中国业务的少数股权](https://cn.wsj.com/articles/%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B0%86%E6%94%B6%E8%B4%AD%E5%87%AF%E9%9B%B7%E5%AF%B9%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%B0%91%E6%95%B0%E8%82%A1%E6%9D%83-48afd155)
 append_entries: 3
 Finish: 2023-11-21 04:15:57.341005
+------------------------------------------------------
+Started: 2023-11-21 06:11:50.454259
+Existing_entries: 174
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1001
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产股大涨，据报道政府正起草房企白名单](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E5%A4%A7%E6%B6%A8-%E6%8D%AE%E6%8A%A5%E9%81%93%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%B5%B7%E8%8D%89%E6%88%BF%E4%BC%81%E7%99%BD%E5%90%8D%E5%8D%95-0a5191a6)
+append_entries: 1
+Finish: 2023-11-21 06:12:06.532920
