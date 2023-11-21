@@ -1902,3 +1902,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [百度第三财季总收入增长6%，投资收益提振利润](https://cn.wsj.com/articles/%E7%99%BE%E5%BA%A6%E7%AC%AC%E4%B8%89%E8%B4%A2%E5%AD%A3%E6%80%BB%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%BF6-%E6%8A%95%E8%B5%84%E6%94%B6%E7%9B%8A%E6%8F%90%E6%8C%AF%E5%88%A9%E6%B6%A6-99b721b0)
 append_entries: 1
 Finish: 2023-11-21 12:19:15.906198
+------------------------------------------------------
+Started: 2023-11-21 14:08:37.184588
+Existing_entries: 178
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-21 14:08:44.816603
