@@ -1830,3 +1830,18 @@ Existing_entries: 168
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-20 22:08:37.863814
+------------------------------------------------------
+Started: 2023-11-21 00:44:42.029120
+Existing_entries: 168
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3689
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：融创成为首家完成境内外债务重组的大型房企](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E8%9E%8D%E5%88%9B%E6%88%90%E4%B8%BA%E9%A6%96%E5%AE%B6%E5%AE%8C%E6%88%90%E5%A2%83%E5%86%85%E5%A4%96%E5%80%BA%E5%8A%A1%E9%87%8D%E7%BB%84%E7%9A%84%E5%A4%A7%E5%9E%8B%E6%88%BF%E4%BC%81-274e88ec)
+Token length: 2309
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：微信、抖音、快手齐出手打击违规微短剧](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E5%BE%AE%E4%BF%A1-%E6%8A%96%E9%9F%B3-%E5%BF%AB%E6%89%8B%E9%BD%90%E5%87%BA%E6%89%8B%E6%89%93%E5%87%BB%E8%BF%9D%E8%A7%84%E5%BE%AE%E7%9F%AD%E5%89%A7-989d2af5)
+Token length: 786
+Summarized using GPT-3.5-turbo-1106
+Append: [中国否认澳大利亚关于一艘中国军舰使用声纳攻击澳方潜水员的说法](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%90%A6%E8%AE%A4%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%85%B3%E4%BA%8E%E4%B8%80%E8%89%98%E4%B8%AD%E5%9B%BD%E5%86%9B%E8%88%B0%E4%BD%BF%E7%94%A8%E5%A3%B0%E7%BA%B3%E6%94%BB%E5%87%BB%E6%BE%B3%E6%96%B9%E6%BD%9C%E6%B0%B4%E5%91%98%E7%9A%84%E8%AF%B4%E6%B3%95-eb9b94f8)
+append_entries: 3
+Finish: 2023-11-21 00:45:05.638277
