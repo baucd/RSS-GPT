@@ -1851,3 +1851,18 @@ Existing_entries: 171
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-21 02:26:11.840938
+------------------------------------------------------
+Started: 2023-11-21 04:15:36.151166
+Existing_entries: 171
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 480
+Summarized using GPT-3.5-turbo-1106
+Append: [李强任中央金融委员会主任，要求加强监管及防范风险](https://cn.wsj.com/articles/%E6%9D%8E%E5%BC%BA%E4%BB%BB%E4%B8%AD%E5%A4%AE%E9%87%91%E8%9E%8D%E5%A7%94%E5%91%98%E4%BC%9A%E4%B8%BB%E4%BB%BB-%E8%A6%81%E6%B1%82%E5%8A%A0%E5%BC%BA%E7%9B%91%E7%AE%A1%E5%8F%8A%E9%98%B2%E8%8C%83%E9%A3%8E%E9%99%A9-7fe2b045)
+Token length: 1309
+Summarized using GPT-3.5-turbo-1106
+Append: [中国劲敌环伺，苹果要当心了](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8A%B2%E6%95%8C%E7%8E%AF%E4%BC%BA-%E8%8B%B9%E6%9E%9C%E8%A6%81%E5%BD%93%E5%BF%83%E4%BA%86-47b4448e)
+Token length: 589
+Summarized using GPT-3.5-turbo-1106
+Append: [麦当劳将收购凯雷对麦当劳中国业务的少数股权](https://cn.wsj.com/articles/%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%B0%86%E6%94%B6%E8%B4%AD%E5%87%AF%E9%9B%B7%E5%AF%B9%E9%BA%A6%E5%BD%93%E5%8A%B3%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1%E7%9A%84%E5%B0%91%E6%95%B0%E8%82%A1%E6%9D%83-48afd155)
+append_entries: 3
+Finish: 2023-11-21 04:15:57.341005
