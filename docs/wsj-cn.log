@@ -1875,3 +1875,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国房地产股大涨，据报道政府正起草房企白名单](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E5%A4%A7%E6%B6%A8-%E6%8D%AE%E6%8A%A5%E9%81%93%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%B5%B7%E8%8D%89%E6%88%BF%E4%BC%81%E7%99%BD%E5%90%8D%E5%8D%95-0a5191a6)
 append_entries: 1
 Finish: 2023-11-21 06:12:06.532920
+------------------------------------------------------
+Started: 2023-11-21 08:11:50.848157
+Existing_entries: 175
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 523
+Summarized using GPT-3.5-turbo-1106
+Append: [习拜会后万事达卡在中国取得突破，获银行卡清算业务许可证](https://cn.wsj.com/articles/%E4%B9%A0%E6%8B%9C%E4%BC%9A%E5%90%8E%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4-%E8%8E%B7%E9%93%B6%E8%A1%8C%E5%8D%A1%E6%B8%85%E7%AE%97%E4%B8%9A%E5%8A%A1%E8%AE%B8%E5%8F%AF%E8%AF%81-bda8e284)
+append_entries: 1
+Finish: 2023-11-21 08:12:01.883764
