@@ -2004,3 +2004,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [新东方股价大涨，昔日曾受打压如今卷土重来](https://cn.wsj.com/articles/%E6%96%B0%E4%B8%9C%E6%96%B9%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8-%E6%98%94%E6%97%A5%E6%9B%BE%E5%8F%97%E6%89%93%E5%8E%8B%E5%A6%82%E4%BB%8A%E5%8D%B7%E5%9C%9F%E9%87%8D%E6%9D%A5-b161fe83)
 append_entries: 2
 Finish: 2023-11-22 12:16:01.045933
+------------------------------------------------------
+Started: 2023-11-22 14:09:03.051489
+Existing_entries: 188
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-22 14:09:13.825265
