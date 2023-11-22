@@ -1947,3 +1947,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：字节跳动寻求以50亿美元出售沐瞳科技](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%AF%BB%E6%B1%82%E4%BB%A550%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%BA%E5%94%AE%E6%B2%90%E7%9E%B3%E7%A7%91%E6%8A%80-24666012)
 append_entries: 3
 Finish: 2023-11-22 00:41:32.830968
+------------------------------------------------------
+Started: 2023-11-22 02:24:53.660750
+Existing_entries: 181
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 639
+Summarized using GPT-3.5-turbo-1106
+Append: [融创中国启动100亿美元债务重组计划](https://cn.wsj.com/articles/%E8%9E%8D%E5%88%9B%E4%B8%AD%E5%9B%BD%E5%90%AF%E5%8A%A8100%E4%BA%BF%E7%BE%8E%E5%85%83%E5%80%BA%E5%8A%A1%E9%87%8D%E7%BB%84%E8%AE%A1%E5%88%92-544c45a3)
+Token length: 2324
+Summarized using GPT-3.5-turbo-1106
+Append: [汇丰持有的交行股份面临150亿美元减记风险](https://cn.wsj.com/articles/%E6%B1%87%E4%B8%B0%E6%8C%81%E6%9C%89%E7%9A%84%E4%BA%A4%E8%A1%8C%E8%82%A1%E4%BB%BD%E9%9D%A2%E4%B8%B4150%E4%BA%BF%E7%BE%8E%E5%85%83%E5%87%8F%E8%AE%B0%E9%A3%8E%E9%99%A9-f04aecdb)
+append_entries: 2
+Finish: 2023-11-22 02:29:53.492710
