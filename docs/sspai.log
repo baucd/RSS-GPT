@@ -8247,3 +8247,12 @@ Existing_entries: 255
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-11-22 02:24:53.146668
+------------------------------------------------------
+Started: 2023-11-22 04:10:28.652542
+Existing_entries: 255
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 8939
+Summarized using GPT-3.5-turbo-1106
+Append: [独立小团队如何在开发时省钱省事？这是我们选择的技术架构](https://sspai.com/post/83468)
+append_entries: 1
+Finish: 2023-11-22 04:10:40.705446
