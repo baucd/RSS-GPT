@@ -1977,3 +1977,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [英伟达广阔前景的最大风险是中国](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B9%BF%E9%98%94%E5%89%8D%E6%99%AF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%99%A9%E6%98%AF%E4%B8%AD%E5%9B%BD-79726db8)
 append_entries: 1
 Finish: 2023-11-22 06:12:00.983405
+------------------------------------------------------
+Started: 2023-11-22 08:11:48.076764
+Existing_entries: 185
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-22 08:11:55.392759
