@@ -1983,3 +1983,12 @@ Existing_entries: 185
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-22 08:11:55.392759
+------------------------------------------------------
+Started: 2023-11-22 10:09:52.237351
+Existing_entries: 185
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 618
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三转跌；FOMC会议纪要发布后美元指数反弹](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E8%BD%AC%E8%B7%8C-fomc%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E5%8F%91%E5%B8%83%E5%90%8E%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%8F%8D%E5%BC%B9-587153c3)
+append_entries: 1
+Finish: 2023-11-22 10:10:05.207429
