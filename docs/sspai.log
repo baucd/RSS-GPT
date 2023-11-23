@@ -8325,3 +8325,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：Sam Altman 将返回 OpenAI 担任 CEO 等](https://sspai.com/post/84575)
 append_entries: 1
 Finish: 2023-11-23 00:39:05.657764
+------------------------------------------------------
+Started: 2023-11-23 02:21:21.504096
+Existing_entries: 259
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2023-11-23 02:21:24.944364
