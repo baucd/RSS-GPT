@@ -2064,3 +2064,15 @@ Existing_entries: 192
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-23 04:10:41.054086
+------------------------------------------------------
+Started: 2023-11-23 06:11:25.909517
+Existing_entries: 192
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 493
+Summarized using GPT-3.5-turbo-1106
+Append: [中国将加强铁矿石市场监管](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BC%BA%E9%93%81%E7%9F%BF%E7%9F%B3%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1-182b4b6d)
+Token length: 996
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产股走高，市场寄望房企融资“白名单”](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E8%B5%B0%E9%AB%98-%E5%B8%82%E5%9C%BA%E5%AF%84%E6%9C%9B%E6%88%BF%E4%BC%81%E8%9E%8D%E8%B5%84-%E7%99%BD%E5%90%8D%E5%8D%95-5b2d170f)
+append_entries: 2
+Finish: 2023-11-23 06:11:43.462978
