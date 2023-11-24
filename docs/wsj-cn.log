@@ -2160,3 +2160,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [欧佩克+部长级会议推迟，油价将何去何从？](https://cn.wsj.com/articles/%E6%AC%A7%E4%BD%A9%E5%85%8B+%E9%83%A8%E9%95%BF%E7%BA%A7%E4%BC%9A%E8%AE%AE%E6%8E%A8%E8%BF%9F-%E6%B2%B9%E4%BB%B7%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E-3feb2cd2)
 append_entries: 1
 Finish: 2023-11-24 04:10:45.347556
+------------------------------------------------------
+Started: 2023-11-24 06:11:17.334504
+Existing_entries: 200
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-24 06:11:25.446547
