@@ -2187,3 +2187,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币下跌；美指小幅震荡、等候今晚数据](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E6%8C%87%E5%B0%8F%E5%B9%85%E9%9C%87%E8%8D%A1-%E7%AD%89%E5%80%99%E4%BB%8A%E6%99%9A%E6%95%B0%E6%8D%AE-699e1c02)
 append_entries: 2
 Finish: 2023-11-24 10:09:57.355972
+------------------------------------------------------
+Started: 2023-11-24 12:15:00.939378
+Existing_entries: 203
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3602
+Summarized using GPT-3.5-turbo-1106
+Append: [中国试图利用经济联系拉近与台湾的距离，却没有奏效](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%9B%BE%E5%88%A9%E7%94%A8%E7%BB%8F%E6%B5%8E%E8%81%94%E7%B3%BB%E6%8B%89%E8%BF%91%E4%B8%8E%E5%8F%B0%E6%B9%BE%E7%9A%84%E8%B7%9D%E7%A6%BB-%E5%8D%B4%E6%B2%A1%E6%9C%89%E5%A5%8F%E6%95%88-d10d4408)
+append_entries: 1
+Finish: 2023-11-24 12:15:16.560520
