@@ -2130,3 +2130,15 @@ Existing_entries: 196
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-23 22:07:59.713902
+------------------------------------------------------
+Started: 2023-11-24 00:37:58.937088
+Existing_entries: 196
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 709
+Summarized using GPT-3.5-turbo-1106
+Append: [房地产类股提振中国股市](https://cn.wsj.com/articles/%E5%B8%83%E6%B2%B9%E5%91%A8%E5%9B%9B%E4%B8%8B%E8%B7%8C-%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%B1%BB%E8%82%A1%E6%8F%90%E6%8C%AF%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82-012ed27b)
+Token length: 707
+Summarized using GPT-3.5-turbo-1106
+Append: [碧桂园等中国房地产开发商股价上涨，因有望获得政府支持](https://cn.wsj.com/articles/%E7%A2%A7%E6%A1%82%E5%9B%AD%E7%AD%89%E4%B8%AD%E5%9B%BD%E4%B8%BB%E8%A6%81%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%BC%80%E5%8F%91%E5%95%86%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-%E5%9B%A0%E6%9C%89%E6%9C%9B%E8%8E%B7%E5%BE%97%E6%94%BF%E5%BA%9C%E6%94%AF%E6%8C%81-ad38d896)
+append_entries: 2
+Finish: 2023-11-24 00:38:15.441141
