@@ -2196,3 +2196,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国试图利用经济联系拉近与台湾的距离，却没有奏效](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%95%E5%9B%BE%E5%88%A9%E7%94%A8%E7%BB%8F%E6%B5%8E%E8%81%94%E7%B3%BB%E6%8B%89%E8%BF%91%E4%B8%8E%E5%8F%B0%E6%B9%BE%E7%9A%84%E8%B7%9D%E7%A6%BB-%E5%8D%B4%E6%B2%A1%E6%9C%89%E5%A5%8F%E6%95%88-d10d4408)
 append_entries: 1
 Finish: 2023-11-24 12:15:16.560520
+------------------------------------------------------
+Started: 2023-11-24 14:07:57.725807
+Existing_entries: 204
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-24 14:08:05.635297
