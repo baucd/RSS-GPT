@@ -2229,3 +2229,12 @@ Existing_entries: 205
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-24 22:07:55.565089
+------------------------------------------------------
+Started: 2023-11-25 00:37:08.991186
+Existing_entries: 205
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 546
+Summarized using GPT-3.5-turbo-1106
+Append: [英伟达股价承压，有报道称其中国AI芯片将推迟推出](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E6%89%BF%E5%8E%8B-%E6%9C%89%E6%8A%A5%E9%81%93%E7%A7%B0%E5%85%B6%E4%B8%AD%E5%9B%BDai%E8%8A%AF%E7%89%87%E5%B0%86%E6%8E%A8%E8%BF%9F%E6%8E%A8%E5%87%BA-fd2de0d6)
+append_entries: 1
+Finish: 2023-11-25 00:42:11.974370
