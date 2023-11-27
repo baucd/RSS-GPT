@@ -2433,3 +2433,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [TikTok能否凭借直播带货碾压亚马逊？](https://cn.wsj.com/articles/tiktok%E8%83%BD%E5%90%A6%E5%87%AD%E5%80%9F%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E7%A2%BE%E5%8E%8B%E4%BA%9A%E9%A9%AC%E9%80%8A-6d9ae959)
 append_entries: 1
 Finish: 2023-11-27 08:13:39.009821
+------------------------------------------------------
+Started: 2023-11-27 10:10:02.557574
+Existing_entries: 215
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-27 10:10:11.991254
