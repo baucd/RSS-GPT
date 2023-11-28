@@ -2475,3 +2475,15 @@ Existing_entries: 215
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-27 22:06:50.966236
+------------------------------------------------------
+Started: 2023-11-28 00:39:42.282990
+Existing_entries: 215
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 819
+Summarized using GPT-3.5-turbo-1106
+Append: [报道：字节跳动计划关闭游戏子公司朝夕光年](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E8%AE%A1%E5%88%92%E5%85%B3%E9%97%AD%E6%B8%B8%E6%88%8F%E5%AD%90%E5%85%AC%E5%8F%B8%E6%9C%9D%E5%A4%95%E5%85%89%E5%B9%B4-672c8bcd)
+Token length: 1795
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：斗鱼CEO涉赌风波或将牵扯出一批头部游戏主播](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%96%97%E9%B1%BCceo%E6%B6%89%E8%B5%8C%E9%A3%8E%E6%B3%A2%E6%88%96%E5%B0%86%E7%89%B5%E6%89%AF%E5%87%BA%E4%B8%80%E6%89%B9%E5%A4%B4%E9%83%A8%E6%B8%B8%E6%88%8F%E4%B8%BB%E6%92%AD-1cdafd7f)
+append_entries: 2
+Finish: 2023-11-28 00:39:59.634937
