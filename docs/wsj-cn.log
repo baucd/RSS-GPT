@@ -2532,3 +2532,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国央行行长潘功胜呼吁加大经济转型力度](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E6%BD%98%E5%8A%9F%E8%83%9C%E5%91%BC%E5%90%81%E5%8A%A0%E5%A4%A7%E7%BB%8F%E6%B5%8E%E8%BD%AC%E5%9E%8B%E5%8A%9B%E5%BA%A6-229d7102)
 append_entries: 1
 Finish: 2023-11-28 08:12:02.078882
+------------------------------------------------------
+Started: 2023-11-28 10:09:27.084726
+Existing_entries: 224
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 406
+Summarized using GPT-3.5-turbo-1106
+Append: [美团利润增长两倍，因中国消费恢复](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%A2%E5%88%A9%E6%B6%A6%E5%A2%9E%E9%95%BF%E4%B8%A4%E5%80%8D-%E5%9B%A0%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E6%81%A2%E5%A4%8D-a639d832)
+Token length: 634
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周二下跌；美元指数创近三个月低点后回升](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%8C%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%88%9B%E8%BF%91%E4%B8%89%E4%B8%AA%E6%9C%88%E4%BD%8E%E7%82%B9%E5%90%8E%E5%9B%9E%E5%8D%87-4455ca27)
+append_entries: 2
+Finish: 2023-11-28 10:14:25.876488
