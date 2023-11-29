@@ -2598,3 +2598,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：斗鱼回应App无法下载：未接到下架通知，正在排查](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%96%97%E9%B1%BC%E5%9B%9E%E5%BA%94app%E6%97%A0%E6%B3%95%E4%B8%8B%E8%BD%BD-%E6%9C%AA%E6%8E%A5%E5%88%B0%E4%B8%8B%E6%9E%B6%E9%80%9A%E7%9F%A5-%E6%AD%A3%E5%9C%A8%E6%8E%92%E6%9F%A5-98ef90c2)
 append_entries: 3
 Finish: 2023-11-29 00:39:52.637427
+------------------------------------------------------
+Started: 2023-11-29 02:22:13.247363
+Existing_entries: 230
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1273
+Summarized using GPT-3.5-turbo-1106
+Append: [Shein仍需向投资者证明它值得入手](https://cn.wsj.com/articles/shein%E4%BB%8D%E9%9C%80%E5%90%91%E6%8A%95%E8%B5%84%E8%80%85%E8%AF%81%E6%98%8E%E5%AE%83%E5%80%BC%E5%BE%97%E5%85%A5%E6%89%8B-342d0555)
+append_entries: 1
+Finish: 2023-11-29 02:22:28.139723
