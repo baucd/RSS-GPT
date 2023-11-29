@@ -2616,3 +2616,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [Shein的IPO申请在华盛顿引发审视](https://cn.wsj.com/articles/shein%E7%9A%84ipo%E7%94%B3%E8%AF%B7%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BC%95%E5%8F%91%E5%AE%A1%E8%A7%86-38653e3a)
 append_entries: 1
 Finish: 2023-11-29 04:10:49.059125
+------------------------------------------------------
+Started: 2023-11-29 06:11:24.838477
+Existing_entries: 232
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 812
+Summarized using GPT-3.5-turbo-1106
+Append: [美团股价大跌，受第四季度增长放缓的展望拖累](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%A2%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C-%E5%8F%97%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93%E7%9A%84%E5%B1%95%E6%9C%9B%E6%8B%96%E7%B4%AF-5aa3ee97)
+Token length: 2195
+Summarized using GPT-3.5-turbo-1106
+Append: [中国电动车企路特斯和极氪将赴美上市，投资者并不一定欢迎](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BC%81%E8%B7%AF%E7%89%B9%E6%96%AF%E5%92%8C%E6%9E%81%E6%B0%AA%E5%B0%86%E8%B5%B4%E7%BE%8E%E4%B8%8A%E5%B8%82-%E6%8A%95%E8%B5%84%E8%80%85%E5%B9%B6%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%AC%A2%E8%BF%8E-ae0701bf)
+Token length: 1476
+Summarized using GPT-3.5-turbo-1106
+Append: [美国审慎关注中国经济“巨无霸”力量的消减](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%85%8E%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E5%B7%A8%E6%97%A0%E9%9C%B8-%E5%8A%9B%E9%87%8F%E7%9A%84%E6%B6%88%E5%87%8F-a0f033c8)
+append_entries: 3
+Finish: 2023-11-29 06:11:48.492781
