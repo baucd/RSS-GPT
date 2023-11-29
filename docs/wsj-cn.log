@@ -2583,3 +2583,18 @@ Existing_entries: 227
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-11-28 22:08:06.543318
+------------------------------------------------------
+Started: 2023-11-29 00:39:34.287711
+Existing_entries: 227
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4162
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：浙江加入发行特殊再融资债券行列](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E6%B5%99%E6%B1%9F%E5%8A%A0%E5%85%A5%E5%8F%91%E8%A1%8C%E7%89%B9%E6%AE%8A%E5%86%8D%E8%9E%8D%E8%B5%84%E5%80%BA%E5%88%B8%E8%A1%8C%E5%88%97-f0c3533f)
+Token length: 646
+Summarized using GPT-3.5-turbo-1106
+Append: [中国电商巨头Temu将再次购买超级碗广告时段](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E5%B7%A8%E5%A4%B4temu%E5%B0%86%E5%86%8D%E6%AC%A1%E8%B4%AD%E4%B9%B0%E8%B6%85%E7%BA%A7%E7%A2%97%E5%B9%BF%E5%91%8A%E6%97%B6%E6%AE%B5-0585d43e)
+Token length: 2209
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：斗鱼回应App无法下载：未接到下架通知，正在排查](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%96%97%E9%B1%BC%E5%9B%9E%E5%BA%94app%E6%97%A0%E6%B3%95%E4%B8%8B%E8%BD%BD-%E6%9C%AA%E6%8E%A5%E5%88%B0%E4%B8%8B%E6%9E%B6%E9%80%9A%E7%9F%A5-%E6%AD%A3%E5%9C%A8%E6%8E%92%E6%9F%A5-98ef90c2)
+append_entries: 3
+Finish: 2023-11-29 00:39:52.637427
