@@ -2658,3 +2658,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [阿里巴巴股价下滑，此前有报道称马云希望公司展开变革](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%A1%E4%BB%B7%E4%B8%8B%E6%BB%91-%E6%AD%A4%E5%89%8D%E6%9C%89%E6%8A%A5%E9%81%93%E7%A7%B0%E9%A9%AC%E4%BA%91%E5%B8%8C%E6%9C%9B%E5%85%AC%E5%8F%B8%E5%B1%95%E5%BC%80%E5%8F%98%E9%9D%A9-c99d8738)
 append_entries: 2
 Finish: 2023-11-29 12:16:07.000177
+------------------------------------------------------
+Started: 2023-11-29 14:08:07.876716
+Existing_entries: 238
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-29 14:08:16.053725
