@@ -2631,3 +2631,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国审慎关注中国经济“巨无霸”力量的消减](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AE%A1%E6%85%8E%E5%85%B3%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E5%B7%A8%E6%97%A0%E9%9C%B8-%E5%8A%9B%E9%87%8F%E7%9A%84%E6%B6%88%E5%87%8F-a0f033c8)
 append_entries: 3
 Finish: 2023-11-29 06:11:48.492781
+------------------------------------------------------
+Started: 2023-11-29 08:11:53.851295
+Existing_entries: 235
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-11-29 08:12:01.211882
