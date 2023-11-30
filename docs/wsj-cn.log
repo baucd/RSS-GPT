@@ -2721,3 +2721,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [蔡英文警告称总统选举前台湾面临中国越来越多的军事恫吓](https://cn.wsj.com/articles/%E8%94%A1%E8%8B%B1%E6%96%87%E8%AD%A6%E5%91%8A%E7%A7%B0%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%89%8D%E5%8F%B0%E6%B9%BE%E9%9D%A2%E4%B8%B4%E4%B8%AD%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%86%9B%E4%BA%8B%E6%81%AB%E5%90%93-753bf36d)
 append_entries: 4
 Finish: 2023-11-30 02:23:00.406104
+------------------------------------------------------
+Started: 2023-11-30 04:10:22.079123
+Existing_entries: 245
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1795
+Summarized using GPT-3.5-turbo-1106
+Append: [中国面临外资流出和留学生减少，令习近平感到担忧](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E5%A4%96%E8%B5%84%E6%B5%81%E5%87%BA%E5%92%8C%E7%95%99%E5%AD%A6%E7%94%9F%E5%87%8F%E5%B0%91-%E4%BB%A4%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%84%9F%E5%88%B0%E6%8B%85%E5%BF%A7-d93ab427)
+append_entries: 1
+Finish: 2023-11-30 04:10:32.212063

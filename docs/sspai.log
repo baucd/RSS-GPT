@@ -8907,3 +8907,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：红米发布 K70 系列、Google 公布 2023 年 Play Store 最佳榜单](https://sspai.com/post/84727)
 append_entries: 1
 Finish: 2023-11-30 02:22:29.687253
+------------------------------------------------------
+Started: 2023-11-30 04:10:17.563574
+Existing_entries: 283
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2023-11-30 04:10:21.403132
