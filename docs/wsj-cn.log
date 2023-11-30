@@ -2703,3 +2703,21 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：马云就拼多多市值逼近阿里在内部发声：坚信阿里会变，阿里会改](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E9%A9%AC%E4%BA%91%E5%B0%B1%E6%8B%BC%E5%A4%9A%E5%A4%9A%E5%B8%82%E5%80%BC%E9%80%BC%E8%BF%91%E9%98%BF%E9%87%8C%E5%9C%A8%E5%86%85%E9%83%A8%E5%8F%91%E5%A3%B0-%E5%9D%9A%E4%BF%A1%E9%98%BF%E9%87%8C%E4%BC%9A%E5%8F%98-%E9%98%BF%E9%87%8C%E4%BC%9A%E6%94%B9-c025bfa0)
 append_entries: 3
 Finish: 2023-11-30 00:39:39.976858
+------------------------------------------------------
+Started: 2023-11-30 02:22:30.370499
+Existing_entries: 241
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1257
+Summarized using GPT-3.5-turbo-1106
+Append: [汇丰CEO：对中国经济仍有信心，在中国并不用一次性手机](https://cn.wsj.com/articles/%E6%B1%87%E4%B8%B0ceo-%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%BB%8D%E6%9C%89%E4%BF%A1%E5%BF%83-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B9%B6%E4%B8%8D%E7%94%A8%E4%B8%80%E6%AC%A1%E6%80%A7%E6%89%8B%E6%9C%BA-5381c2f8)
+Token length: 1341
+Summarized using GPT-3.5-turbo-1106
+Append: [中国11月官方制造业PMI进一步降至49.4，逊于预期，需求仍不足](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E8%BF%9B%E4%B8%80%E6%AD%A5%E9%99%8D%E8%87%B349-4-%E9%80%8A%E4%BA%8E%E9%A2%84%E6%9C%9F-e97b1bc4)
+Token length: 964
+Summarized using GPT-3.5-turbo-1106
+Append: [中国11月官方非制造业PMI降至50.2，创年内新低](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%AE%98%E6%96%B9%E9%9D%9E%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E9%99%8D%E8%87%B350-2-%E5%88%9B%E5%B9%B4%E5%86%85%E6%96%B0%E4%BD%8E-93471bcb)
+Token length: 818
+Summarized using GPT-3.5-turbo-1106
+Append: [蔡英文警告称总统选举前台湾面临中国越来越多的军事恫吓](https://cn.wsj.com/articles/%E8%94%A1%E8%8B%B1%E6%96%87%E8%AD%A6%E5%91%8A%E7%A7%B0%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%89%8D%E5%8F%B0%E6%B9%BE%E9%9D%A2%E4%B8%B4%E4%B8%AD%E5%9B%BD%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%86%9B%E4%BA%8B%E6%81%AB%E5%90%93-753bf36d)
+append_entries: 4
+Finish: 2023-11-30 02:23:00.406104
