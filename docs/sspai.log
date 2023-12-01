@@ -8991,3 +8991,10 @@ Existing_entries: 287
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-12-01 02:27:58.278356
+------------------------------------------------------
+Started: 2023-12-01 04:10:38.822784
+Existing_entries: 287
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai
