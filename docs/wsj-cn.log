@@ -2868,3 +2868,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [拼多多超越阿里巴巴，成为最具价值的中国电商股](https://cn.wsj.com/articles/%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%B6%85%E8%B6%8A%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4-%E6%88%90%E4%B8%BA%E6%9C%80%E5%85%B7%E4%BB%B7%E5%80%BC%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E8%82%A1-a864bfa8)
 append_entries: 1
 Finish: 2023-12-01 12:15:52.249153
+------------------------------------------------------
+Started: 2023-12-01 14:08:07.614374
+Existing_entries: 260
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-01 14:08:15.182772
