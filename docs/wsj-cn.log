@@ -2850,3 +2850,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [地缘政治等重大风险令外国投资者避开中国](https://cn.wsj.com/articles/%E9%87%8D%E5%A4%A7%E9%A3%8E%E9%99%A9%E4%BB%A4%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E7%BA%B7%E7%BA%B7%E9%81%BF%E5%BC%80%E4%B8%AD%E5%9B%BD-bddea220)
 append_entries: 1
 Finish: 2023-12-01 08:11:37.461305
+------------------------------------------------------
+Started: 2023-12-01 10:09:36.769366
+Existing_entries: 258
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 524
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币连跌两日，美元指数前夜急弹](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9E%E8%B7%8C%E4%B8%A4%E6%97%A5-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%89%8D%E5%A4%9C%E6%80%A5%E5%BC%B9-9d5e1010)
+append_entries: 1
+Finish: 2023-12-01 10:09:49.077710
