@@ -2841,3 +2841,12 @@ Existing_entries: 257
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-01 06:12:24.554253
+------------------------------------------------------
+Started: 2023-12-01 08:11:22.734804
+Existing_entries: 257
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2441
+Summarized using GPT-3.5-turbo-1106
+Append: [地缘政治等重大风险令外国投资者避开中国](https://cn.wsj.com/articles/%E9%87%8D%E5%A4%A7%E9%A3%8E%E9%99%A9%E4%BB%A4%E5%A4%96%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E7%BA%B7%E7%BA%B7%E9%81%BF%E5%BC%80%E4%B8%AD%E5%9B%BD-bddea220)
+append_entries: 1
+Finish: 2023-12-01 08:11:37.461305
