@@ -8998,3 +8998,12 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2023-12-01 06:11:59.301945
+Existing_entries: 287
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 5953
+Summarized using GPT-3.5-turbo-1106
+Append: [诗之所向，素履以往：我的浙东摩旅记录](https://sspai.com/post/84702)
+append_entries: 1
+Finish: 2023-12-01 06:12:16.602410
