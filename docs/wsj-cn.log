@@ -2916,3 +2916,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：理想11月交付同比增1.7倍；提前完成全年30万辆销量目标](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E7%90%86%E6%83%B311%E6%9C%88%E4%BA%A4%E4%BB%98%E5%90%8C%E6%AF%94%E5%A2%9E1-7%E5%80%8D-%E6%8F%90%E5%89%8D%E5%AE%8C%E6%88%90%E5%85%A8%E5%B9%B430%E4%B8%87%E8%BE%86%E9%94%80%E9%87%8F%E7%9B%AE%E6%A0%87-e0efc96d)
 append_entries: 2
 Finish: 2023-12-02 02:18:14.240639
+------------------------------------------------------
+Started: 2023-12-02 04:12:20.909716
+Existing_entries: 262
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-02 04:12:28.481192
