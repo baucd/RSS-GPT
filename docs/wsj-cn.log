@@ -2904,3 +2904,15 @@ Existing_entries: 260
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-02 00:38:15.818302
+------------------------------------------------------
+Started: 2023-12-02 02:17:58.924687
+Existing_entries: 260
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 965
+Summarized using GPT-3.5-turbo-1106
+Append: [拜登政府的电动汽车补贴新规为中国供应商留有余地](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E7%9A%84%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%A1%A5%E8%B4%B4%E6%96%B0%E8%A7%84%E4%B8%BA%E4%B8%AD%E5%9B%BD%E4%BE%9B%E5%BA%94%E5%95%86%E7%95%99%E6%9C%89%E4%BD%99%E5%9C%B0-09bbc343)
+Token length: 2600
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：理想11月交付同比增1.7倍；提前完成全年30万辆销量目标](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E7%90%86%E6%83%B311%E6%9C%88%E4%BA%A4%E4%BB%98%E5%90%8C%E6%AF%94%E5%A2%9E1-7%E5%80%8D-%E6%8F%90%E5%89%8D%E5%AE%8C%E6%88%90%E5%85%A8%E5%B9%B430%E4%B8%87%E8%BE%86%E9%94%80%E9%87%8F%E7%9B%AE%E6%A0%87-e0efc96d)
+append_entries: 2
+Finish: 2023-12-02 02:18:14.240639
