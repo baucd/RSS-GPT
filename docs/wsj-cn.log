@@ -3087,3 +3087,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [数百亿美元的美国资金并未说服发展中国家弃煤](https://cn.wsj.com/articles/%E6%95%B0%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E7%BE%8E%E5%9B%BD%E8%B5%84%E9%87%91%E5%B9%B6%E6%9C%AA%E8%AF%B4%E6%9C%8D%E5%8F%91%E5%B1%95%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BC%83%E7%85%A4-98aaf56c)
 append_entries: 2
 Finish: 2023-12-04 06:12:37.524458
+------------------------------------------------------
+Started: 2023-12-04 08:12:03.858629
+Existing_entries: 267
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-04 08:12:11.134508
