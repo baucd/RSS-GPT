@@ -3063,3 +3063,15 @@ Existing_entries: 263
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-04 02:23:52.058584
+------------------------------------------------------
+Started: 2023-12-04 04:10:46.686681
+Existing_entries: 263
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2887
+Summarized using GPT-3.5-turbo-1106
+Append: [荒凉小岛上的250名居民努力避开中国船只](https://cn.wsj.com/articles/%E8%8D%92%E5%87%89%E5%B0%8F%E5%B2%9B%E4%B8%8A%E7%9A%84250%E5%90%8D%E5%B1%85%E6%B0%91%E5%8A%AA%E5%8A%9B%E9%81%BF%E5%BC%80%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA-4a41bc1b)
+Token length: 2800
+Summarized using GPT-3.5-turbo-1106
+Append: [路易威登借香港大秀宣示对中国市场的重视](https://cn.wsj.com/articles/%E8%B7%AF%E6%98%93%E5%A8%81%E7%99%BB%E5%80%9F%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%A7%80%E5%AE%A3%E7%A4%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E7%9A%84%E9%87%8D%E8%A7%86-1302afda)
+append_entries: 2
+Finish: 2023-12-04 04:11:01.277803
