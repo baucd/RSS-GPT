@@ -3057,3 +3057,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国财经媒体报道汇总：央行行长潘功胜：保持货币信贷总量和社会融资规模合理增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E6%BD%98%E5%8A%9F%E8%83%9C-%E4%BF%9D%E6%8C%81%E8%B4%A7%E5%B8%81%E4%BF%A1%E8%B4%B7%E6%80%BB%E9%87%8F%E5%92%8C%E7%A4%BE%E4%BC%9A%E8%9E%8D%E8%B5%84%E8%A7%84%E6%A8%A1%E5%90%88%E7%90%86%E5%A2%9E%E9%95%BF-55bf0bec)
 append_entries: 1
 Finish: 2023-12-04 00:40:03.409251
+------------------------------------------------------
+Started: 2023-12-04 02:23:44.052011
+Existing_entries: 263
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-04 02:23:52.058584
