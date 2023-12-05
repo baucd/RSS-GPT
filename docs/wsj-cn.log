@@ -3159,3 +3159,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国恒大暂时逃过一劫，清盘聆讯延期获批](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E6%9A%82%E6%97%B6%E9%80%83%E8%BF%87%E4%B8%80%E5%8A%AB-%E6%B8%85%E7%9B%98%E8%81%86%E8%AE%AF%E5%BB%B6%E6%9C%9F%E8%8E%B7%E6%89%B9-8926c8e1)
 append_entries: 2
 Finish: 2023-12-05 02:24:11.880744
+------------------------------------------------------
+Started: 2023-12-05 04:10:26.951390
+Existing_entries: 271
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1972
+Summarized using GPT-3.5-turbo-1106
+Append: [香港社运领袖周庭在赴内地接受爱国教育后弃保流亡](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E7%A4%BE%E8%BF%90%E9%A2%86%E8%A2%96%E5%91%A8%E5%BA%AD%E5%9C%A8%E8%B5%B4%E5%86%85%E5%9C%B0%E6%8E%A5%E5%8F%97%E7%88%B1%E5%9B%BD%E6%95%99%E8%82%B2%E5%90%8E%E5%BC%83%E4%BF%9D%E6%B5%81%E4%BA%A1-c42a229d)
+Token length: 2082
+Summarized using GPT-3.5-turbo-1106
+Append: [亨特·拜登通过中国商业交易相关账户向其父汇款，共和党人认为“偿还卡车费用”的说辞不实](https://cn.wsj.com/articles/%E4%BA%A8%E7%89%B9-%E6%8B%9C%E7%99%BB%E9%80%9A%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%95%86%E4%B8%9A%E4%BA%A4%E6%98%93%E7%9B%B8%E5%85%B3%E8%B4%A6%E6%88%B7%E5%90%91%E5%85%B6%E7%88%B6%E6%B1%87%E6%AC%BE-%E5%85%B1%E5%92%8C%E5%85%9A%E4%BA%BA%E8%B4%A8%E7%96%91%E5%B9%B6%E9%9D%9E%E5%81%BF%E8%BF%98%E5%8D%A1%E8%BD%A6%E8%B4%B9%E7%94%A8-66e2de95)
+Token length: 1111
+Summarized using GPT-3.5-turbo-1106
+Append: [财新11月中国服务业PMI升至51.5、综合PMI升至51.6，均创三个月新高](https://cn.wsj.com/articles/%E8%B4%A2%E6%96%B011%E6%9C%88%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9Apmi%E5%8D%87%E8%87%B351-5-%E7%BB%BC%E5%90%88pmi%E5%8D%87%E8%87%B351-6-%E5%9D%87%E5%88%9B%E4%B8%89%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98-33f41fba)
+append_entries: 3
+Finish: 2023-12-05 04:10:47.537866
