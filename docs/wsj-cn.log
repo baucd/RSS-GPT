@@ -3252,3 +3252,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：理想汽车：上周销量0.96万辆，本月全力冲刺月销5万辆](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6-%E4%B8%8A%E5%91%A8%E9%94%80%E9%87%8F0-96%E4%B8%87%E8%BE%86-%E6%9C%AC%E6%9C%88%E5%85%A8%E5%8A%9B%E5%86%B2%E5%88%BA%E6%9C%88%E9%94%805%E4%B8%87%E8%BE%86-a711d9f2)
 append_entries: 1
 Finish: 2023-12-06 00:40:15.310690
+------------------------------------------------------
+Started: 2023-12-06 02:23:05.658561
+Existing_entries: 280
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3953
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：财政部就穆迪下调中国主权信用评级展望有关问题答记者问](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E8%B4%A2%E6%94%BF%E9%83%A8%E5%B0%B1%E7%A9%86%E8%BF%AA%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E4%B8%BB%E6%9D%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7%E5%B1%95%E6%9C%9B%E6%9C%89%E5%85%B3%E9%97%AE%E9%A2%98%E7%AD%94%E8%AE%B0%E8%80%85%E9%97%AE-fcde138b)
+append_entries: 1
+Finish: 2023-12-06 02:23:21.850651
