@@ -3288,3 +3288,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周三下跌](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E4%B8%8B%E8%B7%8C-364916cb)
 append_entries: 1
 Finish: 2023-12-06 10:09:31.617350
+------------------------------------------------------
+Started: 2023-12-06 12:15:44.081958
+Existing_entries: 282
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-06 12:15:52.030546
