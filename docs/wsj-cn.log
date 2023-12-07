@@ -3396,3 +3396,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [华尔街金融机构已削减在华投资](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%B7%B2%E5%89%8A%E5%87%8F%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84-014936a5)
 append_entries: 1
 Finish: 2023-12-07 12:15:41.227901
+------------------------------------------------------
+Started: 2023-12-07 14:08:12.520825
+Existing_entries: 292
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-07 14:08:35.465687
