@@ -3387,3 +3387,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国外储连降三个月后转为增长，也强于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%82%A8%E8%BF%9E%E9%99%8D%E4%B8%89%E4%B8%AA%E6%9C%88%E5%90%8E%E8%BD%AC%E4%B8%BA%E5%A2%9E%E9%95%BF-%E4%B9%9F%E5%BC%BA%E4%BA%8E%E9%A2%84%E6%9C%9F-a638ab49)
 append_entries: 2
 Finish: 2023-12-07 10:09:50.949041
+------------------------------------------------------
+Started: 2023-12-07 12:15:28.078353
+Existing_entries: 291
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4550
+Summarized using GPT-3.5-turbo-1106
+Append: [华尔街金融机构已削减在华投资](https://cn.wsj.com/articles/%E5%8D%8E%E5%B0%94%E8%A1%97%E9%87%91%E8%9E%8D%E6%9C%BA%E6%9E%84%E5%B7%B2%E5%89%8A%E5%87%8F%E5%9C%A8%E5%8D%8E%E6%8A%95%E8%B5%84-014936a5)
+append_entries: 1
+Finish: 2023-12-07 12:15:41.227901
