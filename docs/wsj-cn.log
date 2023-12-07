@@ -3369,3 +3369,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [金价再创新高，现在买入是否为时已晚？](https://cn.wsj.com/articles/%E9%87%91%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98-%E7%8E%B0%E5%9C%A8%E4%B9%B0%E5%85%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E6%97%B6%E5%B7%B2%E6%99%9A-2ff95611)
 append_entries: 1
 Finish: 2023-12-07 06:11:58.468601
+------------------------------------------------------
+Started: 2023-12-07 08:11:19.631514
+Existing_entries: 289
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-07 08:11:25.928957
