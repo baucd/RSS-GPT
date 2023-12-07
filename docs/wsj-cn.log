@@ -3375,3 +3375,15 @@ Existing_entries: 289
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-07 08:11:25.928957
+------------------------------------------------------
+Started: 2023-12-07 10:09:35.301211
+Existing_entries: 289
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 657
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周四上涨](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E5%9B%9B%E4%B8%8A%E6%B6%A8-04a0c913)
+Token length: 506
+Summarized using GPT-3.5-turbo-1106
+Append: [中国外储连降三个月后转为增长，也强于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%96%E5%82%A8%E8%BF%9E%E9%99%8D%E4%B8%89%E4%B8%AA%E6%9C%88%E5%90%8E%E8%BD%AC%E4%B8%BA%E5%A2%9E%E9%95%BF-%E4%B9%9F%E5%BC%BA%E4%BA%8E%E9%A2%84%E6%9C%9F-a638ab49)
+append_entries: 2
+Finish: 2023-12-07 10:09:50.949041
