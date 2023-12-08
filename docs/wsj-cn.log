@@ -3489,3 +3489,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [苹果公司计划在印度生产四分之一的iPhone](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84iphone-ba82ac6d)
 append_entries: 1
 Finish: 2023-12-08 08:11:46.680175
+------------------------------------------------------
+Started: 2023-12-08 10:09:06.829014
+Existing_entries: 303
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 802
+Summarized using GPT-3.5-turbo-1106
+Append: [中央政治局：今年经济回升向好，明年要加大宏观调控力度](https://cn.wsj.com/articles/%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80-%E4%BB%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD-%E6%98%8E%E5%B9%B4%E8%A6%81%E5%8A%A0%E5%A4%A7%E5%AE%8F%E8%A7%82%E8%B0%83%E6%8E%A7%E5%8A%9B%E5%BA%A6-70e49b30)
+Token length: 585
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周五下跌](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E4%B8%8B%E8%B7%8C-d634253e)
+append_entries: 2
+Finish: 2023-12-08 10:09:24.386917
