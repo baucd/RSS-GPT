@@ -3480,3 +3480,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国教培企业是如何挺过整顿风暴的？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%99%E5%9F%B9%E4%BC%81%E4%B8%9A%E6%98%AF%E5%A6%82%E4%BD%95%E6%8C%BA%E8%BF%87%E6%95%B4%E9%A1%BF%E9%A3%8E%E6%9A%B4%E7%9A%84-7b20daa5)
 append_entries: 1
 Finish: 2023-12-08 06:11:49.304797
+------------------------------------------------------
+Started: 2023-12-08 08:11:35.284708
+Existing_entries: 302
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3242
+Summarized using GPT-3.5-turbo-1106
+Append: [苹果公司计划在印度生产四分之一的iPhone](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%94%9F%E4%BA%A7%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E7%9A%84iphone-ba82ac6d)
+append_entries: 1
+Finish: 2023-12-08 08:11:46.680175
