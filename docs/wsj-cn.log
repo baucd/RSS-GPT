@@ -3471,3 +3471,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [印度股市市值突破4万亿美元，投资者涌入这个全球增长最快的经济体](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B44%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83-%E6%8A%95%E8%B5%84%E8%80%85%E6%B6%8C%E5%85%A5%E8%BF%99%E4%B8%AA%E5%85%A8%E7%90%83%E5%A2%9E%E9%95%BF%E6%9C%80%E5%BF%AB%E7%9A%84%E7%BB%8F%E6%B5%8E%E4%BD%93-863106fa)
 append_entries: 4
 Finish: 2023-12-08 04:11:05.803098
+------------------------------------------------------
+Started: 2023-12-08 06:11:35.800246
+Existing_entries: 301
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1254
+Summarized using GPT-3.5-turbo-1106
+Append: [中国教培企业是如何挺过整顿风暴的？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%99%E5%9F%B9%E4%BC%81%E4%B8%9A%E6%98%AF%E5%A6%82%E4%BD%95%E6%8C%BA%E8%BF%87%E6%95%B4%E9%A1%BF%E9%A3%8E%E6%9A%B4%E7%9A%84-7b20daa5)
+append_entries: 1
+Finish: 2023-12-08 06:11:49.304797
