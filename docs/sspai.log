@@ -9803,3 +9803,12 @@ Existing_entries: 319
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-12-11 00:40:25.533064
+------------------------------------------------------
+Started: 2023-12-11 02:23:33.549704
+Existing_entries: 319
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 3528
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：苹果封杀 iMessage 兼容应用 Beeper Mini](https://sspai.com/post/84962)
+append_entries: 1
+Finish: 2023-12-11 02:23:42.178778
