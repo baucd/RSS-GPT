@@ -3726,3 +3726,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国11月未能摆脱通缩](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E6%9C%AA%E8%83%BD%E6%91%86%E8%84%B1%E9%80%9A%E7%BC%A9-21d5c731)
 append_entries: 3
 Finish: 2023-12-11 04:11:29.863272
+------------------------------------------------------
+Started: 2023-12-11 06:12:04.271807
+Existing_entries: 314
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 575
+Summarized using GPT-3.5-turbo-1106
+Append: [TikTok将在与印尼GoTo Group的交易中投资逾15亿美元](https://cn.wsj.com/articles/tiktok%E5%B0%86%E5%9C%A8%E4%B8%8E%E5%8D%B0%E5%B0%BCgoto-group%E7%9A%84%E4%BA%A4%E6%98%93%E4%B8%AD%E6%8A%95%E8%B5%84%E9%80%BE15%E4%BA%BF%E7%BE%8E%E5%85%83-2dfa73f9)
+append_entries: 1
+Finish: 2023-12-11 06:12:16.818016
