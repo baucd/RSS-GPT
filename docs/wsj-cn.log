@@ -3741,3 +3741,12 @@ Existing_entries: 315
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-11 08:12:33.318340
+------------------------------------------------------
+Started: 2023-12-11 10:10:21.251900
+Existing_entries: 315
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2967
+Summarized using GPT-3.5-turbo-1106
+Append: [中国汽车厂商引领“亚洲底特律”电动化转型](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%8E%82%E5%95%86%E5%BC%95%E9%A2%86-%E4%BA%9A%E6%B4%B2%E5%BA%95%E7%89%B9%E5%BE%8B-%E7%94%B5%E5%8A%A8%E5%8C%96%E8%BD%AC%E5%9E%8B-69f059a7)
+append_entries: 1
+Finish: 2023-12-11 10:10:36.260656
