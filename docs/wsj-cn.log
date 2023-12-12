@@ -3846,3 +3846,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国公司发现与“中国制造”脱钩并非易事](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%8F%91%E7%8E%B0%E4%B8%8E-%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0-%E8%84%B1%E9%92%A9%E5%B9%B6%E9%9D%9E%E6%98%93%E4%BA%8B-dd542a21)
 append_entries: 2
 Finish: 2023-12-12 10:09:55.971910
+------------------------------------------------------
+Started: 2023-12-12 12:15:49.728112
+Existing_entries: 324
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-12 12:15:57.422539
