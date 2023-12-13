@@ -3918,3 +3918,12 @@ Existing_entries: 328
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-13 06:11:56.700802
+------------------------------------------------------
+Started: 2023-12-13 08:11:27.441151
+Existing_entries: 328
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2782
+Summarized using GPT-3.5-turbo-1106
+Append: [中国改变处理新兴市场债务危机的方式，令华尔街措手不及](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%B9%E5%8F%98%E6%96%B0%E5%85%B4%E5%B8%82%E5%9C%BA%E5%80%BA%E5%8A%A1%E9%87%8D%E7%BB%84%E6%96%B9%E5%BC%8F-%E4%BB%A4%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8E%AA%E6%89%8B%E4%B8%8D%E5%8F%8A-5b22c26f)
+append_entries: 1
+Finish: 2023-12-13 08:11:42.339372
