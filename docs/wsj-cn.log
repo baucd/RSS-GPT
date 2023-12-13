@@ -3936,3 +3936,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币下跌](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8B%E8%B7%8C-8d81574c)
 append_entries: 1
 Finish: 2023-12-13 10:09:52.876058
+------------------------------------------------------
+Started: 2023-12-13 12:15:43.606026
+Existing_entries: 330
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 808
+Summarized using GPT-3.5-turbo-1106
+Append: [中国11月新增信贷和社融增量环比均明显增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E6%96%B0%E5%A2%9E%E4%BF%A1%E8%B4%B7%E5%92%8C%E7%A4%BE%E8%9E%8D%E5%A2%9E%E9%87%8F%E7%8E%AF%E6%AF%94%E5%9D%87%E6%98%8E%E6%98%BE%E5%A2%9E%E9%95%BF-514064a9)
+append_entries: 1
+Finish: 2023-12-13 12:15:57.491981
