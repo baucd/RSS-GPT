@@ -3984,3 +3984,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：蚂蚁集团宣布新一轮职级体系改革](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E8%81%8C%E7%BA%A7%E4%BD%93%E7%B3%BB%E6%94%B9%E9%9D%A9-28f569da)
 append_entries: 1
 Finish: 2023-12-14 00:39:13.352062
+------------------------------------------------------
+Started: 2023-12-14 02:21:44.472339
+Existing_entries: 332
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 472
+Summarized using GPT-3.5-turbo-1106
+Append: [碧桂园将出售人民币30.7亿元资产以协助债务重组](https://cn.wsj.com/articles/%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%B0%86%E5%87%BA%E5%94%AE%E4%BA%BA%E6%B0%91%E5%B8%8130-7%E4%BA%BF%E5%85%83%E8%B5%84%E4%BA%A7%E4%BB%A5%E5%8D%8F%E5%8A%A9%E5%80%BA%E5%8A%A1%E9%87%8D%E7%BB%84-6ea753e7)
+Token length: 3793
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：国务院同意《横琴粤澳深度合作区总体发展规划》等多个规划](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%9B%BD%E5%8A%A1%E9%99%A2%E5%90%8C%E6%84%8F-%E6%A8%AA%E7%90%B4%E7%B2%A4%E6%BE%B3%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E5%8C%BA%E6%80%BB%E4%BD%93%E5%8F%91%E5%B1%95%E8%A7%84%E5%88%92-%E7%AD%89%E5%A4%9A%E4%B8%AA%E8%A7%84%E5%88%92-2a599e65)
+append_entries: 2
+Finish: 2023-12-14 02:22:02.387552
