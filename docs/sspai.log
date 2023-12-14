@@ -10055,3 +10055,12 @@ Existing_entries: 333
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2023-12-13 22:08:01.500705
+------------------------------------------------------
+Started: 2023-12-14 00:38:51.635519
+Existing_entries: 333
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 2242
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Google Bard 提升 YouTube 解析能力、OmniFocus 4 发布等](https://sspai.com/post/85058)
+append_entries: 1
+Finish: 2023-12-14 00:39:01.786838

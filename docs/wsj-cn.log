@@ -3975,3 +3975,12 @@ Existing_entries: 331
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-13 22:08:11.050952
+------------------------------------------------------
+Started: 2023-12-14 00:39:02.724245
+Existing_entries: 331
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2559
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：蚂蚁集团宣布新一轮职级体系改革](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E8%9A%82%E8%9A%81%E9%9B%86%E5%9B%A2%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E8%81%8C%E7%BA%A7%E4%BD%93%E7%B3%BB%E6%94%B9%E9%9D%A9-28f569da)
+append_entries: 1
+Finish: 2023-12-14 00:39:13.352062
