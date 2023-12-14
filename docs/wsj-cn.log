@@ -4023,3 +4023,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周四飙升](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E5%9B%9B%E9%A3%99%E5%8D%87-3d12c2ef)
 append_entries: 1
 Finish: 2023-12-14 10:10:04.103008
+------------------------------------------------------
+Started: 2023-12-14 12:15:35.871729
+Existing_entries: 335
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-14 12:15:46.838384
