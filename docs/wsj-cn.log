@@ -4176,3 +4176,15 @@ Existing_entries: 352
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-15 20:09:17.645339
+------------------------------------------------------
+Started: 2023-12-15 22:07:52.689179
+Existing_entries: 352
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 671
+Summarized using GPT-3.5-turbo-1106
+Append: [IEA称全球煤炭需求料在2023年创历史新高](https://cn.wsj.com/articles/iea%E7%A7%B0%E5%85%A8%E7%90%83%E7%85%A4%E7%82%AD%E9%9C%80%E6%B1%82%E6%96%99%E5%9C%A82023%E5%B9%B4%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98-df041692)
+Token length: 2628
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：东方甄选14日自营产品销售额创下最高纪录，称将坚守产品路线](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%8914%E6%97%A5%E8%87%AA%E8%90%A5%E4%BA%A7%E5%93%81%E9%94%80%E5%94%AE%E9%A2%9D%E5%88%9B%E4%B8%8B%E6%9C%80%E9%AB%98%E7%BA%AA%E5%BD%95-%E7%A7%B0%E5%B0%86%E5%9D%9A%E5%AE%88%E4%BA%A7%E5%93%81%E8%B7%AF%E7%BA%BF-c1debfc9)
+append_entries: 2
+Finish: 2023-12-15 22:08:07.602111
