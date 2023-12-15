@@ -10197,3 +10197,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [本周看什么 | 最近值得一看的一大列作品](https://sspai.com/post/85106)
 append_entries: 1
 Finish: 2023-12-15 12:15:19.238752
+------------------------------------------------------
+Started: 2023-12-15 14:08:10.957193
+Existing_entries: 342
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2023-12-15 14:08:18.423693
