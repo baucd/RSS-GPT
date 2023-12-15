@@ -4104,3 +4104,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国11月零售额同比增10.1%，连续四个月加快，但不及预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E9%9B%B6%E5%94%AE%E9%A2%9D%E5%90%8C%E6%AF%94%E5%A2%9E10-1-%E8%BF%9E%E7%BB%AD%E5%9B%9B%E4%B8%AA%E6%9C%88%E5%8A%A0%E5%BF%AB-%E4%BD%86%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-0aff2882)
 append_entries: 5
 Finish: 2023-12-15 04:11:23.054078
+------------------------------------------------------
+Started: 2023-12-15 06:11:51.233711
+Existing_entries: 344
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1860
+Summarized using GPT-3.5-turbo-1106
+Append: [中国11月工业增长强劲，但消费和投资逊于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%B7%A5%E4%B8%9A%E5%A2%9E%E9%95%BF%E5%BC%BA%E5%8A%B2-%E4%BD%86%E6%B6%88%E8%B4%B9%E5%92%8C%E6%8A%95%E8%B5%84%E9%80%8A%E4%BA%8E%E9%A2%84%E6%9C%9F-b19a04c5)
+append_entries: 1
+Finish: 2023-12-15 06:12:04.260885
