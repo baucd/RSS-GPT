@@ -4113,3 +4113,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国11月工业增长强劲，但消费和投资逊于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E5%B7%A5%E4%B8%9A%E5%A2%9E%E9%95%BF%E5%BC%BA%E5%8A%B2-%E4%BD%86%E6%B6%88%E8%B4%B9%E5%92%8C%E6%8A%95%E8%B5%84%E9%80%8A%E4%BA%8E%E9%A2%84%E6%9C%9F-b19a04c5)
 append_entries: 1
 Finish: 2023-12-15 06:12:04.260885
+------------------------------------------------------
+Started: 2023-12-15 08:11:29.434647
+Existing_entries: 345
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3129
+Summarized using GPT-3.5-turbo-1106
+Append: [打造“无中国”供应链之路遭遇不同寻常的障碍：无腿蜥蜴](https://cn.wsj.com/articles/%E6%89%93%E9%80%A0-%E6%97%A0%E4%B8%AD%E5%9B%BD-%E4%BE%9B%E5%BA%94%E9%93%BE%E4%B9%8B%E8%B7%AF%E9%81%AD%E9%81%87%E4%B8%8D%E5%90%8C%E5%AF%BB%E5%B8%B8%E7%9A%84%E9%9A%9C%E7%A2%8D-%E6%97%A0%E8%85%BF%E8%9C%A5%E8%9C%B4-361eb5fd)
+Token length: 1172
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产股走高，受上海、北京放宽购房政策推动](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E8%B5%B0%E9%AB%98-%E5%8F%97%E4%B8%8A%E6%B5%B7-%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E8%B4%AD%E6%88%BF%E6%94%BF%E7%AD%96%E6%8E%A8%E5%8A%A8-7ced599c)
+append_entries: 2
+Finish: 2023-12-15 08:11:55.047498
