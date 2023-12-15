@@ -4059,3 +4059,15 @@ Existing_entries: 335
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-14 22:08:16.983774
+------------------------------------------------------
+Started: 2023-12-15 00:40:10.314232
+Existing_entries: 335
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3258
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：东方甄选深陷内讧风波](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%B7%B1%E9%99%B7%E5%86%85%E8%AE%A7%E9%A3%8E%E6%B3%A2-a8d65da2)
+Token length: 786
+Summarized using GPT-3.5-turbo-1106
+Append: [国际能源署：明年全球石油需求增长预计将放缓](https://cn.wsj.com/articles/%E5%9B%BD%E9%99%85%E8%83%BD%E6%BA%90%E7%BD%B2-%E6%98%8E%E5%B9%B4%E5%85%A8%E7%90%83%E7%9F%B3%E6%B2%B9%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%BF%E9%A2%84%E8%AE%A1%E5%B0%86%E6%94%BE%E7%BC%93-16c335b3)
+append_entries: 2
+Finish: 2023-12-15 00:40:28.259570
