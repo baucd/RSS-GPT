@@ -4125,3 +4125,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国房地产股走高，受上海、北京放宽购房政策推动](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E8%B5%B0%E9%AB%98-%E5%8F%97%E4%B8%8A%E6%B5%B7-%E5%8C%97%E4%BA%AC%E6%94%BE%E5%AE%BD%E8%B4%AD%E6%88%BF%E6%94%BF%E7%AD%96%E6%8E%A8%E5%8A%A8-7ced599c)
 append_entries: 2
 Finish: 2023-12-15 08:11:55.047498
+------------------------------------------------------
+Started: 2023-12-15 10:09:21.204650
+Existing_entries: 347
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 535
+Summarized using GPT-3.5-turbo-1106
+Append: [11月中国央行口径外汇占款环比三连增](https://cn.wsj.com/articles/11%E6%9C%88%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%8F%A3%E5%BE%84%E5%A4%96%E6%B1%87%E5%8D%A0%E6%AC%BE%E7%8E%AF%E6%AF%94%E4%B8%89%E8%BF%9E%E5%A2%9E-755c09a0)
+Token length: 780
+Summarized using GPT-3.5-turbo-1106
+Append: [中国1-11月财政收支同比各增7.9%和4.9%，前者持续放缓](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1-11%E6%9C%88%E8%B4%A2%E6%94%BF%E6%94%B6%E6%94%AF%E5%90%8C%E6%AF%94%E5%90%84%E5%A2%9E7-9-%E5%92%8C4-9-%E5%89%8D%E8%80%85%E6%8C%81%E7%BB%AD%E6%94%BE%E7%BC%93-f25bf1cc)
+Token length: 655
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周五继续急弹](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E7%BB%A7%E7%BB%AD%E6%80%A5%E5%BC%B9-89776e4d)
+append_entries: 3
+Finish: 2023-12-15 10:09:43.647648
