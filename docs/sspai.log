@@ -10392,3 +10392,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：字节跳动回应被 OpenAI 停用账户](https://sspai.com/post/85139)
 append_entries: 1
 Finish: 2023-12-18 02:23:28.673110
+------------------------------------------------------
+Started: 2023-12-18 04:11:03.440794
+Existing_entries: 345
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 6365
+Summarized using GPT-3.5-turbo-1106
+Append: [抛开品牌情绪，小米 14 Pro 的体验究竟如何？](https://sspai.com/post/85064)
+append_entries: 1
+Finish: 2023-12-18 04:11:17.290953
