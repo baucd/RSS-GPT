@@ -4401,3 +4401,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [蔚来集团获阿布扎比投资者22亿美元投资，股价盘前大涨](https://cn.wsj.com/articles/%E8%94%9A%E6%9D%A5%E9%9B%86%E5%9B%A2%E8%8E%B7%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E6%8A%95%E8%B5%84%E8%80%8522%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84-%E8%82%A1%E4%BB%B7%E7%9B%98%E5%89%8D%E5%A4%A7%E6%B6%A8-b62617aa)
 append_entries: 1
 Finish: 2023-12-18 12:16:14.210242
+------------------------------------------------------
+Started: 2023-12-18 14:08:49.357538
+Existing_entries: 363
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-18 14:08:57.484404
