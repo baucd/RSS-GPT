@@ -4380,3 +4380,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [香港头号国安嫌犯黎智英受审](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%A4%B4%E5%8F%B7%E5%9B%BD%E5%AE%89%E5%AB%8C%E7%8A%AF%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%8F%97%E5%AE%A1-bb825808)
 append_entries: 1
 Finish: 2023-12-18 08:12:41.911077
+------------------------------------------------------
+Started: 2023-12-18 10:10:14.505475
+Existing_entries: 360
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 485
+Summarized using GPT-3.5-turbo-1106
+Append: [中国电动汽车电池供应商瑞浦兰钧在港IPO，为市场注射强心针](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%95%86%E7%91%9E%E6%B5%A6%E5%85%B0%E9%92%A7%E5%9C%A8%E6%B8%AFipo-%E4%B8%BA%E5%B8%82%E5%9C%BA%E6%B3%A8%E5%B0%84%E5%BC%BA%E5%BF%83%E9%92%88-03ae5dde)
+Token length: 2831
+Summarized using GPT-3.5-turbo-1106
+Append: [中国高净值人群日趋审慎，令华尔街遭遇难题](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%AB%98%E5%87%80%E5%80%BC%E4%BA%BA%E7%BE%A4%E6%97%A5%E8%B6%8B%E5%AE%A1%E6%85%8E-%E4%BB%A4%E5%8D%8E%E5%B0%94%E8%A1%97%E9%81%AD%E9%81%87%E9%9A%BE%E9%A2%98-6d1554f1)
+append_entries: 2
+Finish: 2023-12-18 10:10:37.970371
