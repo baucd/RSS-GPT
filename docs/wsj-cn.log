@@ -4446,3 +4446,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [境外投资者突然大举买入中国境内债券](https://cn.wsj.com/articles/%E5%A2%83%E5%A4%96%E6%8A%95%E8%B5%84%E8%80%85%E7%AA%81%E7%84%B6%E5%A4%A7%E4%B8%BE%E4%B9%B0%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E5%80%BA%E5%88%B8-a4ca70c7)
 append_entries: 3
 Finish: 2023-12-19 00:40:05.244100
+------------------------------------------------------
+Started: 2023-12-19 02:22:17.349445
+Existing_entries: 366
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 565
+Summarized using GPT-3.5-turbo-1106
+Append: [Qorvo将向立讯精密出售位于中国北京和德州的工厂](https://cn.wsj.com/articles/qorvo%E5%B0%86%E5%90%91%E7%AB%8B%E8%AE%AF%E7%B2%BE%E5%AF%86%E5%87%BA%E5%94%AE%E4%BD%8D%E4%BA%8E%E4%B8%AD%E5%9B%BD%E5%8C%97%E4%BA%AC%E5%92%8C%E5%BE%B7%E5%B7%9E%E7%9A%84%E5%B7%A5%E5%8E%82-a762b7d3)
+Token length: 394
+Summarized using GPT-3.5-turbo-1106
+Append: [中国甘肃省发生地震，已致100多人遇难](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%98%E8%82%83%E7%9C%81%E5%8F%91%E7%94%9F%E5%9C%B0%E9%9C%87-%E5%B7%B2%E8%87%B4100%E5%A4%9A%E4%BA%BA%E9%81%87%E9%9A%BE-b86bab81)
+Token length: 3816
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：楼市新政后市场人气有所提升，但买方观望情绪仍较浓厚](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E6%A5%BC%E5%B8%82%E6%96%B0%E6%94%BF%E5%90%8E%E5%B8%82%E5%9C%BA%E4%BA%BA%E6%B0%94%E6%9C%89%E6%89%80%E6%8F%90%E5%8D%87-%E4%BD%86%E4%B9%B0%E6%96%B9%E8%A7%82%E6%9C%9B%E6%83%85%E7%BB%AA%E4%BB%8D%E8%BE%83%E6%B5%93%E5%8E%9A-b987acfc)
+append_entries: 3
+Finish: 2023-12-19 02:22:47.178781
