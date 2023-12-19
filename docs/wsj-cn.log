@@ -4479,3 +4479,12 @@ Existing_entries: 369
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-19 08:11:51.940712
+------------------------------------------------------
+Started: 2023-12-19 10:09:27.891807
+Existing_entries: 369
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2845
+Summarized using GPT-3.5-turbo-1106
+Append: [老年消费市场在中国渐成气候](https://cn.wsj.com/articles/%E8%80%81%E5%B9%B4%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%B8%90%E6%88%90%E6%B0%94%E5%80%99-4eaa7cc2)
+append_entries: 1
+Finish: 2023-12-19 10:09:48.912282
