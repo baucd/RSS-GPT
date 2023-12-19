@@ -4431,3 +4431,18 @@ Existing_entries: 363
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-18 22:08:07.917132
+------------------------------------------------------
+Started: 2023-12-19 00:39:41.049244
+Existing_entries: 363
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2946
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：东方甄选重大调整：孙东旭遭罢免、董宇辉变为高级合伙人](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E9%87%8D%E5%A4%A7%E8%B0%83%E6%95%B4-%E5%AD%99%E4%B8%9C%E6%97%AD%E9%81%AD%E7%BD%A2%E5%85%8D-%E8%91%A3%E5%AE%87%E8%BE%89%E5%8F%98%E4%B8%BA%E9%AB%98%E7%BA%A7%E5%90%88%E4%BC%99%E4%BA%BA-bb99df22)
+Token length: 448
+Summarized using GPT-3.5-turbo-1106
+Append: [隔夜市场回顾：中东紧张局势推动布伦特原油期货上涨](https://cn.wsj.com/articles/%E9%9A%94%E5%A4%9C%E5%B8%82%E5%9C%BA%E5%9B%9E%E9%A1%BE-%E4%B8%AD%E4%B8%9C%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E6%8E%A8%E5%8A%A8%E5%B8%83%E4%BC%A6%E7%89%B9%E5%8E%9F%E6%B2%B9%E6%9C%9F%E8%B4%A7%E4%B8%8A%E6%B6%A8-ed350109)
+Token length: 476
+Summarized using GPT-3.5-turbo-1106
+Append: [境外投资者突然大举买入中国境内债券](https://cn.wsj.com/articles/%E5%A2%83%E5%A4%96%E6%8A%95%E8%B5%84%E8%80%85%E7%AA%81%E7%84%B6%E5%A4%A7%E4%B8%BE%E4%B9%B0%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%A2%83%E5%86%85%E5%80%BA%E5%88%B8-a4ca70c7)
+append_entries: 3
+Finish: 2023-12-19 00:40:05.244100
