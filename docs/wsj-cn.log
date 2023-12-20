@@ -4533,3 +4533,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：传抖音与阿里巴巴洽商70亿美元收购饿了么](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%BC%A0%E6%8A%96%E9%9F%B3%E4%B8%8E%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%B4%BD%E5%95%8670%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%AD%E9%A5%BF%E4%BA%86%E4%B9%88-3a252895)
 append_entries: 1
 Finish: 2023-12-20 00:32:49.127352
+------------------------------------------------------
+Started: 2023-12-20 02:07:43.510111
+Existing_entries: 371
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2194
+Summarized using GPT-3.5-turbo-1106
+Append: [日本制铁社长赴美收购宏图：打造自由世界的冠军企业以抗衡中国](https://cn.wsj.com/articles/%E6%97%A5%E6%9C%AC%E5%88%B6%E9%93%81%E7%A4%BE%E9%95%BF%E8%B5%B4%E7%BE%8E%E6%94%B6%E8%B4%AD%E5%AE%8F%E5%9B%BE-%E6%89%93%E9%80%A0%E8%87%AA%E7%94%B1%E4%B8%96%E7%95%8C%E7%9A%84%E5%86%A0%E5%86%9B%E4%BC%81%E4%B8%9A%E4%BB%A5%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9B%BD-0ee4cc12)
+Token length: 4395
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：香港公布新资本投资者入境计划，时隔8年重启投资移民](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%B8%83%E6%96%B0%E8%B5%84%E6%9C%AC%E6%8A%95%E8%B5%84%E8%80%85%E5%85%A5%E5%A2%83%E8%AE%A1%E5%88%92-%E6%97%B6%E9%9A%948%E5%B9%B4%E9%87%8D%E5%90%AF%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91-aded600c)
+append_entries: 2
+Finish: 2023-12-20 02:08:04.470378
