@@ -4554,3 +4554,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国流行“安静辞职”，中国年轻人拥抱“摆烂”](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B5%81%E8%A1%8C-%E5%AE%89%E9%9D%99%E8%BE%9E%E8%81%8C-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8B%A5%E6%8A%B1-%E6%91%86%E7%83%82-e93d4c09)
 append_entries: 1
 Finish: 2023-12-20 04:09:00.037905
+------------------------------------------------------
+Started: 2023-12-20 06:09:28.662798
+Existing_entries: 374
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-20 06:09:36.313865
