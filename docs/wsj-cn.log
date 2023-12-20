@@ -4545,3 +4545,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国财经媒体报道汇总：香港公布新资本投资者入境计划，时隔8年重启投资移民](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E9%A6%99%E6%B8%AF%E5%85%AC%E5%B8%83%E6%96%B0%E8%B5%84%E6%9C%AC%E6%8A%95%E8%B5%84%E8%80%85%E5%85%A5%E5%A2%83%E8%AE%A1%E5%88%92-%E6%97%B6%E9%9A%948%E5%B9%B4%E9%87%8D%E5%90%AF%E6%8A%95%E8%B5%84%E7%A7%BB%E6%B0%91-aded600c)
 append_entries: 2
 Finish: 2023-12-20 02:08:04.470378
+------------------------------------------------------
+Started: 2023-12-20 04:08:47.522535
+Existing_entries: 373
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4440
+Summarized using GPT-3.5-turbo-1106
+Append: [美国流行“安静辞职”，中国年轻人拥抱“摆烂”](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%B5%81%E8%A1%8C-%E5%AE%89%E9%9D%99%E8%BE%9E%E8%81%8C-%E4%B8%AD%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8B%A5%E6%8A%B1-%E6%91%86%E7%83%82-e93d4c09)
+append_entries: 1
+Finish: 2023-12-20 04:09:00.037905
