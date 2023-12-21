@@ -4641,3 +4641,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [拜登政府商讨上调对中国电动汽车等商品的关税](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%94%BF%E5%BA%9C%E5%95%86%E8%AE%A8%E4%B8%8A%E8%B0%83%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%AD%89%E5%95%86%E5%93%81%E7%9A%84%E5%85%B3%E7%A8%8E-e82e388e)
 append_entries: 1
 Finish: 2023-12-21 06:11:40.465067
+------------------------------------------------------
+Started: 2023-12-21 08:11:13.965285
+Existing_entries: 377
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-21 08:11:21.777098
