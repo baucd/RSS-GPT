@@ -4729,3 +4729,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国大型银行下调存款利率](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%9E%8B%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87-83d8c4d3)
 append_entries: 1
 Finish: 2023-12-22 06:12:02.076582
+------------------------------------------------------
+Started: 2023-12-22 08:11:57.220104
+Existing_entries: 382
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 580
+Summarized using GPT-3.5-turbo-1106
+Append: [中国政府发布网络游戏管理办法草案，中国游戏股下跌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%8F%91%E5%B8%83%E7%BD%91%E7%BB%9C%E6%B8%B8%E6%88%8F%E7%AE%A1%E7%90%86%E5%8A%9E%E6%B3%95%E8%8D%89%E6%A1%88-%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E8%82%A1%E4%B8%8B%E8%B7%8C-ff1c1c08)
+append_entries: 1
+Finish: 2023-12-22 08:12:12.766648
