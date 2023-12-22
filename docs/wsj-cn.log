@@ -4692,3 +4692,10 @@ Existing_entries: 378
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-21 22:07:13.193241
+------------------------------------------------------
+Started: 2023-12-22 00:38:27.505404
+Existing_entries: 378
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/wsj-cn
