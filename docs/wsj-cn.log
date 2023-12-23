@@ -4798,3 +4798,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [腾讯市值蒸发460亿美元，受中国发布网游新规草案拖累](https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91460%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%8F%97%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%8D%89%E6%A1%88%E6%8B%96%E7%B4%AF-1effea6f)
 append_entries: 2
 Finish: 2023-12-23 02:17:03.072140
+------------------------------------------------------
+Started: 2023-12-23 04:10:06.048007
+Existing_entries: 385
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3082
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：国家新闻出版署公布新一批进口游戏版号，40款新游获批](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E5%9B%BD%E5%AE%B6%E6%96%B0%E9%97%BB%E5%87%BA%E7%89%88%E7%BD%B2%E5%85%AC%E5%B8%83%E6%96%B0%E4%B8%80%E6%89%B9%E8%BF%9B%E5%8F%A3%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7-40%E6%AC%BE%E6%96%B0%E6%B8%B8%E8%8E%B7%E6%89%B9-8a9ff6f5)
+append_entries: 1
+Finish: 2023-12-23 04:10:18.688385
