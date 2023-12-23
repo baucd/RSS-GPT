@@ -4786,3 +4786,15 @@ Existing_entries: 383
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-23 00:37:15.806429
+------------------------------------------------------
+Started: 2023-12-23 02:16:47.631747
+Existing_entries: 383
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 368
+Summarized using GPT-3.5-turbo-1106
+Append: [李宁等中国运动服饰品牌错失先机](https://cn.wsj.com/articles/%E6%9D%8E%E5%AE%81%E7%AD%89%E4%B8%AD%E5%9B%BD%E8%BF%90%E5%8A%A8%E6%9C%8D%E9%A5%B0%E5%93%81%E7%89%8C%E9%94%99%E5%A4%B1%E5%85%88%E6%9C%BA-1e131d09)
+Token length: 1129
+Summarized using GPT-3.5-turbo-1106
+Append: [腾讯市值蒸发460亿美元，受中国发布网游新规草案拖累](https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91460%E4%BA%BF%E7%BE%8E%E5%85%83-%E5%8F%97%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%8D%89%E6%A1%88%E6%8B%96%E7%B4%AF-1effea6f)
+append_entries: 2
+Finish: 2023-12-23 02:17:03.072140
