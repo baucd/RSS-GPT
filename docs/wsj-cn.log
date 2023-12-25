@@ -4979,3 +4979,12 @@ Existing_entries: 393
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-25 06:12:57.408477
+------------------------------------------------------
+Started: 2023-12-25 08:12:01.680053
+Existing_entries: 393
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2717
+Summarized using GPT-3.5-turbo-1106
+Append: [美国称中国正在窃取AI机密以加强间谍活动](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E7%AA%83%E5%8F%96ai%E6%9C%BA%E5%AF%86%E4%BB%A5%E5%8A%A0%E5%BC%BA%E9%97%B4%E8%B0%8D%E6%B4%BB%E5%8A%A8-cdb9a5b5)
+append_entries: 1
+Finish: 2023-12-25 08:12:15.355910
