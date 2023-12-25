@@ -4943,3 +4943,21 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国财经媒体报道汇总：北京将强化商品房预售资金监管](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%8C%97%E4%BA%AC%E5%B0%86%E5%BC%BA%E5%8C%96%E5%95%86%E5%93%81%E6%88%BF%E9%A2%84%E5%94%AE%E8%B5%84%E9%87%91%E7%9B%91%E7%AE%A1-9fa97230)
 append_entries: 1
 Finish: 2023-12-25 00:40:23.270093
+------------------------------------------------------
+Started: 2023-12-25 02:22:08.235136
+Existing_entries: 387
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1174
+Summarized using GPT-3.5-turbo-1106
+Append: [美国政府调查是否为在中国开展的冠状病毒研究重复拨款](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E8%B0%83%E6%9F%A5%E6%98%AF%E5%90%A6%E4%B8%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E7%9A%84%E5%86%A0%E7%8A%B6%E7%97%85%E6%AF%92%E7%A0%94%E7%A9%B6%E9%87%8D%E5%A4%8D%E6%8B%A8%E6%AC%BE-4b19b208)
+Token length: 1898
+Summarized using GPT-3.5-turbo-1106
+Append: [中国发布网游新规草案后，腾讯市值蒸发460亿美元](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%8D%89%E6%A1%88%E5%90%8E-%E8%85%BE%E8%AE%AF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91460%E4%BA%BF%E7%BE%8E%E5%85%83-85cedfaf)
+Token length: 2327
+Summarized using GPT-3.5-turbo-1106
+Append: [中国失业者并不总是出现在数据中，但会在图书馆中](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%B1%E4%B8%9A%E8%80%85%E5%B9%B6%E4%B8%8D%E6%80%BB%E6%98%AF%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%95%B0%E6%8D%AE%E4%B8%AD-%E4%BD%86%E4%BC%9A%E5%9C%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E4%B8%AD-0ae966d9)
+Token length: 843
+Summarized using GPT-3.5-turbo-1106
+Append: [中国整顿网游行动为何没有冲击美国游戏开发商股价？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%B4%E9%A1%BF%E7%BD%91%E6%B8%B8%E8%A1%8C%E5%8A%A8%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E5%86%B2%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%95%86%E8%82%A1%E4%BB%B7-45920f7e)
+append_entries: 4
+Finish: 2023-12-25 02:22:32.444616
