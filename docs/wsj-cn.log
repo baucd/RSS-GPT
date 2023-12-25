@@ -4961,3 +4961,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国整顿网游行动为何没有冲击美国游戏开发商股价？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%B4%E9%A1%BF%E7%BD%91%E6%B8%B8%E8%A1%8C%E5%8A%A8%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%9C%89%E5%86%B2%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E5%95%86%E8%82%A1%E4%BB%B7-45920f7e)
 append_entries: 4
 Finish: 2023-12-25 02:22:32.444616
+------------------------------------------------------
+Started: 2023-12-25 04:10:44.220779
+Existing_entries: 391
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4581
+Summarized using GPT-3.5-turbo-1106
+Append: [何一：接替赵长鹏坐镇币安的“币圈一姐”](https://cn.wsj.com/articles/%E4%BD%95%E4%B8%80-%E6%8E%A5%E6%9B%BF%E8%B5%B5%E9%95%BF%E9%B9%8F%E5%9D%90%E9%95%87%E5%B8%81%E5%AE%89%E7%9A%84-%E5%B8%81%E5%9C%88%E4%B8%80%E5%A7%90-f09c4e85)
+Token length: 1109
+Summarized using GPT-3.5-turbo-1106
+Append: [分析师：特斯拉2024年有望加入万亿美元市值俱乐部](https://cn.wsj.com/articles/%E5%88%86%E6%9E%90%E5%B8%88-%E7%89%B9%E6%96%AF%E6%8B%892024%E5%B9%B4%E6%9C%89%E6%9C%9B%E5%8A%A0%E5%85%A5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC%E4%BF%B1%E4%B9%90%E9%83%A8-30fb3e14)
+append_entries: 2
+Finish: 2023-12-25 04:10:59.209955
