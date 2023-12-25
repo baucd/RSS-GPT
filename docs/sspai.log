@@ -10983,3 +10983,10 @@ Summarized using GPT-3.5-turbo-1106
 Append: [放轻松｜用热爱对抗焦虑，在生活中寻找「忙里偷闲」的缝隙](https://sspai.com/post/85247)
 append_entries: 1
 Finish: 2023-12-25 04:10:43.119496
+------------------------------------------------------
+Started: 2023-12-25 06:11:47.274449
+Existing_entries: 372
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai
