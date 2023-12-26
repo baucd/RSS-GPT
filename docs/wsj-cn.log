@@ -5084,3 +5084,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币下跌；美元指数弱势震荡](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%BC%B1%E5%8A%BF%E9%9C%87%E8%8D%A1-00d88c3a)
 append_entries: 2
 Finish: 2023-12-26 10:09:39.313686
+------------------------------------------------------
+Started: 2023-12-26 12:14:27.160452
+Existing_entries: 400
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-26 12:14:35.070698
