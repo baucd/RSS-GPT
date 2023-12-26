@@ -5066,3 +5066,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国游戏股反弹，因网游新规调门缓和](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E8%82%A1%E5%8F%8D%E5%BC%B9-%E5%9B%A0%E7%BD%91%E6%B8%B8%E6%96%B0%E8%A7%84%E8%B0%83%E9%97%A8%E7%BC%93%E5%92%8C-947b9cfa)
 append_entries: 3
 Finish: 2023-12-26 06:11:54.382691
+------------------------------------------------------
+Started: 2023-12-26 08:10:58.637605
+Existing_entries: 398
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-26 08:11:09.081717
