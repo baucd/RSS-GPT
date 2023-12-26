@@ -5030,3 +5030,12 @@ Existing_entries: 394
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-25 22:07:47.009898
+------------------------------------------------------
+Started: 2023-12-26 00:37:56.315967
+Existing_entries: 394
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4111
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：2024年万亿级地方债蓄势待发，提前批额度有望本周下达](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-2024%E5%B9%B4%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%9C%B0%E6%96%B9%E5%80%BA%E8%93%84%E5%8A%BF%E5%BE%85%E5%8F%91-%E6%8F%90%E5%89%8D%E6%89%B9%E9%A2%9D%E5%BA%A6%E6%9C%89%E6%9C%9B%E6%9C%AC%E5%91%A8%E4%B8%8B%E8%BE%BE-235238d7)
+append_entries: 1
+Finish: 2023-12-26 00:38:09.177053
