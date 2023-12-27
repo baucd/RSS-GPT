@@ -5148,3 +5148,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [人民币正在悄然崛起](https://cn.wsj.com/articles/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E5%B4%9B%E8%B5%B7-1681096f)
 append_entries: 2
 Finish: 2023-12-27 02:19:12.835472
+------------------------------------------------------
+Started: 2023-12-27 04:10:10.208497
+Existing_entries: 405
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-27 04:10:16.059412
