@@ -5136,3 +5136,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国回击美国涉疆人权报告：制裁一家美国公司和和两名研究员](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%9B%9E%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B6%89%E7%96%86%E4%BA%BA%E6%9D%83%E6%8A%A5%E5%91%8A-%E5%88%B6%E8%A3%81%E4%B8%80%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E5%92%8C%E5%92%8C%E4%B8%A4%E5%90%8D%E7%A0%94%E7%A9%B6%E5%91%98-0e173e7b)
 append_entries: 3
 Finish: 2023-12-27 00:38:11.817624
+------------------------------------------------------
+Started: 2023-12-27 02:18:52.105129
+Existing_entries: 403
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1121
+Summarized using GPT-3.5-turbo-1106
+Append: [中国11月规上工业企业利润同比大增29.5%，连续4个月正增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD11%E6%9C%88%E8%A7%84%E4%B8%8A%E5%B7%A5%E4%B8%9A%E4%BC%81%E4%B8%9A%E5%88%A9%E6%B6%A6%E5%90%8C%E6%AF%94%E5%A4%A7%E5%A2%9E29-5-%E8%BF%9E%E7%BB%AD4%E4%B8%AA%E6%9C%88%E6%AD%A3%E5%A2%9E%E9%95%BF-e1b330b6)
+Token length: 1286
+Summarized using GPT-3.5-turbo-1106
+Append: [人民币正在悄然崛起](https://cn.wsj.com/articles/%E4%BA%BA%E6%B0%91%E5%B8%81%E6%AD%A3%E5%9C%A8%E6%82%84%E7%84%B6%E5%B4%9B%E8%B5%B7-1681096f)
+append_entries: 2
+Finish: 2023-12-27 02:19:12.835472
