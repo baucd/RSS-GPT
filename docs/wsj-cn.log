@@ -5193,3 +5193,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国表示支持游戏产业后，网易、腾讯股价反弹](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%A1%A8%E7%A4%BA%E6%94%AF%E6%8C%81%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E5%90%8E-%E7%BD%91%E6%98%93-%E8%85%BE%E8%AE%AF%E8%82%A1%E4%BB%B7%E5%8F%8D%E5%BC%B9-044f0478)
 append_entries: 5
 Finish: 2023-12-27 10:09:52.170115
+------------------------------------------------------
+Started: 2023-12-27 12:14:30.092820
+Existing_entries: 412
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-27 12:14:40.086469
