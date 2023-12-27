@@ -5172,3 +5172,24 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国短剧应用风靡美国，言情、吸血鬼剧征服美国主妇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E5%BA%94%E7%94%A8%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD-%E8%A8%80%E6%83%85-%E5%90%B8%E8%A1%80%E9%AC%BC%E5%89%A7%E5%BE%81%E6%9C%8D%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%A6%87-6b851d15)
 append_entries: 1
 Finish: 2023-12-27 08:11:14.247250
+------------------------------------------------------
+Started: 2023-12-27 10:09:08.148028
+Existing_entries: 407
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 279
+Summarized using GPT-3.5-turbo-1106
+Append: [腾讯和网易共计恢复200亿美元市值](https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E5%92%8C%E7%BD%91%E6%98%93%E5%85%B1%E8%AE%A1%E6%81%A2%E5%A4%8D200%E4%BA%BF%E7%BE%8E%E5%85%83%E5%B8%82%E5%80%BC-b3bfb93e)
+Token length: 409
+Summarized using GPT-3.5-turbo-1106
+Append: [中国收紧对课后服务的规定](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%B6%E7%B4%A7%E5%AF%B9%E8%AF%BE%E5%90%8E%E6%9C%8D%E5%8A%A1%E7%9A%84%E8%A7%84%E5%AE%9A-e5089b02)
+Token length: 2456
+Summarized using GPT-3.5-turbo-1106
+Append: [中国如何管理人民币？其政策影响几何？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E7%AE%A1%E7%90%86%E4%BA%BA%E6%B0%91%E5%B8%81-%E5%85%B6%E6%94%BF%E7%AD%96%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95-8f2a83cd)
+Token length: 590
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三微涨；美元指数延续弱势](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E5%BE%AE%E6%B6%A8-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%BB%B6%E7%BB%AD%E5%BC%B1%E5%8A%BF-955b8f3b)
+Token length: 450
+Summarized using GPT-3.5-turbo-1106
+Append: [中国表示支持游戏产业后，网易、腾讯股价反弹](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%A1%A8%E7%A4%BA%E6%94%AF%E6%8C%81%E6%B8%B8%E6%88%8F%E4%BA%A7%E4%B8%9A%E5%90%8E-%E7%BD%91%E6%98%93-%E8%85%BE%E8%AE%AF%E8%82%A1%E4%BB%B7%E5%8F%8D%E5%BC%B9-044f0478)
+append_entries: 5
+Finish: 2023-12-27 10:09:52.170115

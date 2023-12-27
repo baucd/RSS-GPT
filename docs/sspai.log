@@ -11173,3 +11173,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [城市漫步指南：济州岛，更适合年轻人的短途免签旅行地](https://sspai.com/post/85237)
 append_entries: 1
 Finish: 2023-12-27 08:10:54.996680
+------------------------------------------------------
+Started: 2023-12-27 10:08:52.052212
+Existing_entries: 383
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 5406
+Summarized using GPT-3.5-turbo-1106
+Append: [更适合国内的远程访问方法：自建根服务器打造基于 ZeroTier 虚拟内网](https://sspai.com/post/85130)
+append_entries: 1
+Finish: 2023-12-27 10:09:07.001025
