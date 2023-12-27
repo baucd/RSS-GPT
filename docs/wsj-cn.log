@@ -5163,3 +5163,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [蔚来集团大涨，受推出新旗舰电动汽车推动](https://cn.wsj.com/articles/%E8%94%9A%E6%9D%A5%E9%9B%86%E5%9B%A2%E5%A4%A7%E6%B6%A8-%E5%8F%97%E6%8E%A8%E5%87%BA%E6%96%B0%E6%97%97%E8%88%B0%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%8E%A8%E5%8A%A8-425c63d9)
 append_entries: 1
 Finish: 2023-12-27 06:11:42.501102
+------------------------------------------------------
+Started: 2023-12-27 08:10:56.143663
+Existing_entries: 406
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3142
+Summarized using GPT-3.5-turbo-1106
+Append: [中国短剧应用风靡美国，言情、吸血鬼剧征服美国主妇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%AD%E5%89%A7%E5%BA%94%E7%94%A8%E9%A3%8E%E9%9D%A1%E7%BE%8E%E5%9B%BD-%E8%A8%80%E6%83%85-%E5%90%B8%E8%A1%80%E9%AC%BC%E5%89%A7%E5%BE%81%E6%9C%8D%E7%BE%8E%E5%9B%BD%E4%B8%BB%E5%A6%87-6b851d15)
+append_entries: 1
+Finish: 2023-12-27 08:11:14.247250
