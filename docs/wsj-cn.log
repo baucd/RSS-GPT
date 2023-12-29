@@ -5367,3 +5367,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国通缩风险引发关注，央行表示将提振消费者价格](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E9%A3%8E%E9%99%A9%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8-%E5%A4%AE%E8%A1%8C%E8%A1%A8%E7%A4%BA%E5%B0%86%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC-dacffcbd)
 append_entries: 1
 Finish: 2023-12-29 08:10:54.325363
+------------------------------------------------------
+Started: 2023-12-29 10:08:57.115808
+Existing_entries: 424
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 783
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周五续涨，收官日终于收复7.1元关口](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E7%BB%AD%E6%B6%A8-%E6%94%B6%E5%AE%98%E6%97%A5%E7%BB%88%E4%BA%8E%E6%94%B6%E5%A4%8D7-1%E5%85%83%E5%85%B3%E5%8F%A3-21a1692a)
+Token length: 2907
+Summarized using GPT-3.5-turbo-1106
+Append: [中国面临政治新现实：台湾总统候选人都不“亲中”](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%9D%A2%E4%B8%B4%E6%94%BF%E6%B2%BB%E6%96%B0%E7%8E%B0%E5%AE%9E-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%80%99%E9%80%89%E4%BA%BA%E9%83%BD%E4%B8%8D-%E4%BA%B2%E4%B8%AD-f752a9c7)
+append_entries: 2
+Finish: 2023-12-29 10:09:16.542987
