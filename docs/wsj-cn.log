@@ -5358,3 +5358,12 @@ Existing_entries: 423
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-29 06:11:47.173595
+------------------------------------------------------
+Started: 2023-12-29 08:10:43.593063
+Existing_entries: 423
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 504
+Summarized using GPT-3.5-turbo-1106
+Append: [中国通缩风险引发关注，央行表示将提振消费者价格](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E9%A3%8E%E9%99%A9%E5%BC%95%E5%8F%91%E5%85%B3%E6%B3%A8-%E5%A4%AE%E8%A1%8C%E8%A1%A8%E7%A4%BA%E5%B0%86%E6%8F%90%E6%8C%AF%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC-dacffcbd)
+append_entries: 1
+Finish: 2023-12-29 08:10:54.325363
