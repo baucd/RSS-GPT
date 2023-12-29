@@ -5319,3 +5319,12 @@ Existing_entries: 418
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2023-12-28 22:07:48.512942
+------------------------------------------------------
+Started: 2023-12-29 00:31:55.097694
+Existing_entries: 418
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2609
+Summarized using GPT-3.5-turbo-1106
+Append: [中概股简报：京东零售加薪细节：固定薪资涨近100%，业绩激励上不封顶](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%BA%AC%E4%B8%9C%E9%9B%B6%E5%94%AE%E5%85%AC%E5%B8%83%E5%8A%A0%E8%96%AA%E7%BB%86%E8%8A%82-%E5%9B%BA%E5%AE%9A%E8%96%AA%E8%B5%84%E6%B6%A8%E8%BF%91100-%E4%B8%9A%E7%BB%A9%E6%BF%80%E5%8A%B1%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6-3a11e2a6)
+append_entries: 1
+Finish: 2023-12-29 00:32:07.010099
