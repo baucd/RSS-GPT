@@ -5328,3 +5328,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：京东零售加薪细节：固定薪资涨近100%，业绩激励上不封顶](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E4%BA%AC%E4%B8%9C%E9%9B%B6%E5%94%AE%E5%85%AC%E5%B8%83%E5%8A%A0%E8%96%AA%E7%BB%86%E8%8A%82-%E5%9B%BA%E5%AE%9A%E8%96%AA%E8%B5%84%E6%B6%A8%E8%BF%91100-%E4%B8%9A%E7%BB%A9%E6%BF%80%E5%8A%B1%E4%B8%8A%E4%B8%8D%E5%B0%81%E9%A1%B6-3a11e2a6)
 append_entries: 1
 Finish: 2023-12-29 00:32:07.010099
+------------------------------------------------------
+Started: 2023-12-29 02:14:47.692988
+Existing_entries: 419
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2051
+Summarized using GPT-3.5-turbo-1106
+Append: [在汽车领域，苹果公司正被中国智能手机同行超越](https://cn.wsj.com/articles/%E5%9C%A8%E6%B1%BD%E8%BD%A6%E9%A2%86%E5%9F%9F-%E8%8B%B9%E6%9E%9C%E5%85%AC%E5%8F%B8%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA%E5%90%8C%E8%A1%8C%E8%B6%85%E8%B6%8A-c22fc091)
+Token length: 3080
+Summarized using GPT-3.5-turbo-1106
+Append: [中国财经媒体报道汇总：央行：坚决防范汇率超调风险](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%A4%AE%E8%A1%8C-%E5%9D%9A%E5%86%B3%E9%98%B2%E8%8C%83%E6%B1%87%E7%8E%87%E8%B6%85%E8%B0%83%E9%A3%8E%E9%99%A9-ae489749)
+append_entries: 2
+Finish: 2023-12-29 02:15:03.012296
