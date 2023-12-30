@@ -5436,3 +5436,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：法拉第未来：收到关于退市或不符合继续上市规则或标准的通知](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E6%B3%95%E6%8B%89%E7%AC%AC%E6%9C%AA%E6%9D%A5-%E6%94%B6%E5%88%B0%E5%85%B3%E4%BA%8E%E9%80%80%E5%B8%82%E6%88%96%E4%B8%8D%E7%AC%A6%E5%90%88%E7%BB%A7%E7%BB%AD%E4%B8%8A%E5%B8%82%E8%A7%84%E5%88%99%E6%88%96%E6%A0%87%E5%87%86%E7%9A%84%E9%80%9A%E7%9F%A5-672d0bdb)
 append_entries: 2
 Finish: 2023-12-30 02:19:23.702297
+------------------------------------------------------
+Started: 2023-12-30 04:09:53.681485
+Existing_entries: 429
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2023-12-30 04:10:04.664504
