@@ -5667,3 +5667,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国财经媒体报道汇总：国常会：研究深入推进以人为本的新型城镇化有关举措](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%B4%A2%E7%BB%8F%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%E6%B1%87%E6%80%BB-%E5%9B%BD%E5%B8%B8%E4%BC%9A-%E7%A0%94%E7%A9%B6%E6%B7%B1%E5%85%A5%E6%8E%A8%E8%BF%9B%E4%BB%A5%E4%BA%BA%E4%B8%BA%E6%9C%AC%E7%9A%84%E6%96%B0%E5%9E%8B%E5%9F%8E%E9%95%87%E5%8C%96%E6%9C%89%E5%85%B3%E4%B8%BE%E6%8E%AA-1b3666ae)
 append_entries: 3
 Finish: 2024-01-02 02:23:04.971454
+------------------------------------------------------
+Started: 2024-01-02 04:10:51.012030
+Existing_entries: 434
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1280
+Summarized using GPT-3.5-turbo-1106
+Append: [中国股市2024年仍面临重重挑战](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%822024%E5%B9%B4%E4%BB%8D%E9%9D%A2%E4%B8%B4%E9%87%8D%E9%87%8D%E6%8C%91%E6%88%98-44b643a7)
+Token length: 2153
+Summarized using GPT-3.5-turbo-1106
+Append: [中国互联网巨头已在投资者眼中祛魅](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BA%92%E8%81%94%E7%BD%91%E5%B7%A8%E5%A4%B4%E5%B7%B2%E5%9C%A8%E6%8A%95%E8%B5%84%E8%80%85%E7%9C%BC%E4%B8%AD%E7%A5%9B%E9%AD%85-9b5981d6)
+Token length: 1062
+Summarized using GPT-3.5-turbo-1106
+Append: [财新12月份中国制造业PMI升至50.8，连续第二个月扩张，并创8月份后新高](https://cn.wsj.com/articles/%E8%B4%A2%E6%96%B012%E6%9C%88%E4%BB%BD%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E5%8D%87%E8%87%B350-8-%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%9C%88%E6%89%A9%E5%BC%A0-%E5%B9%B6%E5%88%9B8%E6%9C%88%E4%BB%BD%E5%90%8E%E6%96%B0%E9%AB%98-c5ec7155)
+append_entries: 3
+Finish: 2024-01-02 04:11:16.155447
