@@ -5712,3 +5712,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币新年首日急跌400点；官方制造业PMI超预期疲软](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%96%B0%E5%B9%B4%E9%A6%96%E6%97%A5%E6%80%A5%E8%B7%8C400%E7%82%B9-%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E8%B6%85%E9%A2%84%E6%9C%9F%E7%96%B2%E8%BD%AF-345ff0b0)
 append_entries: 1
 Finish: 2024-01-02 10:09:31.213744
+------------------------------------------------------
+Started: 2024-01-02 12:14:59.815341
+Existing_entries: 441
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2256
+Summarized using GPT-3.5-turbo-1106
+Append: [台湾称中国以“假唱”调查施压五月天选边站队](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E4%BB%A5-%E5%81%87%E5%94%B1-%E8%B0%83%E6%9F%A5%E6%96%BD%E5%8E%8B%E4%BA%94%E6%9C%88%E5%A4%A9%E9%80%89%E8%BE%B9%E7%AB%99%E9%98%9F-9ea097f9)
+Token length: 522
+Summarized using GPT-3.5-turbo-1106
+Append: [中国股票在2024年首个交易日走低](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%9C%A82024%E5%B9%B4%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%E8%B5%B0%E4%BD%8E-68025e2e)
+append_entries: 2
+Finish: 2024-01-02 12:15:20.535790
