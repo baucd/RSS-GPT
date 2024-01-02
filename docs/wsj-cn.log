@@ -5724,3 +5724,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国股票在2024年首个交易日走低](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E5%9C%A82024%E5%B9%B4%E9%A6%96%E4%B8%AA%E4%BA%A4%E6%98%93%E6%97%A5%E8%B5%B0%E4%BD%8E-68025e2e)
 append_entries: 2
 Finish: 2024-01-02 12:15:20.535790
+------------------------------------------------------
+Started: 2024-01-02 14:08:17.300581
+Existing_entries: 443
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-02 14:08:26.220006
