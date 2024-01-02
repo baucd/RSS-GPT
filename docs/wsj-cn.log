@@ -5682,3 +5682,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [财新12月份中国制造业PMI升至50.8，连续第二个月扩张，并创8月份后新高](https://cn.wsj.com/articles/%E8%B4%A2%E6%96%B012%E6%9C%88%E4%BB%BD%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E5%8D%87%E8%87%B350-8-%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%9C%88%E6%89%A9%E5%BC%A0-%E5%B9%B6%E5%88%9B8%E6%9C%88%E4%BB%BD%E5%90%8E%E6%96%B0%E9%AB%98-c5ec7155)
 append_entries: 3
 Finish: 2024-01-02 04:11:16.155447
+------------------------------------------------------
+Started: 2024-01-02 06:11:25.873142
+Existing_entries: 437
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4109
+Summarized using GPT-3.5-turbo-1106
+Append: [习近平为何永不停息地反腐](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%BA%E4%BD%95%E6%B0%B8%E4%B8%8D%E5%81%9C%E6%81%AF%E5%9C%B0%E5%8F%8D%E8%85%90-10e3412a)
+Token length: 325
+Summarized using GPT-3.5-turbo-1106
+Append: [荷兰禁止阿斯麦向中国出口部分芯片制造设备](https://cn.wsj.com/articles/%E8%8D%B7%E5%85%B0%E7%A6%81%E6%AD%A2%E9%98%BF%E6%96%AF%E9%BA%A6%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E9%83%A8%E5%88%86%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87-4abd5c0a)
+Token length: 1711
+Summarized using GPT-3.5-turbo-1106
+Append: [美欧对中国电动汽车的焦虑或许伤及自身](https://cn.wsj.com/articles/%E7%BE%8E%E6%AC%A7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%84%A6%E8%99%91%E6%88%96%E4%BC%A4%E6%95%8C%E8%87%AA%E6%8D%9F-af353d30)
+append_entries: 3
+Finish: 2024-01-02 06:11:47.077529
