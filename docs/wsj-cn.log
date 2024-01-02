@@ -5697,3 +5697,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美欧对中国电动汽车的焦虑或许伤及自身](https://cn.wsj.com/articles/%E7%BE%8E%E6%AC%A7%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%9A%84%E7%84%A6%E8%99%91%E6%88%96%E4%BC%A4%E6%95%8C%E8%87%AA%E6%8D%9F-af353d30)
 append_entries: 3
 Finish: 2024-01-02 06:11:47.077529
+------------------------------------------------------
+Started: 2024-01-02 08:11:20.101161
+Existing_entries: 440
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-02 08:11:28.333390
