@@ -5769,3 +5769,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：央行同意支付宝变更为无实际控制人，蚂蚁：调整不会影响日常经营](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E5%A4%AE%E8%A1%8C%E5%90%8C%E6%84%8F%E6%94%AF%E4%BB%98%E5%AE%9D%E5%8F%98%E6%9B%B4%E4%B8%BA%E6%97%A0%E5%AE%9E%E9%99%85%E6%8E%A7%E5%88%B6%E4%BA%BA-%E8%9A%82%E8%9A%81-%E8%B0%83%E6%95%B4%E4%B8%8D%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%97%A5%E5%B8%B8%E7%BB%8F%E8%90%A5-e6aedf26)
 append_entries: 3
 Finish: 2024-01-03 00:39:32.742237
+------------------------------------------------------
+Started: 2024-01-03 02:20:46.080065
+Existing_entries: 446
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 5504
+Summarized using GPT-3.5-turbo-1106
+Append: [曾实现“中国梦”的保龄球大王正在经历“梦醒”时刻](https://cn.wsj.com/articles/%E6%9B%BE%E5%AE%9E%E7%8E%B0-%E4%B8%AD%E5%9B%BD%E6%A2%A6-%E7%9A%84%E4%BF%9D%E9%BE%84%E7%90%83%E5%A4%A7%E7%8E%8B%E6%AD%A3%E5%9C%A8%E7%BB%8F%E5%8E%86-%E6%A2%A6%E9%86%92-%E6%97%B6%E5%88%BB-4c802f79)
+append_entries: 1
+Finish: 2024-01-03 02:20:57.934365

@@ -11710,3 +11710,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：百度宣布终止收购 YY、泰国宣布将对华永久免签等](https://sspai.com/post/85537)
 append_entries: 1
 Finish: 2024-01-03 00:39:08.705163
+------------------------------------------------------
+Started: 2024-01-03 02:20:40.949118
+Existing_entries: 402
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2024-01-03 02:20:44.772411
