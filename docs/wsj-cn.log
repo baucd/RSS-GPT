@@ -5802,3 +5802,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [港股房地产板块遭遇广泛抛售，九龙仓集团股价大跌](https://cn.wsj.com/articles/%E6%B8%AF%E8%82%A1%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9D%BF%E5%9D%97%E9%81%AD%E9%81%87%E5%B9%BF%E6%B3%9B%E6%8A%9B%E5%94%AE-%E4%B9%9D%E9%BE%99%E4%BB%93%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C-19e2b6a2)
 append_entries: 1
 Finish: 2024-01-03 08:11:17.523782
+------------------------------------------------------
+Started: 2024-01-03 10:09:17.725127
+Existing_entries: 449
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 841
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币连跌两日；避险情绪升温、周二美元指数飙升](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9E%E8%B7%8C%E4%B8%A4%E6%97%A5-%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA%E5%8D%87%E6%B8%A9-%E5%91%A8%E4%BA%8C%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E9%A3%99%E5%8D%87-557a0ec6)
+append_entries: 1
+Finish: 2024-01-03 10:09:33.394178
