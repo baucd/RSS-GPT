@@ -5811,3 +5811,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币连跌两日；避险情绪升温、周二美元指数飙升](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9E%E8%B7%8C%E4%B8%A4%E6%97%A5-%E9%81%BF%E9%99%A9%E6%83%85%E7%BB%AA%E5%8D%87%E6%B8%A9-%E5%91%A8%E4%BA%8C%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E9%A3%99%E5%8D%87-557a0ec6)
 append_entries: 1
 Finish: 2024-01-03 10:09:33.394178
+------------------------------------------------------
+Started: 2024-01-03 12:15:28.057141
+Existing_entries: 450
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 398
+Summarized using GPT-3.5-turbo-1106
+Append: [香港股市IPO枯竭令公司陷入筹资困境](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E8%82%A1%E5%B8%82ipo%E6%9E%AF%E7%AB%AD%E4%BB%A4%E5%85%AC%E5%8F%B8%E9%99%B7%E5%85%A5%E7%AD%B9%E8%B5%84%E5%9B%B0%E5%A2%83-693ff106)
+append_entries: 1
+Finish: 2024-01-03 12:15:44.902247
