@@ -5793,3 +5793,12 @@ Existing_entries: 448
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-03 06:11:29.891350
+------------------------------------------------------
+Started: 2024-01-03 08:11:05.640785
+Existing_entries: 448
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 572
+Summarized using GPT-3.5-turbo-1106
+Append: [港股房地产板块遭遇广泛抛售，九龙仓集团股价大跌](https://cn.wsj.com/articles/%E6%B8%AF%E8%82%A1%E6%88%BF%E5%9C%B0%E4%BA%A7%E6%9D%BF%E5%9D%97%E9%81%AD%E9%81%87%E5%B9%BF%E6%B3%9B%E6%8A%9B%E5%94%AE-%E4%B9%9D%E9%BE%99%E4%BB%93%E9%9B%86%E5%9B%A2%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C-19e2b6a2)
+append_entries: 1
+Finish: 2024-01-03 08:11:17.523782
