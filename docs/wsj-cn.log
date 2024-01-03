@@ -5787,3 +5787,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [超越特斯拉后，比亚迪2024年将走向世界](https://cn.wsj.com/articles/%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89%E5%90%8E-%E6%AF%94%E4%BA%9A%E8%BF%AA2024%E5%B9%B4%E5%B0%86%E8%B5%B0%E5%90%91%E4%B8%96%E7%95%8C-49fc6974)
 append_entries: 1
 Finish: 2024-01-03 04:10:44.891780
+------------------------------------------------------
+Started: 2024-01-03 06:11:23.625209
+Existing_entries: 448
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-03 06:11:29.891350
