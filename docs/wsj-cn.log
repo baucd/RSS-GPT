@@ -5820,3 +5820,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [香港股市IPO枯竭令公司陷入筹资困境](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E8%82%A1%E5%B8%82ipo%E6%9E%AF%E7%AB%AD%E4%BB%A4%E5%85%AC%E5%8F%B8%E9%99%B7%E5%85%A5%E7%AD%B9%E8%B5%84%E5%9B%B0%E5%A2%83-693ff106)
 append_entries: 1
 Finish: 2024-01-03 12:15:44.902247
+------------------------------------------------------
+Started: 2024-01-03 14:07:56.490793
+Existing_entries: 451
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-03 14:08:05.044270
