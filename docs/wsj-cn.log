@@ -5862,3 +5862,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中概股简报：党媒呼吁监管当局避免影响平台企业经营](https://cn.wsj.com/articles/%E4%B8%AD%E6%A6%82%E8%82%A1%E7%AE%80%E6%8A%A5-%E5%85%9A%E5%AA%92%E5%91%BC%E5%90%81%E7%9B%91%E7%AE%A1%E5%BD%93%E5%B1%80%E9%81%BF%E5%85%8D%E5%BD%B1%E5%93%8D%E5%B9%B3%E5%8F%B0%E4%BC%81%E4%B8%9A%E7%BB%8F%E8%90%A5-58d1bbc3)
 append_entries: 2
 Finish: 2024-01-04 00:40:02.929812
+------------------------------------------------------
+Started: 2024-01-04 02:21:32.039573
+Existing_entries: 453
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-04 02:21:40.692875
