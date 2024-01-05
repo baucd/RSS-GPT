@@ -5937,3 +5937,15 @@ Existing_entries: 456
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-04 22:08:31.539790
+------------------------------------------------------
+Started: 2024-01-05 00:39:34.389003
+Existing_entries: 456
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 478
+Summarized using GPT-3.5-turbo-1106
+Append: [Peloton与TikTok合作推出健身内容中心](https://cn.wsj.com/articles/peloton%E4%B8%8Etiktok%E5%90%88%E4%BD%9C%E6%8E%A8%E5%87%BA%E5%81%A5%E8%BA%AB%E5%86%85%E5%AE%B9%E4%B8%AD%E5%BF%83-d018e936)
+Token length: 587
+Summarized using GPT-3.5-turbo-1106
+Append: [中国预计其航空客运在2024年将加速回暖](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A2%84%E8%AE%A1%E5%85%B6%E8%88%AA%E7%A9%BA%E5%AE%A2%E8%BF%90%E5%9C%A82024%E5%B9%B4%E5%B0%86%E5%8A%A0%E9%80%9F%E5%9B%9E%E6%9A%96-ea7129c9)
+append_entries: 2
+Finish: 2024-01-05 00:39:55.237255
