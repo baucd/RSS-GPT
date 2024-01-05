@@ -5949,3 +5949,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国预计其航空客运在2024年将加速回暖](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%A2%84%E8%AE%A1%E5%85%B6%E8%88%AA%E7%A9%BA%E5%AE%A2%E8%BF%90%E5%9C%A82024%E5%B9%B4%E5%B0%86%E5%8A%A0%E9%80%9F%E5%9B%9E%E6%9A%96-ea7129c9)
 append_entries: 2
 Finish: 2024-01-05 00:39:55.237255
+------------------------------------------------------
+Started: 2024-01-05 02:22:22.914907
+Existing_entries: 458
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3134
+Summarized using GPT-3.5-turbo-1106
+Append: [特朗普执政期间外国政府在其产业花费数百万美元，中国和沙特位列前茅](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%A7%E6%94%BF%E6%9C%9F%E9%97%B4%E5%A4%96%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%9C%A8%E5%85%B6%E4%BA%A7%E4%B8%9A%E8%8A%B1%E8%B4%B9%E6%95%B0%E7%99%BE%E4%B8%87%E7%BE%8E%E5%85%83-%E4%B8%AD%E5%9B%BD%E5%92%8C%E6%B2%99%E7%89%B9%E4%BD%8D%E5%88%97%E5%89%8D%E8%8C%85-87622b49)
+Token length: 400
+Summarized using GPT-3.5-turbo-1106
+Append: [香港股市1月份出人意料的晴雨表](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E8%82%A1%E5%B8%821%E6%9C%88%E4%BB%BD%E5%87%BA%E4%BA%BA%E6%84%8F%E6%96%99%E7%9A%84%E6%99%B4%E9%9B%A8%E8%A1%A8-7e62b4e5)
+append_entries: 2
+Finish: 2024-01-05 02:22:39.557195
