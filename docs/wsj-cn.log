@@ -6054,3 +6054,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [腾讯大幅回购自家股票](https://cn.wsj.com/articles/%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%B4%AD%E8%87%AA%E5%AE%B6%E8%82%A1%E7%A5%A8-378234ce)
 append_entries: 3
 Finish: 2024-01-06 02:20:57.765282
+------------------------------------------------------
+Started: 2024-01-06 04:10:12.266236
+Existing_entries: 467
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-06 04:10:21.817024
