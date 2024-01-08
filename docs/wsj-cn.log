@@ -6243,3 +6243,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国议员敦促遏制中国在成熟制程芯片领域的主导地位](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%91%98%E6%95%A6%E4%BF%83%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9B%BD%E5%9C%A8%E6%88%90%E7%86%9F%E5%88%B6%E7%A8%8B%E8%8A%AF%E7%89%87%E9%A2%86%E5%9F%9F%E7%9A%84%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D-c9f2a2e2)
 append_entries: 2
 Finish: 2024-01-08 08:12:44.877723
+------------------------------------------------------
+Started: 2024-01-08 10:10:21.250680
+Existing_entries: 476
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 631
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币新年连跌五日；非农报告强劲、美联储降息预期进一步减弱](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E6%96%B0%E5%B9%B4%E8%BF%9E%E8%B7%8C%E4%BA%94%E6%97%A5-%E9%9D%9E%E5%86%9C%E6%8A%A5%E5%91%8A%E5%BC%BA%E5%8A%B2-%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%87%8F%E5%BC%B1-1dce2616)
+append_entries: 1
+Finish: 2024-01-08 10:10:37.458750
