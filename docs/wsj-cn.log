@@ -6288,3 +6288,15 @@ Existing_entries: 477
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-08 22:07:53.245815
+------------------------------------------------------
+Started: 2024-01-09 00:40:19.896429
+Existing_entries: 477
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 497
+Summarized using GPT-3.5-turbo-1106
+Append: [中国股市再创新低](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%86%8D%E5%88%9B%E6%96%B0%E4%BD%8E-df9b44f5)
+Token length: 577
+Summarized using GPT-3.5-turbo-1106
+Append: [英伟达发布新款芯片，与几家中国汽车制造商达成交易](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E8%8A%AF%E7%89%87-%E4%B8%8E%E5%87%A0%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E8%BE%BE%E6%88%90%E4%BA%A4%E6%98%93-0f9100c3)
+append_entries: 2
+Finish: 2024-01-09 00:40:38.024256
