@@ -6321,3 +6321,12 @@ Existing_entries: 480
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-09 06:11:59.073306
+------------------------------------------------------
+Started: 2024-01-09 08:11:32.339927
+Existing_entries: 480
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 693
+Summarized using GPT-3.5-turbo-1106
+Append: [字节跳动正与潜在买家洽谈出售多款游戏](https://cn.wsj.com/articles/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%AD%A3%E4%B8%8E%E6%BD%9C%E5%9C%A8%E4%B9%B0%E5%AE%B6%E6%B4%BD%E8%B0%88%E5%87%BA%E5%94%AE%E5%A4%9A%E6%AC%BE%E6%B8%B8%E6%88%8F-7f77ab57)
+append_entries: 1
+Finish: 2024-01-09 08:11:48.597966
