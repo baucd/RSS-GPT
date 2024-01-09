@@ -6351,3 +6351,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国2023年汽车销量进一步增长](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2023%E5%B9%B4%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%A2%9E%E9%95%BF-e9b3cae4)
 append_entries: 2
 Finish: 2024-01-09 12:15:54.721162
+------------------------------------------------------
+Started: 2024-01-09 14:08:29.727746
+Existing_entries: 484
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-09 14:08:38.969239
