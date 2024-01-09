@@ -6300,3 +6300,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [英伟达发布新款芯片，与几家中国汽车制造商达成交易](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E8%8A%AF%E7%89%87-%E4%B8%8E%E5%87%A0%E5%AE%B6%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E8%BE%BE%E6%88%90%E4%BA%A4%E6%98%93-0f9100c3)
 append_entries: 2
 Finish: 2024-01-09 00:40:38.024256
+------------------------------------------------------
+Started: 2024-01-09 02:24:20.436566
+Existing_entries: 479
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1801
+Summarized using GPT-3.5-turbo-1106
+Append: [中国称已拘捕一名英国间谍](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%A7%B0%E5%B7%B2%E6%8B%98%E6%8D%95%E4%B8%80%E5%90%8D%E8%8B%B1%E5%9B%BD%E9%97%B4%E8%B0%8D-c1a9ff8f)
+append_entries: 1
+Finish: 2024-01-09 02:24:35.856049
