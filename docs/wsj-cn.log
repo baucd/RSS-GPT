@@ -6399,3 +6399,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国电池生产商被吸引到欧盟开设硅阳极工厂，称可减少对中国的依赖](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E7%94%B5%E6%B1%A0%E7%94%9F%E4%BA%A7%E5%95%86%E8%A2%AB%E5%90%B8%E5%BC%95%E5%88%B0%E6%AC%A7%E7%9B%9F%E5%BC%80%E8%AE%BE%E7%A1%85%E9%98%B3%E6%9E%81%E5%B7%A5%E5%8E%82-%E7%A7%B0%E5%8F%AF%E5%87%8F%E5%B0%91%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BE%9D%E8%B5%96-a6abf89f)
 append_entries: 2
 Finish: 2024-01-10 02:23:49.894131
+------------------------------------------------------
+Started: 2024-01-10 04:10:59.437953
+Existing_entries: 486
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1447
+Summarized using GPT-3.5-turbo-1106
+Append: [油价在涨，煤炭就没那么走运了](https://cn.wsj.com/articles/%E6%B2%B9%E4%BB%B7%E5%9C%A8%E6%B6%A8-%E7%85%A4%E7%82%AD%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E8%B5%B0%E8%BF%90%E4%BA%86-88f9649e)
+append_entries: 1
+Finish: 2024-01-10 04:11:11.409196
