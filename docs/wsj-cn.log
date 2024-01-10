@@ -6420,3 +6420,12 @@ Existing_entries: 487
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-10 08:11:40.667677
+------------------------------------------------------
+Started: 2024-01-10 10:09:37.189508
+Existing_entries: 487
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 770
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三下跌、创年内新低](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E4%B8%8B%E8%B7%8C-%E5%88%9B%E5%B9%B4%E5%86%85%E6%96%B0%E4%BD%8E-bf63618d)
+append_entries: 1
+Finish: 2024-01-10 10:09:53.232506
