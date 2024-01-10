@@ -6408,3 +6408,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [油价在涨，煤炭就没那么走运了](https://cn.wsj.com/articles/%E6%B2%B9%E4%BB%B7%E5%9C%A8%E6%B6%A8-%E7%85%A4%E7%82%AD%E5%B0%B1%E6%B2%A1%E9%82%A3%E4%B9%88%E8%B5%B0%E8%BF%90%E4%BA%86-88f9649e)
 append_entries: 1
 Finish: 2024-01-10 04:11:11.409196
+------------------------------------------------------
+Started: 2024-01-10 06:11:46.684723
+Existing_entries: 487
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-10 06:11:56.071591
