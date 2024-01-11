@@ -6474,3 +6474,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [意大利忠利保险将全资拥有其在中国的财产和意外险业务](https://cn.wsj.com/articles/%E6%84%8F%E5%A4%A7%E5%88%A9%E5%BF%A0%E5%88%A9%E4%BF%9D%E9%99%A9%E5%B0%86%E5%85%A8%E8%B5%84%E6%8B%A5%E6%9C%89%E5%85%B6%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E8%B4%A2%E4%BA%A7%E5%92%8C%E6%84%8F%E5%A4%96%E9%99%A9%E4%B8%9A%E5%8A%A1-85d6d997)
 append_entries: 1
 Finish: 2024-01-11 00:41:21.468682
+------------------------------------------------------
+Started: 2024-01-11 02:24:26.612777
+Existing_entries: 489
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2266
+Summarized using GPT-3.5-turbo-1106
+Append: [中国提出“旧金山愿景”，含蓄告诫美国不要破坏现状](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8F%90%E5%87%BA-%E6%97%A7%E9%87%91%E5%B1%B1%E6%84%BF%E6%99%AF-%E5%90%AB%E8%93%84%E5%91%8A%E8%AF%AB%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E7%A0%B4%E5%9D%8F%E7%8E%B0%E7%8A%B6-346eac37)
+Token length: 1296
+Summarized using GPT-3.5-turbo-1106
+Append: [美国情报部门使用AI追踪瞄准关键基础设施的黑客](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E4%BD%BF%E7%94%A8ai%E8%BF%BD%E8%B8%AA%E7%9E%84%E5%87%86%E5%85%B3%E9%94%AE%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E9%BB%91%E5%AE%A2-d260dd53)
+append_entries: 2
+Finish: 2024-01-11 02:24:45.814591
