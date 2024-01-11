@@ -6522,3 +6522,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [报道：Citadel Securities提出收购瑞信中国业务](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-citadel%E6%8F%90%E5%87%BA%E6%94%B6%E8%B4%AD%E7%91%9E%E4%BF%A1%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1-ab4e7cd8)
 append_entries: 2
 Finish: 2024-01-11 10:10:15.984615
+------------------------------------------------------
+Started: 2024-01-11 12:15:35.689228
+Existing_entries: 495
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-11 12:15:44.530708
