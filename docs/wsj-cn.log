@@ -6486,3 +6486,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国情报部门使用AI追踪瞄准关键基础设施的黑客](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E9%83%A8%E9%97%A8%E4%BD%BF%E7%94%A8ai%E8%BF%BD%E8%B8%AA%E7%9E%84%E5%87%86%E5%85%B3%E9%94%AE%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E9%BB%91%E5%AE%A2-d260dd53)
 append_entries: 2
 Finish: 2024-01-11 02:24:45.814591
+------------------------------------------------------
+Started: 2024-01-11 04:11:03.100706
+Existing_entries: 491
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-11 04:11:12.447535
