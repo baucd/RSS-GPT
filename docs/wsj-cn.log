@@ -6588,3 +6588,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国12月PPI同比降幅转为收窄](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD12%E6%9C%88ppi%E5%90%8C%E6%AF%94%E9%99%8D%E5%B9%85%E8%BD%AC%E4%B8%BA%E6%94%B6%E7%AA%84-73241d19)
 append_entries: 3
 Finish: 2024-01-12 04:11:29.956634
+------------------------------------------------------
+Started: 2024-01-12 06:11:57.897855
+Existing_entries: 499
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-12 06:12:06.783405
