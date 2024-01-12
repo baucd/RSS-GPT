@@ -6573,3 +6573,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国12月份CPI同比下降0.3%，连续第三个月处于通缩区域](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD12%E6%9C%88%E4%BB%BDcpi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0-3-%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E4%B8%AA%E6%9C%88%E5%A4%84%E4%BA%8E%E9%80%9A%E7%BC%A9%E5%8C%BA%E5%9F%9F-3cddc93a)
 append_entries: 1
 Finish: 2024-01-12 02:25:20.488900
+------------------------------------------------------
+Started: 2024-01-12 04:11:04.440969
+Existing_entries: 496
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 933
+Summarized using GPT-3.5-turbo-1106
+Append: [中国12月出口连增两个月，2023年全年下降4.6%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD12%E6%9C%88%E5%87%BA%E5%8F%A3%E8%BF%9E%E5%A2%9E%E4%B8%A4%E4%B8%AA%E6%9C%88-2023%E5%B9%B4%E5%85%A8%E5%B9%B4%E4%B8%8B%E9%99%8D4-6-0f68e74e)
+Token length: 1734
+Summarized using GPT-3.5-turbo-1106
+Append: [现货比特币ETF陆续上市，但具先发优势的GBTC可以留住投资者](https://cn.wsj.com/articles/%E7%8E%B0%E8%B4%A7%E6%AF%94%E7%89%B9%E5%B8%81etf%E9%99%86%E7%BB%AD%E4%B8%8A%E5%B8%82-%E4%BD%86%E5%85%B7%E5%85%88%E5%8F%91%E4%BC%98%E5%8A%BF%E7%9A%84gbtc%E5%8F%AF%E4%BB%A5%E7%95%99%E4%BD%8F%E6%8A%95%E8%B5%84%E8%80%85-f5e56829)
+Token length: 1078
+Summarized using GPT-3.5-turbo-1106
+Append: [中国12月PPI同比降幅转为收窄](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD12%E6%9C%88ppi%E5%90%8C%E6%AF%94%E9%99%8D%E5%B9%85%E8%BD%AC%E4%B8%BA%E6%94%B6%E7%AA%84-73241d19)
+append_entries: 3
+Finish: 2024-01-12 04:11:29.956634
