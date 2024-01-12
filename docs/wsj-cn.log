@@ -6612,3 +6612,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币下跌；美国通胀高于预期、中国连续三个月陷入通缩区域](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%83%80%E9%AB%98%E4%BA%8E%E9%A2%84%E6%9C%9F-0c37619c)
 append_entries: 2
 Finish: 2024-01-12 10:09:47.282037
+------------------------------------------------------
+Started: 2024-01-12 12:15:34.654034
+Existing_entries: 501
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 469
+Summarized using GPT-3.5-turbo-1106
+Append: [特斯拉据称下调中国两款车型售价，以应对激烈竞争](https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E6%8D%AE%E7%A7%B0%E4%B8%8B%E8%B0%83%E4%B8%AD%E5%9B%BD%E4%B8%A4%E6%AC%BE%E8%BD%A6%E5%9E%8B%E5%94%AE%E4%BB%B7-%E4%BB%A5%E5%BA%94%E5%AF%B9%E6%BF%80%E7%83%88%E7%AB%9E%E4%BA%89-1658b9e8)
+append_entries: 1
+Finish: 2024-01-12 12:15:47.675748
