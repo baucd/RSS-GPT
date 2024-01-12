@@ -6564,3 +6564,12 @@ Existing_entries: 495
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-12 00:40:19.739976
+------------------------------------------------------
+Started: 2024-01-12 02:25:06.365954
+Existing_entries: 495
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1088
+Summarized using GPT-3.5-turbo-1106
+Append: [中国12月份CPI同比下降0.3%，连续第三个月处于通缩区域](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD12%E6%9C%88%E4%BB%BDcpi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D0-3-%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E4%B8%AA%E6%9C%88%E5%A4%84%E4%BA%8E%E9%80%9A%E7%BC%A9%E5%8C%BA%E5%9F%9F-3cddc93a)
+append_entries: 1
+Finish: 2024-01-12 02:25:20.488900
