@@ -6906,3 +6906,18 @@ Existing_entries: 511
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-16 02:24:30.515821
+------------------------------------------------------
+Started: 2024-01-16 04:10:57.989494
+Existing_entries: 511
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 466
+Summarized using GPT-3.5-turbo-1106
+Append: [中国电动汽车充电桩公司星星充电计划最快于2024年下半年赴港IPO](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%85%85%E7%94%B5%E6%A1%A9%E5%85%AC%E5%8F%B8%E6%98%9F%E6%98%9F%E5%85%85%E7%94%B5%E8%AE%A1%E5%88%92%E6%9C%80%E5%BF%AB%E4%BA%8E2024%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E8%B5%B4%E6%B8%AFipo-86391fbe)
+Token length: 1524
+Summarized using GPT-3.5-turbo-1106
+Append: [中美芯片战对阿斯麦的提振能否持久?](https://cn.wsj.com/articles/%E4%B8%AD%E7%BE%8E%E8%8A%AF%E7%89%87%E6%88%98%E5%AF%B9%E9%98%BF%E6%96%AF%E9%BA%A6%E7%9A%84%E6%8F%90%E6%8C%AF%E8%83%BD%E5%90%A6%E6%8C%81%E4%B9%85-36cf84bb)
+Token length: 2476
+Summarized using GPT-3.5-turbo-1106
+Append: [台湾大选过后，台海和平繁荣仍有希望](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E8%BF%87%E5%90%8E-%E5%8F%B0%E6%B5%B7%E5%92%8C%E5%B9%B3%E7%B9%81%E8%8D%A3%E4%BB%8D%E6%9C%89%E5%B8%8C%E6%9C%9B-dc4c15e8)
+append_entries: 3
+Finish: 2024-01-16 04:11:19.196389
