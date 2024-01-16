@@ -6939,3 +6939,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [铀价升至16年内高点，但还有上涨空间](https://cn.wsj.com/articles/%E9%93%80%E4%BB%B7%E5%8D%87%E8%87%B316%E5%B9%B4%E5%86%85%E9%AB%98%E7%82%B9-%E4%BD%86%E8%BF%98%E6%9C%89%E4%B8%8A%E6%B6%A8%E7%A9%BA%E9%97%B4-d8fe3364)
 append_entries: 2
 Finish: 2024-01-16 08:12:04.405929
+------------------------------------------------------
+Started: 2024-01-16 10:09:41.938890
+Existing_entries: 516
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-16 10:09:51.062508
