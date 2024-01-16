@@ -6927,3 +6927,15 @@ Existing_entries: 514
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-16 06:12:06.482970
+------------------------------------------------------
+Started: 2024-01-16 08:11:46.565873
+Existing_entries: 514
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1054
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产类股下跌，因销售额疲软导致市场人气低迷](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E7%B1%BB%E8%82%A1%E4%B8%8B%E8%B7%8C-%E5%9B%A0%E9%94%80%E5%94%AE%E9%A2%9D%E7%96%B2%E8%BD%AF%E5%AF%BC%E8%87%B4%E5%B8%82%E5%9C%BA%E4%BA%BA%E6%B0%94%E4%BD%8E%E8%BF%B7-cc074b5d)
+Token length: 1679
+Summarized using GPT-3.5-turbo-1106
+Append: [铀价升至16年内高点，但还有上涨空间](https://cn.wsj.com/articles/%E9%93%80%E4%BB%B7%E5%8D%87%E8%87%B316%E5%B9%B4%E5%86%85%E9%AB%98%E7%82%B9-%E4%BD%86%E8%BF%98%E6%9C%89%E4%B8%8A%E6%B6%A8%E7%A9%BA%E9%97%B4-d8fe3364)
+append_entries: 2
+Finish: 2024-01-16 08:12:04.405929
