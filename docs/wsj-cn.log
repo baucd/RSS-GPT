@@ -6921,3 +6921,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [台湾大选过后，台海和平繁荣仍有希望](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E5%A4%A7%E9%80%89%E8%BF%87%E5%90%8E-%E5%8F%B0%E6%B5%B7%E5%92%8C%E5%B9%B3%E7%B9%81%E8%8D%A3%E4%BB%8D%E6%9C%89%E5%B8%8C%E6%9C%9B-dc4c15e8)
 append_entries: 3
 Finish: 2024-01-16 04:11:19.196389
+------------------------------------------------------
+Started: 2024-01-16 06:11:59.251135
+Existing_entries: 514
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-16 06:12:06.482970
