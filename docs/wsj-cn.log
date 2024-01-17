@@ -7035,3 +7035,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国2023年内需对经济增长的贡献率大幅升至111.4%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2023%E5%B9%B4%E5%86%85%E9%9C%80%E5%AF%B9%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E7%9A%84%E8%B4%A1%E7%8C%AE%E7%8E%87%E5%A4%A7%E5%B9%85%E5%8D%87%E8%87%B3111-4-b384caf9)
 append_entries: 1
 Finish: 2024-01-17 06:11:55.752118
+------------------------------------------------------
+Started: 2024-01-17 08:11:42.924326
+Existing_entries: 526
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 658
+Summarized using GPT-3.5-turbo-1106
+Append: [现代汽车不足半价出售一家中国工厂](https://cn.wsj.com/articles/%E7%8E%B0%E4%BB%A3%E6%B1%BD%E8%BD%A6%E4%B8%8D%E8%B6%B3%E5%8D%8A%E4%BB%B7%E5%87%BA%E5%94%AE%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%8E%82-6e7acccb)
+Token length: 888
+Summarized using GPT-3.5-turbo-1106
+Append: [中国电动汽车股下跌，受特斯拉降价和行业销售疲软拖累](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%82%A1%E4%B8%8B%E8%B7%8C-%E5%8F%97%E7%89%B9%E6%96%AF%E6%8B%89%E9%99%8D%E4%BB%B7%E5%92%8C%E9%94%80%E5%94%AE%E7%96%B2%E8%BD%AF%E6%8B%96%E7%B4%AF-9ac00d17)
+append_entries: 2
+Finish: 2024-01-17 08:12:06.202075
