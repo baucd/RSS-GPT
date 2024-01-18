@@ -7101,3 +7101,18 @@ Existing_entries: 530
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-18 00:40:03.485200
+------------------------------------------------------
+Started: 2024-01-18 02:24:16.152125
+Existing_entries: 530
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2523
+Summarized using GPT-3.5-turbo-1106
+Append: [中国实验室绘制出新冠图谱两周后，北京才向世界公布](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%9E%E9%AA%8C%E5%AE%A4%E7%BB%98%E5%88%B6%E5%87%BA%E6%96%B0%E5%86%A0%E5%9B%BE%E8%B0%B1%E4%B8%A4%E5%91%A8%E5%90%8E-%E5%8C%97%E4%BA%AC%E6%89%8D%E5%90%91%E4%B8%96%E7%95%8C%E5%85%AC%E5%B8%83-49f37d5e)
+Token length: 1018
+Summarized using GPT-3.5-turbo-1106
+Append: [前澳大利亚总理陆克文反驳“中国触顶论”](https://cn.wsj.com/articles/%E5%89%8D%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E6%80%BB%E7%90%86%E9%99%86%E5%85%8B%E6%96%87%E5%8F%8D%E9%A9%B3-%E4%B8%AD%E5%9B%BD%E8%A7%A6%E9%A1%B6%E8%AE%BA-d0b01248)
+Token length: 1466
+Summarized using GPT-3.5-turbo-1106
+Append: [中国经济步履蹒跚地走进2024年](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%AD%A5%E5%B1%A5%E8%B9%92%E8%B7%9A%E5%9C%B0%E8%B5%B0%E8%BF%9B2024%E5%B9%B4-ff7da4b6)
+append_entries: 3
+Finish: 2024-01-18 02:24:58.242375
