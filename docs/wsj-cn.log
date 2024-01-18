@@ -7155,3 +7155,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [自助洗衣店和VPN——中国加密货币交易者绕开监管的秘密手段](https://cn.wsj.com/articles/%E8%87%AA%E5%8A%A9%E6%B4%97%E8%A1%A3%E5%BA%97%E5%92%8Cvpn-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E4%BA%A4%E6%98%93%E8%80%85%E7%BB%95%E5%BC%80%E7%9B%91%E7%AE%A1%E7%9A%84%E7%A7%98%E5%AF%86%E6%89%8B%E6%AE%B5-9eaf3553)
 append_entries: 3
 Finish: 2024-01-18 10:10:46.234040
+------------------------------------------------------
+Started: 2024-01-18 12:16:04.004370
+Existing_entries: 538
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 448
+Summarized using GPT-3.5-turbo-1106
+Append: [IEA：石油需求增长放缓标志着回归到疫情前的趋势](https://cn.wsj.com/articles/iea-%E7%9F%B3%E6%B2%B9%E9%9C%80%E6%B1%82%E5%A2%9E%E9%95%BF%E6%94%BE%E7%BC%93%E6%A0%87%E5%BF%97%E7%9D%80%E5%9B%9E%E5%BD%92%E5%88%B0%E7%96%AB%E6%83%85%E5%89%8D%E7%9A%84%E8%B6%8B%E5%8A%BF-80ae6841)
+append_entries: 1
+Finish: 2024-01-18 12:16:27.236287
