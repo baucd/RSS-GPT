@@ -7221,3 +7221,12 @@ Existing_entries: 540
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-19 06:12:04.324017
+------------------------------------------------------
+Started: 2024-01-19 08:11:37.430784
+Existing_entries: 540
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2402
+Summarized using GPT-3.5-turbo-1106
+Append: [为何说印度很难成为下一个中国？](https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E5%8D%B0%E5%BA%A6%E5%BE%88%E9%9A%BE%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%B8%AD%E5%9B%BD-4264820c)
+append_entries: 1
+Finish: 2024-01-19 08:11:56.950798
