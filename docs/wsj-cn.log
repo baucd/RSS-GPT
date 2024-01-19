@@ -7215,3 +7215,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [专注中国的ETF日子不好过，市场担心中国开展新一轮监管整顿](https://cn.wsj.com/articles/%E4%B8%93%E6%B3%A8%E4%B8%AD%E5%9B%BD%E7%9A%84etf%E6%97%A5%E5%AD%90%E4%B8%8D%E5%A5%BD%E8%BF%87-%E5%B8%82%E5%9C%BA%E6%8B%85%E5%BF%83%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%B1%95%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9B%91%E7%AE%A1%E6%95%B4%E9%A1%BF-7d3f9f80)
 append_entries: 1
 Finish: 2024-01-19 04:11:13.179552
+------------------------------------------------------
+Started: 2024-01-19 06:11:56.453985
+Existing_entries: 540
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-19 06:12:04.324017
