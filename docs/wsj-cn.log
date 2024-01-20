@@ -7296,3 +7296,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国工商银行因违规被纽约金融监管机构和美联储合计罚款3,200万美元](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E5%9B%A0%E8%BF%9D%E8%A7%84%E8%A2%AB%E7%BA%BD%E7%BA%A6%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%92%8C%E7%BE%8E%E8%81%94%E5%82%A8%E5%90%88%E8%AE%A1%E7%BD%9A%E6%AC%BE3-200%E4%B8%87%E7%BE%8E%E5%85%83-80f664e2)
 append_entries: 2
 Finish: 2024-01-20 02:24:18.474990
+------------------------------------------------------
+Started: 2024-01-20 04:10:22.946052
+Existing_entries: 545
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-20 04:10:30.479069
