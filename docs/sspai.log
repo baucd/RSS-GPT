@@ -13073,3 +13073,12 @@ Existing_entries: 442
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-01-20 06:10:36.391939
+------------------------------------------------------
+Started: 2024-01-20 08:10:15.134205
+Existing_entries: 442
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 4850
+Summarized using GPT-3.5-turbo-1106
+Append: [App+1 | 使用 Asciidoc 制作学术个人主页](https://sspai.com/post/85757)
+append_entries: 1
+Finish: 2024-01-20 08:10:28.497510
