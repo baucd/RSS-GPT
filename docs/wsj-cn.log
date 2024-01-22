@@ -7485,3 +7485,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国股市继续大幅下跌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E7%BB%A7%E7%BB%AD%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C-c9fce13f)
 append_entries: 1
 Finish: 2024-01-22 12:17:08.712815
+------------------------------------------------------
+Started: 2024-01-22 14:09:18.011825
+Existing_entries: 550
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-22 14:09:26.937512
