@@ -7443,3 +7443,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国1月LPR保持不变，降息预期继续落空](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1%E6%9C%88lpr%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98-%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E7%BB%A7%E7%BB%AD%E8%90%BD%E7%A9%BA-8cbd8eb0)
 append_entries: 1
 Finish: 2024-01-22 02:29:01.392190
+------------------------------------------------------
+Started: 2024-01-22 04:12:18.646052
+Existing_entries: 546
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 6474
+Summarized using GPT-3.5-turbo-1106
+Append: [美国正如何削弱中国在非洲的影响力？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%A6%82%E4%BD%95%E5%89%8A%E5%BC%B1%E4%B8%AD%E5%9B%BD%E5%9C%A8%E9%9D%9E%E6%B4%B2%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B-3e6e809a)
+Token length: 2588
+Summarized using GPT-3.5-turbo-1106
+Append: [中国重新发布青年失业率，但新统计方法未打消一些经济学家的疑虑](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%87%8D%E6%96%B0%E5%8F%91%E5%B8%83%E9%9D%92%E5%B9%B4%E5%A4%B1%E4%B8%9A%E7%8E%87-%E4%BD%86%E6%96%B0%E7%BB%9F%E8%AE%A1%E6%96%B9%E6%B3%95%E6%9C%AA%E6%89%93%E6%B6%88%E4%B8%80%E4%BA%9B%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E7%9A%84%E7%96%91%E8%99%91-f89c50f1)
+append_entries: 2
+Finish: 2024-01-22 04:12:34.103341
