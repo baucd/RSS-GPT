@@ -7434,3 +7434,12 @@ Existing_entries: 545
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-22 00:42:16.755942
+------------------------------------------------------
+Started: 2024-01-22 02:28:48.497494
+Existing_entries: 545
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 800
+Summarized using GPT-3.5-turbo-1106
+Append: [中国1月LPR保持不变，降息预期继续落空](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1%E6%9C%88lpr%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98-%E9%99%8D%E6%81%AF%E9%A2%84%E6%9C%9F%E7%BB%A7%E7%BB%AD%E8%90%BD%E7%A9%BA-8cbd8eb0)
+append_entries: 1
+Finish: 2024-01-22 02:29:01.392190
