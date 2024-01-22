@@ -7464,3 +7464,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国低出生率将拖累股市，但可能是几十年之后的事](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BD%8E%E5%87%BA%E7%94%9F%E7%8E%87%E5%B0%86%E6%8B%96%E7%B4%AF%E8%82%A1%E5%B8%82-%E4%BD%86%E5%8F%AF%E8%83%BD%E6%98%AF%E5%87%A0%E5%8D%81%E5%B9%B4%E4%B9%8B%E5%90%8E%E7%9A%84%E4%BA%8B-49890547)
 append_entries: 1
 Finish: 2024-01-22 06:12:53.835921
+------------------------------------------------------
+Started: 2024-01-22 08:12:24.235890
+Existing_entries: 549
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-22 08:12:33.109473
