@@ -7587,3 +7587,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国房地产市场跌势加深，房企剑走偏锋促销](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E8%B7%8C%E5%8A%BF%E5%8A%A0%E6%B7%B1-%E6%88%BF%E4%BC%81%E5%89%91%E8%B5%B0%E5%81%8F%E9%94%8B%E4%BF%83%E9%94%80-d8c90b0f)
 append_entries: 3
 Finish: 2024-01-23 10:10:06.216500
+------------------------------------------------------
+Started: 2024-01-23 12:15:49.523901
+Existing_entries: 562
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-23 12:15:59.339807
