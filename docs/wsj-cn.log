@@ -7572,3 +7572,18 @@ Existing_entries: 559
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-23 08:12:53.913676
+------------------------------------------------------
+Started: 2024-01-23 10:09:35.241271
+Existing_entries: 559
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 433
+Summarized using GPT-3.5-turbo-1106
+Append: [恒生指数从低点跃升](https://cn.wsj.com/articles/%E6%81%92%E7%94%9F%E6%8C%87%E6%95%B0%E4%BB%8E%E4%BD%8E%E7%82%B9%E8%B7%83%E5%8D%87-1286cfe8)
+Token length: 692
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周二跳涨](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%8C%E8%B7%B3%E6%B6%A8-6b248a98)
+Token length: 1703
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产市场跌势加深，房企剑走偏锋促销](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA%E8%B7%8C%E5%8A%BF%E5%8A%A0%E6%B7%B1-%E6%88%BF%E4%BC%81%E5%89%91%E8%B5%B0%E5%81%8F%E9%94%8B%E4%BF%83%E9%94%80-d8c90b0f)
+append_entries: 3
+Finish: 2024-01-23 10:10:06.216500
