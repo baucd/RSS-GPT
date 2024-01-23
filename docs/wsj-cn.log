@@ -7554,3 +7554,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [逃离中国的投资者正大举进军日本股市](https://cn.wsj.com/articles/%E9%80%83%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E5%A4%A7%E4%B8%BE%E8%BF%9B%E5%86%9B%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82-7657fe69)
 append_entries: 1
 Finish: 2024-01-23 04:11:33.357222
+------------------------------------------------------
+Started: 2024-01-23 06:11:57.612269
+Existing_entries: 557
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 347
+Summarized using GPT-3.5-turbo-1106
+Append: [报道：中国寻求推出人民币2万亿元一揽子计划救市](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E4%B8%AD%E5%9B%BD%E5%AF%BB%E6%B1%82%E6%8E%A8%E5%87%BA%E4%BA%BA%E6%B0%91%E5%B8%812%E4%B8%87%E4%BA%BF%E5%85%83%E4%B8%80%E6%8F%BD%E5%AD%90%E8%AE%A1%E5%88%92%E6%95%91%E5%B8%82-d609cae0)
+Token length: 693
+Summarized using GPT-3.5-turbo-1106
+Append: [中国华融股价大涨，此前预测2023年将扭亏为盈](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%8D%8E%E8%9E%8D%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A8-%E6%AD%A4%E5%89%8D%E9%A2%84%E6%B5%8B2023%E5%B9%B4%E5%B0%86%E6%89%AD%E4%BA%8F%E4%B8%BA%E7%9B%88-3c78e7a0)
+append_entries: 2
+Finish: 2024-01-23 06:12:18.392247
