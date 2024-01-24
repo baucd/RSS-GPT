@@ -7698,3 +7698,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [香港股市大涨，此前中国宣布降准](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8-%E6%AD%A4%E5%89%8D%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86-f23bc22b)
 append_entries: 2
 Finish: 2024-01-24 12:17:18.998378
+------------------------------------------------------
+Started: 2024-01-24 14:08:57.168845
+Existing_entries: 573
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-24 14:09:07.683907
