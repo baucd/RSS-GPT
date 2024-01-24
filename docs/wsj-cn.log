@@ -7668,3 +7668,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [碧桂园寻求通过资产出售筹资逾5亿美元](https://cn.wsj.com/articles/%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%AF%BB%E6%B1%82%E9%80%9A%E8%BF%87%E8%B5%84%E4%BA%A7%E5%87%BA%E5%94%AE%E7%AD%B9%E8%B5%84%E9%80%BE5%E4%BA%BF%E7%BE%8E%E5%85%83-ad73acb9)
 append_entries: 1
 Finish: 2024-01-24 06:12:32.470623
+------------------------------------------------------
+Started: 2024-01-24 08:11:45.946089
+Existing_entries: 569
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-24 08:11:55.165115
