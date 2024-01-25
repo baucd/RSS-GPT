@@ -7752,3 +7752,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国宣布降准释放了什么信号？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%87%8A%E6%94%BE%E4%BA%86%E4%BB%80%E4%B9%88%E4%BF%A1%E5%8F%B7-2a1bb123)
 append_entries: 2
 Finish: 2024-01-25 02:26:56.971762
+------------------------------------------------------
+Started: 2024-01-25 04:11:30.340001
+Existing_entries: 577
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-25 04:11:37.737607
