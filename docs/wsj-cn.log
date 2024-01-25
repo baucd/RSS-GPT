@@ -7728,3 +7728,15 @@ Existing_entries: 573
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-24 22:08:31.091558
+------------------------------------------------------
+Started: 2024-01-25 00:41:01.505756
+Existing_entries: 573
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 363
+Summarized using GPT-3.5-turbo-1106
+Append: [马斯克：中国汽车制造商是全球最具竞争力的车企](https://cn.wsj.com/articles/%E9%A9%AC%E6%96%AF%E5%85%8B-%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%98%AF%E5%85%A8%E7%90%83%E6%9C%80%E5%85%B7%E7%AB%9E%E4%BA%89%E5%8A%9B%E7%9A%84%E8%BD%A6%E4%BC%81-931b192b)
+Token length: 808
+Summarized using GPT-3.5-turbo-1106
+Append: [阿里巴巴股价上涨，联合创始人马云和蔡崇信买入股票](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-%E8%81%94%E5%90%88%E5%88%9B%E5%A7%8B%E4%BA%BA%E9%A9%AC%E4%BA%91%E5%92%8C%E8%94%A1%E5%B4%87%E4%BF%A1%E4%B9%B0%E5%85%A5%E8%82%A1%E7%A5%A8-9a700cf3)
+append_entries: 2
+Finish: 2024-01-25 00:41:17.384259
