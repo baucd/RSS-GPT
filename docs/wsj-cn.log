@@ -7773,3 +7773,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国电动汽车生产商股价下跌，受特斯拉业绩展望拖累](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7%E5%95%86%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E5%8F%97%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%9A%E7%BB%A9%E5%B1%95%E6%9C%9B%E6%8B%96%E7%B4%AF-a14d4c23)
 append_entries: 1
 Finish: 2024-01-25 08:12:29.495592
+------------------------------------------------------
+Started: 2024-01-25 10:09:45.370388
+Existing_entries: 578
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 629
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币转为下跌](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BD%AC%E4%B8%BA%E4%B8%8B%E8%B7%8C-493b703d)
+append_entries: 1
+Finish: 2024-01-25 10:09:58.290311
