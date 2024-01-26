@@ -7881,3 +7881,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国针对中国生物技术公司的拟议法案引发药明系股票暴跌](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%89%A9%E6%8A%80%E6%9C%AF%E5%85%AC%E5%8F%B8%E7%9A%84%E6%8B%9F%E8%AE%AE%E6%B3%95%E6%A1%88%E5%BC%95%E5%8F%91%E8%8D%AF%E6%98%8E%E7%B3%BB%E8%82%A1%E7%A5%A8%E6%9A%B4%E8%B7%8C-cc5e8ee1)
 append_entries: 2
 Finish: 2024-01-26 10:09:13.231895
+------------------------------------------------------
+Started: 2024-01-26 12:14:16.982984
+Existing_entries: 588
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 777
+Summarized using GPT-3.5-turbo-1106
+Append: [中国生物科技股受美国拟议法案影响大跌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8B%9F%E8%AE%AE%E6%B3%95%E6%A1%88%E5%BD%B1%E5%93%8D%E6%9A%B4%E8%B7%8C-05e95336)
+append_entries: 1
+Finish: 2024-01-26 12:14:28.678377
