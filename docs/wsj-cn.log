@@ -7818,3 +7818,12 @@ Existing_entries: 579
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-25 22:06:51.465576
+------------------------------------------------------
+Started: 2024-01-26 00:38:04.735559
+Existing_entries: 579
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 661
+Summarized using GPT-3.5-turbo-1106
+Append: [苹果手机在中国第四季度出货量下降，但全年销量仍居第一](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%87%BA%E8%B4%A7%E9%87%8F%E4%B8%8B%E9%99%8D-%E4%BD%86%E5%85%A8%E5%B9%B4%E9%94%80%E9%87%8F%E4%BB%8D%E5%B1%85%E7%AC%AC%E4%B8%80-f0d83ced)
+append_entries: 1
+Finish: 2024-01-26 00:38:19.675116
