@@ -7842,3 +7842,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [一名英国商人在中国工作了40年，然后消失了](https://cn.wsj.com/articles/%E4%B8%80%E5%90%8D%E8%8B%B1%E5%9B%BD%E5%95%86%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BD%9C%E4%BA%8640%E5%B9%B4-%E7%84%B6%E5%90%8E%E6%B6%88%E5%A4%B1%E4%BA%86-bf5c4b5f)
 append_entries: 3
 Finish: 2024-01-26 02:17:39.059704
+------------------------------------------------------
+Started: 2024-01-26 04:11:05.808672
+Existing_entries: 583
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1265
+Summarized using GPT-3.5-turbo-1106
+Append: [中国投资者涌向美国和日本资产](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E6%B6%8C%E5%90%91%E7%BE%8E%E5%9B%BD%E5%92%8C%E6%97%A5%E6%9C%AC%E8%B5%84%E4%BA%A7-502dcf99)
+Token length: 1093
+Summarized using GPT-3.5-turbo-1106
+Append: [中国降准解决不了长期经济问题](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%99%8D%E5%87%86%E8%A7%A3%E5%86%B3%E4%B8%8D%E4%BA%86%E9%95%BF%E6%9C%9F%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98-9804cd62)
+append_entries: 2
+Finish: 2024-01-26 04:11:23.054589
