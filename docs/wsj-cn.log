@@ -7827,3 +7827,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [苹果手机在中国第四季度出货量下降，但全年销量仍居第一](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%87%BA%E8%B4%A7%E9%87%8F%E4%B8%8B%E9%99%8D-%E4%BD%86%E5%85%A8%E5%B9%B4%E9%94%80%E9%87%8F%E4%BB%8D%E5%B1%85%E7%AC%AC%E4%B8%80-f0d83ced)
 append_entries: 1
 Finish: 2024-01-26 00:38:19.675116
+------------------------------------------------------
+Started: 2024-01-26 02:17:15.095251
+Existing_entries: 580
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2674
+Summarized using GPT-3.5-turbo-1106
+Append: [中国火速出台刺激举措表明对经济的担忧加大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%81%AB%E9%80%9F%E5%87%BA%E5%8F%B0%E5%88%BA%E6%BF%80%E4%B8%BE%E6%8E%AA%E8%A1%A8%E6%98%8E%E5%AF%B9%E7%BB%8F%E6%B5%8E%E7%9A%84%E6%8B%85%E5%BF%A7%E5%8A%A0%E5%A4%A7-1520e46c)
+Token length: 981
+Summarized using GPT-3.5-turbo-1106
+Append: [中国投资者对美股ETF的强烈需求暂时停歇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85%E5%AF%B9%E7%BE%8E%E8%82%A1etf%E7%9A%84%E5%BC%BA%E7%83%88%E9%9C%80%E6%B1%82%E6%9A%82%E6%97%B6%E5%81%9C%E6%AD%87-39b2860f)
+Token length: 3174
+Summarized using GPT-3.5-turbo-1106
+Append: [一名英国商人在中国工作了40年，然后消失了](https://cn.wsj.com/articles/%E4%B8%80%E5%90%8D%E8%8B%B1%E5%9B%BD%E5%95%86%E4%BA%BA%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B7%A5%E4%BD%9C%E4%BA%8640%E5%B9%B4-%E7%84%B6%E5%90%8E%E6%B6%88%E5%A4%B1%E4%BA%86-bf5c4b5f)
+append_entries: 3
+Finish: 2024-01-26 02:17:39.059704
