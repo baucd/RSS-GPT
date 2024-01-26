@@ -7890,3 +7890,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国生物科技股受美国拟议法案影响大跌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%94%9F%E7%89%A9%E7%A7%91%E6%8A%80%E8%82%A1%E5%8F%97%E7%BE%8E%E5%9B%BD%E6%8B%9F%E8%AE%AE%E6%B3%95%E6%A1%88%E5%BD%B1%E5%93%8D%E6%9A%B4%E8%B7%8C-05e95336)
 append_entries: 1
 Finish: 2024-01-26 12:14:28.678377
+------------------------------------------------------
+Started: 2024-01-26 14:07:51.140777
+Existing_entries: 589
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-26 14:07:58.895106
