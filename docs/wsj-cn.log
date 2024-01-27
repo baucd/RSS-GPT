@@ -7926,3 +7926,12 @@ Existing_entries: 589
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-27 00:37:40.308398
+------------------------------------------------------
+Started: 2024-01-27 02:12:46.228476
+Existing_entries: 589
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 731
+Summarized using GPT-3.5-turbo-1106
+Append: [中国敦促伊朗向胡塞武装施压，要求其停止红海袭击](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%A6%E4%BF%83%E4%BC%8A%E6%9C%97%E5%90%91%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E6%96%BD%E5%8E%8B-%E8%A6%81%E6%B1%82%E5%85%B6%E5%81%9C%E6%AD%A2%E7%BA%A2%E6%B5%B7%E8%A2%AD%E5%87%BB-a30b5a3a)
+append_entries: 1
+Finish: 2024-01-27 02:12:58.702954
