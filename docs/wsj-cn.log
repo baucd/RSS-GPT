@@ -8119,3 +8119,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [新华社：中国拟将三大资产管理公司并入中投公司](https://cn.wsj.com/articles/%E6%96%B0%E5%8D%8E%E7%A4%BE-%E4%B8%AD%E5%9B%BD%E6%8B%9F%E5%B0%86%E4%B8%89%E5%A4%A7%E8%B5%84%E4%BA%A7%E7%AE%A1%E7%90%86%E5%85%AC%E5%8F%B8%E5%B9%B6%E5%85%A5%E4%B8%AD%E6%8A%95%E5%85%AC%E5%8F%B8-a57652eb)
 append_entries: 1
 Finish: 2024-01-29 08:11:13.936638
+------------------------------------------------------
+Started: 2024-01-29 10:09:12.916370
+Existing_entries: 599
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 548
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周一小幅反弹；美元指数反复震荡](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%80%E5%B0%8F%E5%B9%85%E5%8F%8D%E5%BC%B9-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%8F%8D%E5%A4%8D%E9%9C%87%E8%8D%A1-a74d0bbb)
+append_entries: 1
+Finish: 2024-01-29 10:09:26.892769
