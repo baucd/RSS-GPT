@@ -8137,3 +8137,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国出台稳定市场新规，暂停限售股出借](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%B0%E7%A8%B3%E5%AE%9A%E5%B8%82%E5%9C%BA%E6%96%B0%E8%A7%84-%E6%9A%82%E5%81%9C%E9%99%90%E5%94%AE%E8%82%A1%E5%87%BA%E5%80%9F-90ab9f75)
 append_entries: 1
 Finish: 2024-01-29 12:15:00.923323
+------------------------------------------------------
+Started: 2024-01-29 14:07:56.312203
+Existing_entries: 601
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-29 14:08:04.095150
