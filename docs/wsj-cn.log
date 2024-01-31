@@ -8329,3 +8329,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [花旗任命陆烜为花旗中国总裁](https://cn.wsj.com/articles/%E8%8A%B1%E6%97%97%E4%BB%BB%E5%91%BD%E9%99%86%E7%83%9C%E4%B8%BA%E8%8A%B1%E6%97%97%E4%B8%AD%E5%9B%BD%E6%80%BB%E8%A3%81-1cd138d1)
 append_entries: 3
 Finish: 2024-01-31 08:11:05.973999
+------------------------------------------------------
+Started: 2024-01-31 10:08:44.802157
+Existing_entries: 621
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2548
+Summarized using GPT-3.5-turbo-1106
+Append: [对中国经济的负面看法正从网上消失](https://cn.wsj.com/articles/%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%B4%9F%E9%9D%A2%E7%9C%8B%E6%B3%95%E6%AD%A3%E4%BB%8E%E7%BD%91%E4%B8%8A%E6%B6%88%E5%A4%B1-02331832)
+Token length: 738
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三小幅下跌，美联储今年首个利率决议落地前，美指偏强震荡](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E5%B0%8F%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E8%81%94%E5%82%A8%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E5%88%A9%E7%8E%87%E5%86%B3%E8%AE%AE%E8%90%BD%E5%9C%B0%E5%89%8D-%E7%BE%8E%E6%8C%87%E5%81%8F%E5%BC%BA%E9%9C%87%E8%8D%A1-ad95b627)
+append_entries: 2
+Finish: 2024-01-31 10:09:11.898043
