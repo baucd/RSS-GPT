@@ -8308,3 +8308,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [恒大完了，但中国的房地产危机尚未结束](https://cn.wsj.com/articles/%E6%81%92%E5%A4%A7%E5%AE%8C%E4%BA%86-%E4%BD%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%8D%B1%E6%9C%BA%E5%B0%9A%E6%9C%AA%E7%BB%93%E6%9D%9F-3a91447f)
 append_entries: 2
 Finish: 2024-01-31 04:10:41.476225
+------------------------------------------------------
+Started: 2024-01-31 06:11:08.437328
+Existing_entries: 618
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-01-31 06:11:15.872513
