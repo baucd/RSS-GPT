@@ -8269,3 +8269,12 @@ Existing_entries: 611
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-30 22:07:30.325005
+------------------------------------------------------
+Started: 2024-01-31 00:38:15.548746
+Existing_entries: 611
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 677
+Summarized using GPT-3.5-turbo-1106
+Append: [TikTok努力保护美国数据不受其中国母公司的影响](https://cn.wsj.com/articles/tiktok%E5%8A%AA%E5%8A%9B%E4%BF%9D%E6%8A%A4%E7%BE%8E%E5%9B%BD%E6%95%B0%E6%8D%AE%E4%B8%8D%E5%8F%97%E5%85%B6%E4%B8%AD%E5%9B%BD%E6%AF%8D%E5%85%AC%E5%8F%B8%E7%9A%84%E5%BD%B1%E5%93%8D-16651c1b)
+append_entries: 1
+Finish: 2024-01-31 00:38:26.839376
