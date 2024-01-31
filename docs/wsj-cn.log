@@ -8296,3 +8296,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国就芯片运输问题调查图森未来](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%B0%B1%E8%8A%AF%E7%89%87%E8%BF%90%E8%BE%93%E9%97%AE%E9%A2%98%E8%B0%83%E6%9F%A5%E5%9B%BE%E6%A3%AE%E6%9C%AA%E6%9D%A5-734a8b83)
 append_entries: 4
 Finish: 2024-01-31 02:16:39.541265
+------------------------------------------------------
+Started: 2024-01-31 04:10:21.403917
+Existing_entries: 616
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1450
+Summarized using GPT-3.5-turbo-1106
+Append: [香港启动《基本法》第23条立法，扩大国安打击范围](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%90%AF%E5%8A%A8-%E5%9F%BA%E6%9C%AC%E6%B3%95-%E7%AC%AC23%E6%9D%A1%E7%AB%8B%E6%B3%95-%E6%89%A9%E5%A4%A7%E5%9B%BD%E5%AE%89%E6%89%93%E5%87%BB%E8%8C%83%E5%9B%B4-15c08a91)
+Token length: 2138
+Summarized using GPT-3.5-turbo-1106
+Append: [恒大完了，但中国的房地产危机尚未结束](https://cn.wsj.com/articles/%E6%81%92%E5%A4%A7%E5%AE%8C%E4%BA%86-%E4%BD%86%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%8D%B1%E6%9C%BA%E5%B0%9A%E6%9C%AA%E7%BB%93%E6%9D%9F-3a91447f)
+append_entries: 2
+Finish: 2024-01-31 04:10:41.476225
