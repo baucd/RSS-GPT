@@ -8314,3 +8314,18 @@ Existing_entries: 618
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-31 06:11:15.872513
+------------------------------------------------------
+Started: 2024-01-31 08:10:32.533687
+Existing_entries: 618
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1830
+Summarized using GPT-3.5-turbo-1106
+Append: [中国制造业活动连续第四个月萎缩](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%B4%BB%E5%8A%A8%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E4%B8%AA%E6%9C%88%E8%90%8E%E7%BC%A9-fc117b8e)
+Token length: 752
+Summarized using GPT-3.5-turbo-1106
+Append: [中国锂生产商股价在发布盈利预警后下跌](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%94%82%E7%94%9F%E4%BA%A7%E5%95%86%E8%82%A1%E4%BB%B7%E5%9C%A8%E5%8F%91%E5%B8%83%E7%9B%88%E5%88%A9%E9%A2%84%E8%AD%A6%E5%90%8E%E4%B8%8B%E8%B7%8C-f5b08bb6)
+Token length: 665
+Summarized using GPT-3.5-turbo-1106
+Append: [花旗任命陆烜为花旗中国总裁](https://cn.wsj.com/articles/%E8%8A%B1%E6%97%97%E4%BB%BB%E5%91%BD%E9%99%86%E7%83%9C%E4%B8%BA%E8%8A%B1%E6%97%97%E4%B8%AD%E5%9B%BD%E6%80%BB%E8%A3%81-1cd138d1)
+append_entries: 3
+Finish: 2024-01-31 08:11:05.973999
