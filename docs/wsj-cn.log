@@ -8416,3 +8416,12 @@ Existing_entries: 628
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-01 06:11:12.245378
+------------------------------------------------------
+Started: 2024-02-01 08:11:03.737626
+Existing_entries: 628
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 684
+Summarized using GPT-3.5-turbo-1106
+Append: [特斯拉将在中国为Model Y指定版本提供现金减免](https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E5%B0%86%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%BAmodel-y%E6%8C%87%E5%AE%9A%E7%89%88%E6%9C%AC%E6%8F%90%E4%BE%9B%E7%8E%B0%E9%87%91%E5%87%8F%E5%85%8D-e2fa814a)
+append_entries: 1
+Finish: 2024-02-01 08:11:20.831609
