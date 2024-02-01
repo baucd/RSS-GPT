@@ -8377,3 +8377,12 @@ Existing_entries: 623
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-01-31 22:08:16.020015
+------------------------------------------------------
+Started: 2024-02-01 00:39:41.999683
+Existing_entries: 623
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 729
+Summarized using GPT-3.5-turbo-1106
+Append: [美国官员称中国针对美国基础设施的黑客攻击威胁美国人生命](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%AE%98%E5%91%98%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%92%88%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB%E5%A8%81%E8%83%81%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%94%9F%E5%91%BD-9b642de6)
+append_entries: 1
+Finish: 2024-02-01 00:39:53.950809
