@@ -8437,3 +8437,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周四小幅下跌；美元指数连涨两日](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E5%9B%9B%E5%B0%8F%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E6%B6%A8%E4%B8%A4%E6%97%A5-46ff3e0f)
 append_entries: 2
 Finish: 2024-02-01 10:09:32.867321
+------------------------------------------------------
+Started: 2024-02-01 12:14:29.003313
+Existing_entries: 631
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-01 12:14:38.570315
