@@ -8524,3 +8524,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [为何说金价今年有望重返或突破纪录高位？](https://cn.wsj.com/articles/%E4%B8%BA%E4%BD%95%E8%AF%B4%E9%87%91%E4%BB%B7%E4%BB%8A%E5%B9%B4%E6%9C%89%E6%9C%9B%E9%87%8D%E8%BF%94%E6%88%96%E7%AA%81%E7%A0%B4%E7%BA%AA%E5%BD%95%E9%AB%98%E4%BD%8D-f6d8ed84)
 append_entries: 3
 Finish: 2024-02-02 08:11:25.058062
+------------------------------------------------------
+Started: 2024-02-02 10:09:30.007836
+Existing_entries: 638
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 511
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周五小幅上涨；周四美元指数急挫](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E5%B0%8F%E5%B9%85%E4%B8%8A%E6%B6%A8-%E5%91%A8%E5%9B%9B%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E6%80%A5%E6%8C%AB-3e11bdb4)
+Token length: 1011
+Summarized using GPT-3.5-turbo-1106
+Append: [去年被拘的中国投行家包凡辞职](https://cn.wsj.com/articles/%E5%8E%BB%E5%B9%B4%E8%A2%AB%E6%8B%98%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%A1%8C%E5%AE%B6%E5%8C%85%E5%87%A1%E8%BE%9E%E8%81%8C-d0dc5d09)
+append_entries: 2
+Finish: 2024-02-02 10:09:45.711983
