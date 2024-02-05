@@ -8743,3 +8743,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [全球大品牌难舍中国市场，“放长线”等待时机](https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E5%A4%A7%E5%93%81%E7%89%8C%E9%9A%BE%E8%88%8D%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-%E6%94%BE%E9%95%BF%E7%BA%BF-%E7%AD%89%E5%BE%85%E6%97%B6%E6%9C%BA-b989b4ad)
 append_entries: 3
 Finish: 2024-02-05 02:22:26.570789
+------------------------------------------------------
+Started: 2024-02-05 04:11:14.782137
+Existing_entries: 645
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2011
+Summarized using GPT-3.5-turbo-1106
+Append: [亚马逊和Meta财报亮眼，有待继续发力AI业务](https://cn.wsj.com/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%92%8Cmeta%E8%B4%A2%E6%8A%A5%E4%BA%AE%E7%9C%BC-%E6%9C%89%E5%BE%85%E7%BB%A7%E7%BB%AD%E5%8F%91%E5%8A%9Bai%E4%B8%9A%E5%8A%A1-0a8d28be)
+append_entries: 1
+Finish: 2024-02-05 04:11:26.467295
