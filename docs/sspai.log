@@ -14387,3 +14387,18 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-02-05 10:09:56.464258
+Existing_entries: 495
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 6382
+Summarized using GPT-3.5-turbo-1106
+Append: [派评 | 近期值得关注的 App](https://sspai.com/post/86335)
+Token length: 782
+Summarized using GPT-3.5-turbo-1106
+Append: [满分五分，你给 Apple 的 2023 年打几分？](https://sspai.com/post/83281)
+Token length: 3589
+Summarized using GPT-3.5-turbo-1106
+Append: [2024 年高峰期火车票购买指南](https://sspai.com/post/86328)
+append_entries: 3
+Finish: 2024-02-05 10:10:18.986733
