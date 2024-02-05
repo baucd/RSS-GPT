@@ -14380,3 +14380,10 @@ Existing_entries: 495
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-02-05 06:11:39.577499
+------------------------------------------------------
+Started: 2024-02-05 08:11:01.295838
+Existing_entries: 495
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai

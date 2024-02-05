@@ -8767,3 +8767,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国判处澳大利亚籍作家杨恒均死缓](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%A4%E5%A4%84%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%B1%8D%E4%BD%9C%E5%AE%B6%E6%9D%A8%E6%81%92%E5%9D%87%E6%AD%BB%E7%BC%93-23b2af22)
 append_entries: 3
 Finish: 2024-02-05 06:12:05.411277
+------------------------------------------------------
+Started: 2024-02-05 08:12:03.370615
+Existing_entries: 649
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2683
+Summarized using GPT-3.5-turbo-1106
+Append: [中国知名品牌遭遇“山寨”之殇](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9F%A5%E5%90%8D%E5%93%81%E7%89%8C%E9%81%AD%E9%81%87-%E5%B1%B1%E5%AF%A8-%E4%B9%8B%E6%AE%87-3be8800f)
+Token length: 1154
+Summarized using GPT-3.5-turbo-1106
+Append: [中国股市延续跌势，尽管监管机构承诺托市](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%BB%B6%E7%BB%AD%E8%B7%8C%E5%8A%BF-%E5%B0%BD%E7%AE%A1%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E6%89%BF%E8%AF%BA%E6%89%98%E5%B8%82-16e0f41e)
+append_entries: 2
+Finish: 2024-02-05 08:12:30.178936
