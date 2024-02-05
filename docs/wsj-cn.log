@@ -8794,3 +8794,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [诺基亚与中国手机制造商Vivo签署5G专利交叉许可协议](https://cn.wsj.com/articles/%E8%AF%BA%E5%9F%BA%E4%BA%9A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%89%8B%E6%9C%BA%E5%88%B6%E9%80%A0%E5%95%86vivo%E7%AD%BE%E7%BD%B25g%E4%B8%93%E5%88%A9%E4%BA%A4%E5%8F%89%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE-fe6478f3)
 append_entries: 3
 Finish: 2024-02-05 10:10:44.746747
+------------------------------------------------------
+Started: 2024-02-05 12:14:36.560413
+Existing_entries: 654
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-05 12:14:45.781875
