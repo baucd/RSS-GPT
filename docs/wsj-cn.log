@@ -8728,3 +8728,18 @@ Existing_entries: 642
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-05 00:39:35.012735
+------------------------------------------------------
+Started: 2024-02-05 02:21:59.217586
+Existing_entries: 642
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 904
+Summarized using GPT-3.5-turbo-1106
+Append: [财新1月中国服务业PMI微降至52.7，仍为近六个月来次高](https://cn.wsj.com/articles/%E8%B4%A2%E6%96%B01%E6%9C%88%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9Apmi%E5%BE%AE%E9%99%8D%E8%87%B352-7-%E4%BB%8D%E4%B8%BA%E8%BF%91%E5%85%AD%E4%B8%AA%E6%9C%88%E6%9D%A5%E6%AC%A1%E9%AB%98-c818e198)
+Token length: 631
+Summarized using GPT-3.5-turbo-1106
+Append: [特朗普威胁对中国商品征收逾60%关税](https://cn.wsj.com/articles/%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E9%80%BE60-%E5%85%B3%E7%A8%8E-89558b7b)
+Token length: 2563
+Summarized using GPT-3.5-turbo-1106
+Append: [全球大品牌难舍中国市场，“放长线”等待时机](https://cn.wsj.com/articles/%E5%85%A8%E7%90%83%E5%A4%A7%E5%93%81%E7%89%8C%E9%9A%BE%E8%88%8D%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-%E6%94%BE%E9%95%BF%E7%BA%BF-%E7%AD%89%E5%BE%85%E6%97%B6%E6%9C%BA-b989b4ad)
+append_entries: 3
+Finish: 2024-02-05 02:22:26.570789
