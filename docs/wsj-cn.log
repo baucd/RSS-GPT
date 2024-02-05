@@ -8752,3 +8752,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [亚马逊和Meta财报亮眼，有待继续发力AI业务](https://cn.wsj.com/articles/%E4%BA%9A%E9%A9%AC%E9%80%8A%E5%92%8Cmeta%E8%B4%A2%E6%8A%A5%E4%BA%AE%E7%9C%BC-%E6%9C%89%E5%BE%85%E7%BB%A7%E7%BB%AD%E5%8F%91%E5%8A%9Bai%E4%B8%9A%E5%8A%A1-0a8d28be)
 append_entries: 1
 Finish: 2024-02-05 04:11:26.467295
+------------------------------------------------------
+Started: 2024-02-05 06:11:41.338574
+Existing_entries: 646
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1703
+Summarized using GPT-3.5-turbo-1106
+Append: [中国如何扭转熊市？让国家队入场](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E6%89%AD%E8%BD%AC%E7%86%8A%E5%B8%82-%E8%AE%A9%E5%9B%BD%E5%AE%B6%E9%98%9F%E5%85%A5%E5%9C%BA-d3940d29)
+Token length: 1208
+Summarized using GPT-3.5-turbo-1106
+Append: [中国数千房地产项目将根据融资“白名单”获得贷款](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%B0%E5%8D%83%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%A1%B9%E7%9B%AE%E5%B0%86%E6%A0%B9%E6%8D%AE%E8%9E%8D%E8%B5%84-%E7%99%BD%E5%90%8D%E5%8D%95-%E8%8E%B7%E5%BE%97%E8%B4%B7%E6%AC%BE-200ad4c2)
+Token length: 460
+Summarized using GPT-3.5-turbo-1106
+Append: [中国判处澳大利亚籍作家杨恒均死缓](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%A4%E5%A4%84%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E7%B1%8D%E4%BD%9C%E5%AE%B6%E6%9D%A8%E6%81%92%E5%9D%87%E6%AD%BB%E7%BC%93-23b2af22)
+append_entries: 3
+Finish: 2024-02-05 06:12:05.411277
