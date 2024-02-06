@@ -8893,3 +8893,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周二上涨、未理美元指数连续两日大涨；A股港股终现报复性反攻](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%8C%E4%B8%8A%E6%B6%A8-%E6%9C%AA%E7%90%86%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%97%A5%E5%A4%A7%E6%B6%A8-a%E8%82%A1%E6%B8%AF%E8%82%A1%E7%BB%88%E7%8E%B0%E6%8A%A5%E5%A4%8D%E6%80%A7%E5%8F%8D%E6%94%BB-5de82cea)
 append_entries: 1
 Finish: 2024-02-06 10:09:28.288433
+------------------------------------------------------
+Started: 2024-02-06 12:14:37.405207
+Existing_entries: 663
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 617
+Summarized using GPT-3.5-turbo-1106
+Append: [中国股市创一年多来最佳单日表现](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E5%B8%82%E5%88%9B%E4%B8%80%E5%B9%B4%E5%A4%9A%E6%9D%A5%E6%9C%80%E4%BD%B3%E5%8D%95%E6%97%A5%E8%A1%A8%E7%8E%B0-a0285885)
+append_entries: 1
+Finish: 2024-02-06 12:14:54.667454
