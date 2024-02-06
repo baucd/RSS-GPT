@@ -8830,3 +8830,12 @@ Existing_entries: 654
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-05 22:09:09.798587
+------------------------------------------------------
+Started: 2024-02-06 00:37:17.243409
+Existing_entries: 654
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 768
+Summarized using GPT-3.5-turbo-1106
+Append: [美国铝业股价暴跌，特朗普威胁要对中国进口产品征收高额关税](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E9%93%9D%E4%B8%9A%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E8%A6%81%E5%AF%B9%E4%B8%AD%E5%9B%BD%E8%BF%9B%E5%8F%A3%E4%BA%A7%E5%93%81%E5%BE%81%E6%94%B6%E9%AB%98%E9%A2%9D%E5%85%B3%E7%A8%8E-047ac05f)
+append_entries: 1
+Finish: 2024-02-06 00:37:28.235632
