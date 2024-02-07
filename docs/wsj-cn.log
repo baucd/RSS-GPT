@@ -9001,3 +9001,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国宣布调整证监会主要领导，易会满被免职，吴清接任](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%A3%E5%B8%83%E8%B0%83%E6%95%B4%E8%AF%81%E7%9B%91%E4%BC%9A%E4%B8%BB%E8%A6%81%E9%A2%86%E5%AF%BC-%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%8D%E8%81%8C-%E5%90%B4%E6%B8%85%E6%8E%A5%E4%BB%BB-64fabcf7)
 append_entries: 1
 Finish: 2024-02-07 12:14:21.271214
+------------------------------------------------------
+Started: 2024-02-07 14:07:38.435097
+Existing_entries: 673
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-07 14:07:46.349245
