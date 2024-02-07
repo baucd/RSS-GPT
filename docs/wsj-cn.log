@@ -8968,3 +8968,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中芯国际股价下跌，受利润下降和支出计划影响](https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E5%8F%97%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D%E5%92%8C%E6%94%AF%E5%87%BA%E8%AE%A1%E5%88%92%E5%BD%B1%E5%93%8D-cc0ff2f9)
 append_entries: 1
 Finish: 2024-02-07 06:11:11.256475
+------------------------------------------------------
+Started: 2024-02-07 08:10:46.909783
+Existing_entries: 668
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 662
+Summarized using GPT-3.5-turbo-1106
+Append: [中国政府将提供支持，以加速本土电动车企全球扩张](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8C%81-%E5%8A%A0%E9%80%9F%E6%9C%AC%E5%9C%9F%E7%94%B5%E5%8A%A8%E8%BD%A6%E4%BC%81%E5%85%A8%E7%90%83%E6%89%A9%E5%BC%A0-338b50cb)
+append_entries: 1
+Finish: 2024-02-07 08:10:59.855140
