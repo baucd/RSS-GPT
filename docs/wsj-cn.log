@@ -8959,3 +8959,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [华虹半导体股价大跌，因净利润锐减](https://cn.wsj.com/articles/%E5%8D%8E%E8%99%B9%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%82%A1%E4%BB%B7%E5%A4%A7%E8%B7%8C-%E5%9B%A0%E5%87%80%E5%88%A9%E6%B6%A6%E9%94%90%E5%87%8F-bb1cbc02)
 append_entries: 1
 Finish: 2024-02-07 04:10:38.741762
+------------------------------------------------------
+Started: 2024-02-07 06:10:57.311511
+Existing_entries: 667
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 896
+Summarized using GPT-3.5-turbo-1106
+Append: [中芯国际股价下跌，受利润下降和支出计划影响](https://cn.wsj.com/articles/%E4%B8%AD%E8%8A%AF%E5%9B%BD%E9%99%85%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E5%8F%97%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D%E5%92%8C%E6%94%AF%E5%87%BA%E8%AE%A1%E5%88%92%E5%BD%B1%E5%93%8D-cc0ff2f9)
+append_entries: 1
+Finish: 2024-02-07 06:11:11.256475
