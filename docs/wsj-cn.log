@@ -9058,3 +9058,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国1月PPI同比下降2.5%，降幅继续收窄](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1%E6%9C%88ppi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D2-5-%E9%99%8D%E5%B9%85%E7%BB%A7%E7%BB%AD%E6%94%B6%E7%AA%84-22239d27)
 append_entries: 3
 Finish: 2024-02-08 02:14:39.103388
+------------------------------------------------------
+Started: 2024-02-08 04:10:42.819111
+Existing_entries: 678
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1524
+Summarized using GPT-3.5-turbo-1106
+Append: [中国救市措施治标不治本](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%91%E5%B8%82%E6%8E%AA%E6%96%BD%E6%B2%BB%E6%A0%87%E4%B8%8D%E6%B2%BB%E6%9C%AC-9f82a091)
+append_entries: 1
+Finish: 2024-02-08 04:10:55.444347
