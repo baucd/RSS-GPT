@@ -9103,3 +9103,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国通缩问题日益严重](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E9%97%AE%E9%A2%98%E6%97%A5%E7%9B%8A%E4%B8%A5%E9%87%8D-955aa17c)
 append_entries: 1
 Finish: 2024-02-08 12:14:36.488643
+------------------------------------------------------
+Started: 2024-02-08 14:07:49.735064
+Existing_entries: 683
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-08 14:07:57.768893
