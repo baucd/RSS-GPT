@@ -9067,3 +9067,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国救市措施治标不治本](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%95%91%E5%B8%82%E6%8E%AA%E6%96%BD%E6%B2%BB%E6%A0%87%E4%B8%8D%E6%B2%BB%E6%9C%AC-9f82a091)
 append_entries: 1
 Finish: 2024-02-08 04:10:55.444347
+------------------------------------------------------
+Started: 2024-02-08 06:11:41.319749
+Existing_entries: 679
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-08 06:11:49.405573
