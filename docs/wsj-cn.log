@@ -9157,3 +9157,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国央行周五净投放530亿元，连续两日净投放](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E5%91%A8%E4%BA%94%E5%87%80%E6%8A%95%E6%94%BE530%E4%BA%BF%E5%85%83-%E8%BF%9E%E7%BB%AD%E4%B8%A4%E6%97%A5%E5%87%80%E6%8A%95%E6%94%BE-a200a95f)
 append_entries: 1
 Finish: 2024-02-09 02:14:09.790815
+------------------------------------------------------
+Started: 2024-02-09 04:10:16.670856
+Existing_entries: 687
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-09 04:10:25.616100
