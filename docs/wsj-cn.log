@@ -9133,3 +9133,18 @@ Existing_entries: 683
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-08 22:08:04.160818
+------------------------------------------------------
+Started: 2024-02-09 00:36:45.184291
+Existing_entries: 683
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 562
+Summarized using GPT-3.5-turbo-1106
+Append: [中国央行计划促进经济适用房和基础设施投资](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%AE%A1%E5%88%92%E4%BF%83%E8%BF%9B%E7%BB%8F%E6%B5%8E%E9%80%82%E7%94%A8%E6%88%BF%E5%92%8C%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E6%8A%95%E8%B5%84-7da4df04)
+Token length: 831
+Summarized using GPT-3.5-turbo-1106
+Append: [众议院报告：美国风投公司资助了被列入黑名单的中国公司](https://cn.wsj.com/articles/%E4%BC%97%E8%AE%AE%E9%99%A2%E6%8A%A5%E5%91%8A-%E7%BE%8E%E5%9B%BD%E9%A3%8E%E6%8A%95%E5%85%AC%E5%8F%B8%E8%B5%84%E5%8A%A9%E4%BA%86%E8%A2%AB%E5%88%97%E5%85%A5%E9%BB%91%E5%90%8D%E5%8D%95%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8-39bf79cb)
+Token length: 825
+Summarized using GPT-3.5-turbo-1106
+Append: [欧莱雅财年销售和利润不及预期，因中国市场停滞不前](https://cn.wsj.com/articles/%E6%AC%A7%E8%8E%B1%E9%9B%85%E8%B4%A2%E5%B9%B4%E9%94%80%E5%94%AE%E5%92%8C%E5%88%A9%E6%B6%A6%E4%B8%8D%E5%8F%8A%E9%A2%84%E6%9C%9F-%E5%9B%A0%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%81%9C%E6%BB%9E%E4%B8%8D%E5%89%8D-96e5c1cc)
+append_entries: 3
+Finish: 2024-02-09 00:37:07.668863
