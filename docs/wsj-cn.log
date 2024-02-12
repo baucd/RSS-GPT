@@ -9412,3 +9412,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国能否打破中国对太阳能产业的掌控？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%83%BD%E5%90%A6%E6%89%93%E7%A0%B4%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%A4%AA%E9%98%B3%E8%83%BD%E4%BA%A7%E4%B8%9A%E7%9A%84%E6%8E%8C%E6%8E%A7-074a8900)
 append_entries: 2
 Finish: 2024-02-12 08:11:49.254936
+------------------------------------------------------
+Started: 2024-02-12 10:10:52.304583
+Existing_entries: 694
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-12 10:11:02.027593
