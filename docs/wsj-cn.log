@@ -9469,3 +9469,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国股票是否跌过了头？一些对冲基金的大投资者认为人气过于悲观](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8%E6%98%AF%E5%90%A6%E8%B7%8C%E8%BF%87%E4%BA%86%E5%A4%B4-%E4%B8%80%E4%BA%9B%E5%AF%B9%E5%86%B2%E5%9F%BA%E9%87%91%E7%9A%84%E5%A4%A7%E6%8A%95%E8%B5%84%E8%80%85%E8%AE%A4%E4%B8%BA%E4%BA%BA%E6%B0%94%E8%BF%87%E4%BA%8E%E6%82%B2%E8%A7%82-40a92a6f)
 append_entries: 1
 Finish: 2024-02-13 02:15:19.158647
+------------------------------------------------------
+Started: 2024-02-13 04:09:52.248218
+Existing_entries: 695
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-13 04:10:00.539040
