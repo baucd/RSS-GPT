@@ -9493,3 +9493,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国造船厂已为持久战做好准备，而美国没有](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%A0%E8%88%B9%E5%8E%82%E5%B7%B2%E4%B8%BA%E6%8C%81%E4%B9%85%E6%88%98%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87-%E8%80%8C%E7%BE%8E%E5%9B%BD%E6%B2%A1%E6%9C%89-f8f9e1c8)
 append_entries: 1
 Finish: 2024-02-13 08:11:41.345574
+------------------------------------------------------
+Started: 2024-02-13 10:08:35.583694
+Existing_entries: 697
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-13 10:08:43.823111
