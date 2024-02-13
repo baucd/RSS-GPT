@@ -9475,3 +9475,12 @@ Existing_entries: 695
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-13 04:10:00.539040
+------------------------------------------------------
+Started: 2024-02-13 06:12:43.963313
+Existing_entries: 695
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 4774
+Summarized using GPT-3.5-turbo-1106
+Append: [中国如何误判了生育低谷的到来](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A6%82%E4%BD%95%E8%AF%AF%E5%88%A4%E4%BA%86%E7%94%9F%E8%82%B2%E4%BD%8E%E8%B0%B7%E7%9A%84%E5%88%B0%E6%9D%A5-95ea7452)
+append_entries: 1
+Finish: 2024-02-13 06:12:58.937865
