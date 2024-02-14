@@ -9541,3 +9541,15 @@ Existing_entries: 697
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-14 00:37:46.600123
+------------------------------------------------------
+Started: 2024-02-14 02:15:06.511929
+Existing_entries: 697
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 588
+Summarized using GPT-3.5-turbo-1106
+Append: [中国业务反弹提振美高梅国际酒店集团第四财季收入大增](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B8%9A%E5%8A%A1%E5%8F%8D%E5%BC%B9%E6%8F%90%E6%8C%AF%E7%BE%8E%E9%AB%98%E6%A2%85%E5%9B%BD%E9%99%85%E9%85%92%E5%BA%97%E9%9B%86%E5%9B%A2%E7%AC%AC%E5%9B%9B%E8%B4%A2%E5%AD%A3%E6%94%B6%E5%85%A5%E5%A4%A7%E5%A2%9E-2c92c10e)
+Token length: 715
+Summarized using GPT-3.5-turbo-1106
+Append: [MSCI中国指数剔除66家公司](https://cn.wsj.com/articles/msci%E4%B8%AD%E5%9B%BD%E6%8C%87%E6%95%B0%E5%89%94%E9%99%A466%E5%AE%B6%E5%85%AC%E5%8F%B8-cd991b0d)
+append_entries: 2
+Finish: 2024-02-14 02:15:22.600951
