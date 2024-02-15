@@ -9631,3 +9631,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [TikTok将在欧洲选举前推出旨在打击误导性信息的功能](https://cn.wsj.com/articles/tiktok%E5%B0%86%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%80%89%E4%B8%BE%E5%89%8D%E6%8E%A8%E5%87%BA%E6%97%A8%E5%9C%A8%E6%89%93%E5%87%BB%E9%94%99%E8%AF%AF%E4%BF%A1%E6%81%AF%E7%9A%84%E5%8A%9F%E8%83%BD-d4428aad)
 append_entries: 2
 Finish: 2024-02-15 00:37:58.682850
+------------------------------------------------------
+Started: 2024-02-15 02:15:26.387017
+Existing_entries: 703
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-15 02:15:34.426882
