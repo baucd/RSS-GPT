@@ -9646,3 +9646,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [如何定义“中国公司”？华尔街投行头疼不已](https://cn.wsj.com/articles/%E5%A6%82%E4%BD%95%E5%AE%9A%E4%B9%89-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%8F%B8-%E5%8D%8E%E5%B0%94%E8%A1%97%E6%8A%95%E8%A1%8C%E5%A4%B4%E7%96%BC%E4%B8%8D%E5%B7%B2-5ade6864)
 append_entries: 1
 Finish: 2024-02-15 04:10:47.301371
+------------------------------------------------------
+Started: 2024-02-15 06:11:06.751159
+Existing_entries: 704
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-15 06:11:14.634297
