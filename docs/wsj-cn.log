@@ -9709,3 +9709,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [报道：美国参议员卢比奥要求SEC阻止希音IPO](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E7%BE%8E%E5%9B%BD%E5%8F%82%E8%AE%AE%E5%91%98%E5%8D%A2%E6%AF%94%E5%A5%A5%E8%A6%81%E6%B1%82sec%E9%98%BB%E6%AD%A2shein-ipo-70eb32b5)
 append_entries: 1
 Finish: 2024-02-16 00:36:52.404338
+------------------------------------------------------
+Started: 2024-02-16 02:14:48.499708
+Existing_entries: 705
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-16 02:14:57.487290
