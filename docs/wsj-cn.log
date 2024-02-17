@@ -9793,3 +9793,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [欧盟将对中国中车子公司接受补贴展开调查](https://cn.wsj.com/articles/%E6%AC%A7%E7%9B%9F%E5%B0%86%E5%AF%B9%E4%B8%AD%E5%9B%BD%E4%B8%AD%E8%BD%A6%E5%AD%90%E5%85%AC%E5%8F%B8%E6%8E%A5%E5%8F%97%E8%A1%A5%E8%B4%B4%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5-231956f0)
 append_entries: 1
 Finish: 2024-02-17 02:13:51.808183
+------------------------------------------------------
+Started: 2024-02-17 04:11:20.581445
+Existing_entries: 707
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-17 04:11:28.392602
