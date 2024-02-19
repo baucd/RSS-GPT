@@ -9952,3 +9952,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国2023年度外国直接投资创下20多年来最小增幅](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2023%E5%B9%B4%E5%BA%A6%E5%A4%96%E5%9B%BD%E7%9B%B4%E6%8E%A5%E6%8A%95%E8%B5%84%E5%88%9B%E4%B8%8B20%E5%A4%9A%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%B0%8F%E5%A2%9E%E5%B9%85-838fd39b)
 append_entries: 1
 Finish: 2024-02-19 04:10:35.356493
+------------------------------------------------------
+Started: 2024-02-19 06:12:05.817810
+Existing_entries: 710
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 657
+Summarized using GPT-3.5-turbo-1106
+Append: [乳品公司a2 Milk仍对中国市场前景充满信心，尽管出生率下降](https://cn.wsj.com/articles/%E4%B9%B3%E5%93%81%E5%85%AC%E5%8F%B8a2-milk%E4%BB%8D%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%89%8D%E6%99%AF%E5%85%85%E6%BB%A1%E4%BF%A1%E5%BF%83-%E5%B0%BD%E7%AE%A1%E5%87%BA%E7%94%9F%E7%8E%87%E4%B8%8B%E9%99%8D-89cb2c6f)
+Token length: 610
+Summarized using GPT-3.5-turbo-1106
+Append: [中国旅游股上涨，因春节假期旅游市场强劲](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8%E8%82%A1%E4%B8%8A%E6%B6%A8-%E5%9B%A0%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E6%97%85%E6%B8%B8%E5%B8%82%E5%9C%BA%E5%BC%BA%E5%8A%B2-2850b268)
+append_entries: 2
+Finish: 2024-02-19 06:12:18.983781
