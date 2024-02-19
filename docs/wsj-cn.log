@@ -9934,3 +9934,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国八天春节假期的出行数据创历史新高](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%85%AB%E5%A4%A9%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%9A%84%E5%87%BA%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98-f5574e8e)
 append_entries: 1
 Finish: 2024-02-19 00:38:42.869328
+------------------------------------------------------
+Started: 2024-02-19 02:16:42.595741
+Existing_entries: 708
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1848
+Summarized using GPT-3.5-turbo-1106
+Append: [FBI局长：中国对美国基础设施的网络攻击已达到前所未有的规模](https://cn.wsj.com/articles/fbi%E5%B1%80%E9%95%BF-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E7%9A%84%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%B7%B2%E8%BE%BE%E5%88%B0%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E8%A7%84%E6%A8%A1-1d063236)
+append_entries: 1
+Finish: 2024-02-19 02:16:55.247308
