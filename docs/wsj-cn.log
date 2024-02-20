@@ -10030,3 +10030,21 @@ Existing_entries: 716
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-20 00:37:07.190841
+------------------------------------------------------
+Started: 2024-02-20 02:13:45.429041
+Existing_entries: 716
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 798
+Summarized using GPT-3.5-turbo-1106
+Append: [中国央行2月LPR不对称下调：1年期保持不变，5年期以上降25个基点](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C2%E6%9C%88lpr%E4%B8%8D%E5%AF%B9%E7%A7%B0%E4%B8%8B%E8%B0%83-1%E5%B9%B4%E6%9C%9F%E4%BF%9D%E6%8C%81%E4%B8%8D%E5%8F%98-5%E5%B9%B4%E6%9C%9F%E4%BB%A5%E4%B8%8A%E9%99%8D25%E4%B8%AA%E5%9F%BA%E7%82%B9-3c37bfdd)
+Token length: 2561
+Summarized using GPT-3.5-turbo-1106
+Append: [“减肥神药”诺和泰在肥胖大国中国走红](https://cn.wsj.com/articles/%E5%87%8F%E8%82%A5%E7%A5%9E%E8%8D%AF-%E8%AF%BA%E5%92%8C%E6%B3%B0%E5%9C%A8%E8%82%A5%E8%83%96%E5%A4%A7%E5%9B%BD%E4%B8%AD%E5%9B%BD%E8%B5%B0%E7%BA%A2-f6aad60d)
+Token length: 1834
+Summarized using GPT-3.5-turbo-1106
+Append: [高盛上调标普500指数年终目标点位至5,200点](https://cn.wsj.com/articles/%E9%AB%98%E7%9B%9B%E4%B8%8A%E8%B0%83%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%B9%B4%E7%BB%88%E7%9B%AE%E6%A0%87%E7%82%B9%E4%BD%8D%E8%87%B35-200%E7%82%B9-5b732a17)
+Token length: 1164
+Summarized using GPT-3.5-turbo-1106
+Append: [TikTok面临欧盟调查，涉及未成年人保护及有害内容等问题](https://cn.wsj.com/articles/tiktok%E9%9D%A2%E4%B8%B4%E6%AC%A7%E7%9B%9F%E8%B0%83%E6%9F%A5-%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E5%8F%8A%E6%9C%89%E5%AE%B3%E5%86%85%E5%AE%B9%E7%AD%89%E9%97%AE%E9%A2%98-9480d5d1)
+append_entries: 4
+Finish: 2024-02-20 02:14:08.765059
