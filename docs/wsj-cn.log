@@ -10048,3 +10048,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [TikTok面临欧盟调查，涉及未成年人保护及有害内容等问题](https://cn.wsj.com/articles/tiktok%E9%9D%A2%E4%B8%B4%E6%AC%A7%E7%9B%9F%E8%B0%83%E6%9F%A5-%E6%B6%89%E5%8F%8A%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%BF%9D%E6%8A%A4%E5%8F%8A%E6%9C%89%E5%AE%B3%E5%86%85%E5%AE%B9%E7%AD%89%E9%97%AE%E9%A2%98-9480d5d1)
 append_entries: 4
 Finish: 2024-02-20 02:14:08.765059
+------------------------------------------------------
+Started: 2024-02-20 04:11:25.149566
+Existing_entries: 720
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-20 04:11:34.461823
