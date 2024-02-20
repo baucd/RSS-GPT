@@ -10072,3 +10072,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国新任证监会主席吴清会见市场参与者，以应对投资者关切](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E6%96%B0%E4%B8%BB%E5%B8%AD%E5%90%B4%E6%B8%85%E4%BC%9A%E8%A7%81%E5%B8%82%E5%9C%BA%E5%8F%82%E4%B8%8E%E8%80%85%E4%BB%A5%E5%BA%94%E5%AF%B9%E6%8A%95%E8%B5%84%E8%80%85%E5%85%B3%E5%88%87-2404827e)
 append_entries: 1
 Finish: 2024-02-20 08:11:12.037220
+------------------------------------------------------
+Started: 2024-02-20 10:08:44.888581
+Existing_entries: 722
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1672
+Summarized using GPT-3.5-turbo-1106
+Append: [中国大幅下调关键贷款利率，以提振经济](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%E5%85%B3%E9%94%AE%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87-%E4%BB%A5%E6%8F%90%E6%8C%AF%E7%BB%8F%E6%B5%8E-3f13c775)
+Token length: 799
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周二持平；美元指数连续整固、等候美联储会议纪要](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%8C%E6%8C%81%E5%B9%B3-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E6%95%B4%E5%9B%BA-%E7%AD%89%E5%80%99%E7%BE%8E%E8%81%94%E5%82%A8%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81-7ddf749a)
+Token length: 2762
+Summarized using GPT-3.5-turbo-1106
+Append: [印度释放疑似中国间谍：一只赛鸽](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E9%87%8A%E6%94%BE%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D-%E4%B8%80%E5%8F%AA%E8%B5%9B%E9%B8%BD-5e5dde87)
+append_entries: 3
+Finish: 2024-02-20 10:09:10.336027
