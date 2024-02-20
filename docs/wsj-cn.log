@@ -10087,3 +10087,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [印度释放疑似中国间谍：一只赛鸽](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E9%87%8A%E6%94%BE%E7%96%91%E4%BC%BC%E4%B8%AD%E5%9B%BD%E9%97%B4%E8%B0%8D-%E4%B8%80%E5%8F%AA%E8%B5%9B%E9%B8%BD-5e5dde87)
 append_entries: 3
 Finish: 2024-02-20 10:09:10.336027
+------------------------------------------------------
+Started: 2024-02-20 12:14:32.832675
+Existing_entries: 725
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-20 12:14:40.924824
