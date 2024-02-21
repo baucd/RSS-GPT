@@ -10147,3 +10147,12 @@ Existing_entries: 725
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-21 06:11:22.680159
+------------------------------------------------------
+Started: 2024-02-21 08:11:39.142965
+Existing_entries: 725
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1192
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产股上涨，LPR大幅下调提振市场信心](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E8%82%A1%E4%B8%8A%E6%B6%A8-lpr%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%E6%8F%90%E6%8C%AF%E5%B8%82%E5%9C%BA%E4%BF%A1%E5%BF%83-831d3333)
+append_entries: 1
+Finish: 2024-02-21 08:11:53.233261
