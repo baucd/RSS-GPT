@@ -10237,3 +10237,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [房地产业低迷之际，中国金属需求结构重塑](https://cn.wsj.com/articles/%E6%88%BF%E5%9C%B0%E4%BA%A7%E4%B8%9A%E4%BD%8E%E8%BF%B7%E4%B9%8B%E9%99%85-%E4%B8%AD%E5%9B%BD%E9%87%91%E5%B1%9E%E9%9C%80%E6%B1%82%E7%BB%93%E6%9E%84%E9%87%8D%E5%A1%91-09f461c1)
 append_entries: 2
 Finish: 2024-02-22 04:09:49.959566
+------------------------------------------------------
+Started: 2024-02-22 06:11:16.820688
+Existing_entries: 733
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2005
+Summarized using GPT-3.5-turbo-1106
+Append: [中国通缩苦了谁？香港零售商首当其冲](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E9%80%9A%E7%BC%A9%E8%8B%A6%E4%BA%86%E8%B0%81-%E9%A6%99%E6%B8%AF%E9%9B%B6%E5%94%AE%E5%95%86%E9%A6%96%E5%BD%93%E5%85%B6%E5%86%B2-0b2b3013)
+Token length: 1021
+Summarized using GPT-3.5-turbo-1106
+Append: [汇丰更让人捉摸不透了](https://cn.wsj.com/articles/%E6%B1%87%E4%B8%B0%E6%9B%B4%E8%AE%A9%E4%BA%BA%E6%8D%89%E6%91%B8%E4%B8%8D%E9%80%8F%E4%BA%86-6f6e1355)
+append_entries: 2
+Finish: 2024-02-22 06:11:33.567134
