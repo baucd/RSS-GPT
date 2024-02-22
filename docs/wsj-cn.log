@@ -10267,3 +10267,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币微涨、日内震荡有限；美元指数连续回落](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%BE%AE%E6%B6%A8-%E6%97%A5%E5%86%85%E9%9C%87%E8%8D%A1%E6%9C%89%E9%99%90-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E5%9B%9E%E8%90%BD-d2449f74)
 append_entries: 1
 Finish: 2024-02-22 10:08:51.460342
+------------------------------------------------------
+Started: 2024-02-22 12:14:02.273731
+Existing_entries: 737
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-22 12:14:09.833960
