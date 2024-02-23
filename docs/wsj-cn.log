@@ -10312,3 +10312,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国最新售股禁令将降低救市难度](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%9C%80%E6%96%B0%E5%94%AE%E8%82%A1%E7%A6%81%E4%BB%A4%E5%B0%86%E9%99%8D%E4%BD%8E%E6%95%91%E5%B8%82%E9%9A%BE%E5%BA%A6-856042e5)
 append_entries: 1
 Finish: 2024-02-23 00:36:52.428677
+------------------------------------------------------
+Started: 2024-02-23 02:14:39.706841
+Existing_entries: 738
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-23 02:14:48.427231
