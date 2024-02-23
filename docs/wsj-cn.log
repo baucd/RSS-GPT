@@ -10318,3 +10318,12 @@ Existing_entries: 738
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-23 02:14:48.427231
+------------------------------------------------------
+Started: 2024-02-23 04:09:45.565780
+Existing_entries: 738
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 471
+Summarized using GPT-3.5-turbo-1106
+Append: [中国1月新建住宅价格同比降幅扩大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1%E6%9C%88%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E5%90%8C%E6%AF%94%E9%99%8D%E5%B9%85%E6%89%A9%E5%A4%A7-f98e3f29)
+append_entries: 1
+Finish: 2024-02-23 04:09:57.269612
