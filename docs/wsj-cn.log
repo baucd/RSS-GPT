@@ -10393,3 +10393,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [英伟达首次将华为列为芯片制造竞争对手](https://cn.wsj.com/articles/%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%A6%96%E6%AC%A1%E5%B0%86%E5%8D%8E%E4%B8%BA%E5%88%97%E4%B8%BA%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E7%AB%9E%E4%BA%89%E5%AF%B9%E6%89%8B-abe5eac8)
 append_entries: 1
 Finish: 2024-02-24 00:35:22.949733
+------------------------------------------------------
+Started: 2024-02-24 02:11:59.467415
+Existing_entries: 741
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 542
+Summarized using GPT-3.5-turbo-1106
+Append: [摩根大通将蔚来集团评级从中性下调至减持](https://cn.wsj.com/articles/%E6%91%A9%E6%A0%B9%E5%A4%A7%E9%80%9A%E5%B0%86%E8%94%9A%E6%9D%A5%E9%9B%86%E5%9B%A2%E8%AF%84%E7%BA%A7%E4%BB%8E%E4%B8%AD%E6%80%A7%E4%B8%8B%E8%B0%83%E8%87%B3%E5%87%8F%E6%8C%81-64a67946)
+append_entries: 1
+Finish: 2024-02-24 02:12:10.719725
