@@ -10540,3 +10540,15 @@ Existing_entries: 742
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-26 00:38:36.706756
+------------------------------------------------------
+Started: 2024-02-26 02:18:27.266442
+Existing_entries: 742
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2265
+Summarized using GPT-3.5-turbo-1106
+Append: [美国会议员称SpaceX可能暂停台湾卫星互联网服务](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%9A%E8%AE%AE%E5%91%98%E7%A7%B0spacex%E5%8F%AF%E8%83%BD%E6%9A%82%E5%81%9C%E5%8F%B0%E6%B9%BE%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E6%9C%8D%E5%8A%A1-511b4a7d)
+Token length: 1950
+Summarized using GPT-3.5-turbo-1106
+Append: [中国传奇饮料大亨、娃哈哈集团创始人宗庆后去世](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E5%A5%87%E9%A5%AE%E6%96%99%E5%A4%A7%E4%BA%A8-%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%AE%97%E5%BA%86%E5%90%8E%E5%8E%BB%E4%B8%96-02ec2e3f)
+append_entries: 2
+Finish: 2024-02-26 02:18:46.873150
