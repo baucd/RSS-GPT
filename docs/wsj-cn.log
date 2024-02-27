@@ -10627,3 +10627,15 @@ Existing_entries: 747
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-27 00:37:14.272989
+------------------------------------------------------
+Started: 2024-02-27 02:13:36.037894
+Existing_entries: 747
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1579
+Summarized using GPT-3.5-turbo-1106
+Append: [中国正囤积芯片制造设备，为芯片战下一阶段做准备](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9B%A4%E7%A7%AF%E8%8A%AF%E7%89%87%E5%88%B6%E9%80%A0%E8%AE%BE%E5%A4%87-%E4%B8%BA%E8%8A%AF%E7%89%87%E6%88%98%E4%B8%8B%E4%B8%80%E9%98%B6%E6%AE%B5%E5%81%9A%E5%87%86%E5%A4%87-d46ec75b)
+Token length: 1981
+Summarized using GPT-3.5-turbo-1106
+Append: [Temu进入美国市场对Etsy等电商构成威胁](https://cn.wsj.com/articles/temu%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%AF%B9etsy%E7%AD%89%E7%94%B5%E5%95%86%E6%9E%84%E6%88%90%E5%A8%81%E8%83%81-94b78b32)
+append_entries: 2
+Finish: 2024-02-27 02:13:55.035948
