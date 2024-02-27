@@ -10663,3 +10663,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [报道：希音考虑赴伦敦IPO，因上市计划面临美国监管障碍](https://cn.wsj.com/articles/%E6%8A%A5%E9%81%93-%E5%B8%8C%E9%9F%B3%E8%80%83%E8%99%91%E8%B5%B4%E4%BC%A6%E6%95%A6ipo-%E5%9B%A0%E4%B8%8A%E5%B8%82%E8%AE%A1%E5%88%92%E9%9D%A2%E4%B8%B4%E7%BE%8E%E5%9B%BD%E7%9B%91%E7%AE%A1%E9%9A%9C%E7%A2%8D-fb163c75)
 append_entries: 1
 Finish: 2024-02-27 08:10:55.451235
+------------------------------------------------------
+Started: 2024-02-27 10:09:10.069944
+Existing_entries: 751
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3057
+Summarized using GPT-3.5-turbo-1106
+Append: [外泄黑客文件显示少数民族人士成中国重点监控对象](https://cn.wsj.com/articles/%E5%A4%96%E6%B3%84%E9%BB%91%E5%AE%A2%E6%96%87%E4%BB%B6%E6%98%BE%E7%A4%BA%E5%B0%91%E6%95%B0%E6%B0%91%E6%97%8F%E4%BA%BA%E5%A3%AB%E6%88%90%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%82%B9%E7%9B%91%E6%8E%A7%E5%AF%B9%E8%B1%A1-2339b0f8)
+Token length: 588
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币微涨；美元指数连续回落、等候关键通胀数据](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%BE%AE%E6%B6%A8-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E5%9B%9E%E8%90%BD-%E7%AD%89%E5%80%99%E5%85%B3%E9%94%AE%E9%80%9A%E8%83%80%E6%95%B0%E6%8D%AE-d919c503)
+append_entries: 2
+Finish: 2024-02-27 10:09:28.149140
