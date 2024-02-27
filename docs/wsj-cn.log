@@ -10675,3 +10675,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币微涨；美元指数连续回落、等候关键通胀数据](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%BE%AE%E6%B6%A8-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E5%9B%9E%E8%90%BD-%E7%AD%89%E5%80%99%E5%85%B3%E9%94%AE%E9%80%9A%E8%83%80%E6%95%B0%E6%8D%AE-d919c503)
 append_entries: 2
 Finish: 2024-02-27 10:09:28.149140
+------------------------------------------------------
+Started: 2024-02-27 12:13:53.357487
+Existing_entries: 753
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 558
+Summarized using GPT-3.5-turbo-1106
+Append: [美国及盟友发声支持6G原则后，中兴通讯等中国网络设备制造商股价上涨](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%8A%E7%9B%9F%E5%8F%8B%E5%8F%91%E5%A3%B0%E6%94%AF%E6%8C%816g%E5%8E%9F%E5%88%99%E5%90%8E-%E4%B8%AD%E5%85%B4%E9%80%9A%E8%AE%AF%E7%AD%89%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%AE%BE%E5%A4%87%E5%88%B6%E9%80%A0%E5%95%86%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-c578739a)
+Token length: 503
+Summarized using GPT-3.5-turbo-1106
+Append: [中国氢燃料电池制造商重塑集团拟在香港上市](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B0%A2%E7%87%83%E6%96%99%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E5%95%86%E9%87%8D%E5%A1%91%E9%9B%86%E5%9B%A2%E6%8B%9F%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82-d126e6f7)
+append_entries: 2
+Finish: 2024-02-27 12:14:11.724656
