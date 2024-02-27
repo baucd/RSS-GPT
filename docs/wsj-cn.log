@@ -10687,3 +10687,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国氢燃料电池制造商重塑集团拟在香港上市](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B0%A2%E7%87%83%E6%96%99%E7%94%B5%E6%B1%A0%E5%88%B6%E9%80%A0%E5%95%86%E9%87%8D%E5%A1%91%E9%9B%86%E5%9B%A2%E6%8B%9F%E5%9C%A8%E9%A6%99%E6%B8%AF%E4%B8%8A%E5%B8%82-d126e6f7)
 append_entries: 2
 Finish: 2024-02-27 12:14:11.724656
+------------------------------------------------------
+Started: 2024-02-27 14:07:55.500174
+Existing_entries: 755
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-27 14:08:05.656734
