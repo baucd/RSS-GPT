@@ -10738,3 +10738,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [香港预算案料着重提升竞争力、推动复苏](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E9%A2%84%E7%AE%97%E6%A1%88%E6%96%99%E7%9D%80%E9%87%8D%E6%8F%90%E5%8D%87%E7%AB%9E%E4%BA%89%E5%8A%9B-%E6%8E%A8%E5%8A%A8%E5%A4%8D%E8%8B%8F-d99d4fab)
 append_entries: 2
 Finish: 2024-02-28 02:15:38.501350
+------------------------------------------------------
+Started: 2024-02-28 04:10:54.166884
+Existing_entries: 758
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1379
+Summarized using GPT-3.5-turbo-1106
+Append: [比亚迪打响“电比油低”价格战，压力给到外国车企](https://cn.wsj.com/articles/%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%93%E5%93%8D-%E7%94%B5%E6%AF%94%E6%B2%B9%E4%BD%8E-%E4%BB%B7%E6%A0%BC%E6%88%98-%E5%8E%8B%E5%8A%9B%E7%BB%99%E5%88%B0%E5%A4%96%E5%9B%BD%E8%BD%A6%E4%BC%81-84c49a2a)
+Token length: 1342
+Summarized using GPT-3.5-turbo-1106
+Append: [中国扩大保守国家秘密法覆盖范围，凸显外企在华经营风险](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%89%A9%E5%A4%A7%E4%BF%9D%E5%AE%88%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E6%B3%95%E8%A6%86%E7%9B%96%E8%8C%83%E5%9B%B4-%E5%87%B8%E6%98%BE%E5%A4%96%E4%BC%81%E5%9C%A8%E5%8D%8E%E7%BB%8F%E8%90%A5%E9%A3%8E%E9%99%A9-91e40288)
+append_entries: 2
+Finish: 2024-02-28 04:11:14.437630
