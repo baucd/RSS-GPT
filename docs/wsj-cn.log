@@ -10717,3 +10717,12 @@ Existing_entries: 755
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-27 22:09:33.941769
+------------------------------------------------------
+Started: 2024-02-28 00:36:28.550305
+Existing_entries: 755
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1125
+Summarized using GPT-3.5-turbo-1106
+Append: [比特币逼近历史新高，相关公司和基金纷纷上涨](https://cn.wsj.com/articles/%E6%AF%94%E7%89%B9%E5%B8%81%E9%80%BC%E8%BF%91%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98-%E7%9B%B8%E5%85%B3%E5%85%AC%E5%8F%B8%E5%92%8C%E5%9F%BA%E9%87%91%E7%BA%B7%E7%BA%B7%E4%B8%8A%E6%B6%A8-75fc502e)
+append_entries: 1
+Finish: 2024-02-28 00:36:39.385447
