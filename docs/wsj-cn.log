@@ -10750,3 +10750,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国扩大保守国家秘密法覆盖范围，凸显外企在华经营风险](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%89%A9%E5%A4%A7%E4%BF%9D%E5%AE%88%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E6%B3%95%E8%A6%86%E7%9B%96%E8%8C%83%E5%9B%B4-%E5%87%B8%E6%98%BE%E5%A4%96%E4%BC%81%E5%9C%A8%E5%8D%8E%E7%BB%8F%E8%90%A5%E9%A3%8E%E9%99%A9-91e40288)
 append_entries: 2
 Finish: 2024-02-28 04:11:14.437630
+------------------------------------------------------
+Started: 2024-02-28 06:10:48.492238
+Existing_entries: 760
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 694
+Summarized using GPT-3.5-turbo-1106
+Append: [香港宣布楼市“撤辣”以巩固经济复苏](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E5%AE%A3%E5%B8%83%E6%A5%BC%E5%B8%82-%E6%92%A4%E8%BE%A3-%E4%BB%A5%E5%B7%A9%E5%9B%BA%E7%BB%8F%E6%B5%8E%E5%A4%8D%E8%8B%8F-b3d52ba5)
+Token length: 680
+Summarized using GPT-3.5-turbo-1106
+Append: [网易股价上涨，重要游戏产品手游版获批，即将发布财报](https://cn.wsj.com/articles/%E7%BD%91%E6%98%93%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-%E9%87%8D%E8%A6%81%E6%B8%B8%E6%88%8F%E4%BA%A7%E5%93%81%E6%89%8B%E6%B8%B8%E7%89%88%E8%8E%B7%E6%89%B9-%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83%E8%B4%A2%E6%8A%A5-96d7dcf2)
+append_entries: 2
+Finish: 2024-02-28 06:11:03.385454
