@@ -10825,3 +10825,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国证监会称将强化对私募基金DMA业务的监管](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E7%A7%B0%E5%B0%86%E5%BC%BA%E5%8C%96%E5%AF%B9%E7%A7%81%E5%8B%9F%E5%9F%BA%E9%87%91dma%E4%B8%9A%E5%8A%A1%E7%9A%84%E7%9B%91%E7%AE%A1-2744b344)
 append_entries: 2
 Finish: 2024-02-29 00:37:21.070583
+------------------------------------------------------
+Started: 2024-02-29 02:13:18.475789
+Existing_entries: 765
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3660
+Summarized using GPT-3.5-turbo-1106
+Append: [亨特·拜登的中国商业伙伴缺席拜登弹劾调查](https://cn.wsj.com/articles/%E4%BA%A8%E7%89%B9-%E6%8B%9C%E7%99%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%E7%BC%BA%E5%B8%AD%E6%8B%9C%E7%99%BB%E5%BC%B9%E5%8A%BE%E8%B0%83%E6%9F%A5-d1ef2f0d)
+append_entries: 1
+Finish: 2024-02-29 02:13:33.079378
