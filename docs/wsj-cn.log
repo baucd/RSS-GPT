@@ -10876,3 +10876,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中共中央政治局：加大宏观调控力度，巩固和增强经济回升向好态势](https://cn.wsj.com/articles/%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80-%E5%8A%A0%E5%A4%A7%E5%AE%8F%E8%A7%82%E8%B0%83%E6%8E%A7%E5%8A%9B%E5%BA%A6-%E5%B7%A9%E5%9B%BA%E5%92%8C%E5%A2%9E%E5%BC%BA%E7%BB%8F%E6%B5%8E%E5%9B%9E%E5%8D%87%E5%90%91%E5%A5%BD%E6%80%81%E5%8A%BF-3f0e209d)
 append_entries: 2
 Finish: 2024-02-29 10:10:16.943177
+------------------------------------------------------
+Started: 2024-02-29 12:15:02.381005
+Existing_entries: 772
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 792
+Summarized using GPT-3.5-turbo-1106
+Append: [中国监管机构对另一家高频交易公司实施处分](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9B%91%E7%AE%A1%E6%9C%BA%E6%9E%84%E5%AF%B9%E5%8F%A6%E4%B8%80%E5%AE%B6%E9%AB%98%E9%A2%91%E4%BA%A4%E6%98%93%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%96%BD%E5%A4%84%E5%88%86-e85fc4bc)
+Token length: 637
+Summarized using GPT-3.5-turbo-1106
+Append: [网易第四季度利润大增，受游戏销售额上升提振](https://cn.wsj.com/articles/%E7%BD%91%E6%98%93%E7%AC%AC%E5%9B%9B%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E5%A4%A7%E5%A2%9E-%E5%8F%97%E6%B8%B8%E6%88%8F%E9%94%80%E5%94%AE%E9%A2%9D%E4%B8%8A%E5%8D%87%E6%8F%90%E6%8C%AF-34bf7b2a)
+append_entries: 2
+Finish: 2024-02-29 12:15:20.366190
