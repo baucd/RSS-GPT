@@ -10858,3 +10858,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [百度股价下挫，此前管理层对2024年持谨慎态度](https://cn.wsj.com/articles/%E7%99%BE%E5%BA%A6%E8%82%A1%E4%BB%B7%E4%B8%8B%E6%8C%AB-%E6%AD%A4%E5%89%8D%E7%AE%A1%E7%90%86%E5%B1%82%E5%AF%B92024%E5%B9%B4%E6%8C%81%E8%B0%A8%E6%85%8E%E6%80%81%E5%BA%A6-514628ec)
 append_entries: 2
 Finish: 2024-02-29 06:11:42.809966
+------------------------------------------------------
+Started: 2024-02-29 08:10:39.106694
+Existing_entries: 770
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-02-29 08:10:47.505707
