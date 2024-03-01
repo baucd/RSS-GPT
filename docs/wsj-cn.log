@@ -10918,3 +10918,15 @@ Existing_entries: 774
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-02-29 22:07:26.047320
+------------------------------------------------------
+Started: 2024-03-01 00:41:34.506797
+Existing_entries: 774
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 748
+Summarized using GPT-3.5-turbo-1106
+Append: [拜登以中国风险为由下令调查海外产汽车零部件](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E4%BB%A5%E4%B8%AD%E5%9B%BD%E9%A3%8E%E9%99%A9%E4%B8%BA%E7%94%B1%E4%B8%8B%E4%BB%A4%E8%B0%83%E6%9F%A5%E6%B5%B7%E5%A4%96%E4%BA%A7%E6%B1%BD%E8%BD%A6%E9%9B%B6%E9%83%A8%E4%BB%B6-12cb7f40)
+Token length: 482
+Summarized using GPT-3.5-turbo-1106
+Append: [中国2月百强房企新房销售额同比下降60%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E7%99%BE%E5%BC%BA%E6%88%BF%E4%BC%81%E6%96%B0%E6%88%BF%E9%94%80%E5%94%AE%E9%A2%9D%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D60-c4b4c149)
+append_entries: 2
+Finish: 2024-03-01 00:41:50.036930
