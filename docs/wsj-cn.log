@@ -11005,3 +11005,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [阿里巴巴本地生活集团负责人俞永福将卸任](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%9C%AC%E5%9C%B0%E7%94%9F%E6%B4%BB%E9%9B%86%E5%9B%A2%E8%B4%9F%E8%B4%A3%E4%BA%BA%E4%BF%9E%E6%B0%B8%E7%A6%8F%E5%B0%86%E5%8D%B8%E4%BB%BB-14bf8a41)
 append_entries: 1
 Finish: 2024-03-01 14:08:01.158402
+------------------------------------------------------
+Started: 2024-03-01 16:09:36.810590
+Existing_entries: 787
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-01 16:09:43.507958
