@@ -10987,3 +10987,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周五下跌；美元指数连续反弹](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%BA%94%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E5%8F%8D%E5%BC%B9-326d8a9e)
 append_entries: 3
 Finish: 2024-03-01 10:09:28.175859
+------------------------------------------------------
+Started: 2024-03-01 12:14:17.842513
+Existing_entries: 785
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2905
+Summarized using GPT-3.5-turbo-1106
+Append: [德黑兰来信：一个女人如何骗过中国强大的审查机器](https://cn.wsj.com/articles/%E5%BE%B7%E9%BB%91%E5%85%B0%E6%9D%A5%E4%BF%A1-%E4%B8%80%E4%B8%AA%E5%A5%B3%E4%BA%BA%E5%A6%82%E4%BD%95%E9%AA%97%E8%BF%87%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%A4%A7%E7%9A%84%E5%AE%A1%E6%9F%A5%E6%9C%BA%E5%99%A8-6870e7bd)
+append_entries: 1
+Finish: 2024-03-01 12:14:34.074255
