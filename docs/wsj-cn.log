@@ -11182,3 +11182,21 @@ Existing_entries: 788
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-04 00:38:04.816795
+------------------------------------------------------
+Started: 2024-03-04 02:56:15.141193
+Existing_entries: 788
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2270
+Summarized using GPT-3.5-turbo-1106
+Append: [中国“两会”召开在即，提振经济计划受关注](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD-%E4%B8%A4%E4%BC%9A-%E5%8F%AC%E5%BC%80%E5%9C%A8%E5%8D%B3-%E6%8F%90%E6%8C%AF%E7%BB%8F%E6%B5%8E%E8%AE%A1%E5%88%92%E5%8F%97%E5%85%B3%E6%B3%A8-5c10be56)
+Token length: 1232
+Summarized using GPT-3.5-turbo-1106
+Append: [中国经济龙年开局不稳](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%BE%99%E5%B9%B4%E5%BC%80%E5%B1%80%E4%B8%8D%E7%A8%B3-5e5a62de)
+Token length: 2342
+Summarized using GPT-3.5-turbo-1106
+Append: [“中国冲击”将再次席卷世界](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%86%B2%E5%87%BB-%E5%B0%86%E5%86%8D%E6%AC%A1%E5%B8%AD%E5%8D%B7%E4%B8%96%E7%95%8C-6d17fda5)
+Token length: 5957
+Summarized using GPT-3.5-turbo-1106
+Append: [LVMH为何无法放弃中国市场？](https://cn.wsj.com/articles/lvmh%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E6%94%BE%E5%BC%83%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-9b805661)
+append_entries: 4
+Finish: 2024-03-04 02:56:34.871545
