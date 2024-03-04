@@ -11200,3 +11200,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [LVMH为何无法放弃中国市场？](https://cn.wsj.com/articles/lvmh%E4%B8%BA%E4%BD%95%E6%97%A0%E6%B3%95%E6%94%BE%E5%BC%83%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA-9b805661)
 append_entries: 4
 Finish: 2024-03-04 02:56:34.871545
+------------------------------------------------------
+Started: 2024-03-04 04:37:35.406873
+Existing_entries: 792
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-04 04:37:42.196101
