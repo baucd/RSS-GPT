@@ -11206,3 +11206,18 @@ Existing_entries: 792
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-04 04:37:42.196101
+------------------------------------------------------
+Started: 2024-03-04 06:56:23.068286
+Existing_entries: 792
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 871
+Summarized using GPT-3.5-turbo-1106
+Append: [理想汽车股价下跌，近期上涨后回吐](https://cn.wsj.com/articles/%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E8%BF%91%E6%9C%9F%E4%B8%8A%E6%B6%A8%E5%90%8E%E5%9B%9E%E5%90%90-e7a10865)
+Token length: 1912
+Summarized using GPT-3.5-turbo-1106
+Append: [中国犯罪团伙利用加密货币洗钱，涉资以十亿美元计](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%8A%AF%E7%BD%AA%E5%9B%A2%E4%BC%99%E5%88%A9%E7%94%A8%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81%E6%B4%97%E9%92%B1-%E6%B6%89%E8%B5%84%E4%BB%A5%E5%8D%81%E4%BA%BF%E7%BE%8E%E5%85%83%E8%AE%A1-43ff6c9a)
+Token length: 3285
+Summarized using GPT-3.5-turbo-1106
+Append: [美国司法部在美光案中败诉，凸显遏制中国企业盗窃行为困难之大](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8F%B8%E6%B3%95%E9%83%A8%E5%9C%A8%E7%BE%8E%E5%85%89%E6%A1%88%E4%B8%AD%E8%B4%A5%E8%AF%89-%E5%87%B8%E6%98%BE%E9%81%8F%E5%88%B6%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E7%9B%97%E7%AA%83%E8%A1%8C%E4%B8%BA%E5%9B%B0%E9%9A%BE%E4%B9%8B%E5%A4%A7-8bda86ba)
+append_entries: 3
+Finish: 2024-03-04 06:56:42.139514
