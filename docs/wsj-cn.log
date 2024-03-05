@@ -11314,3 +11314,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国将2024年GDP增长目标定为5%左右，与2023年持平](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%862024%E5%B9%B4gdp%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%B8%BA5-%E5%B7%A6%E5%8F%B3-%E4%B8%8E2023%E5%B9%B4%E6%8C%81%E5%B9%B3-4bc12be3)
 append_entries: 3
 Finish: 2024-03-05 02:14:23.408524
+------------------------------------------------------
+Started: 2024-03-05 04:10:54.489920
+Existing_entries: 806
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 556
+Summarized using GPT-3.5-turbo-1106
+Append: [中国证券交易所举办量化私募机构交易合规培训](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E4%B8%BE%E5%8A%9E%E9%87%8F%E5%8C%96%E7%A7%81%E5%8B%9F%E6%9C%BA%E6%9E%84%E4%BA%A4%E6%98%93%E5%90%88%E8%A7%84%E5%9F%B9%E8%AE%AD-fd970aae)
+Token length: 2095
+Summarized using GPT-3.5-turbo-1106
+Append: [中国今年赤字率目标持平去年，但将连续几年发行超长期特别国债](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BB%8A%E5%B9%B4%E8%B5%A4%E5%AD%97%E7%8E%87%E7%9B%AE%E6%A0%87%E6%8C%81%E5%B9%B3%E5%8E%BB%E5%B9%B4-%E4%BD%86%E5%B0%86%E8%BF%9E%E7%BB%AD%E5%87%A0%E5%B9%B4%E5%8F%91%E8%A1%8C%E8%B6%85%E9%95%BF%E6%9C%9F%E7%89%B9%E5%88%AB%E5%9B%BD%E5%80%BA-9432174e)
+append_entries: 2
+Finish: 2024-03-05 04:11:07.810413
