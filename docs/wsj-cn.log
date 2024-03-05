@@ -11287,3 +11287,15 @@ Existing_entries: 801
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-04 22:07:45.596770
+------------------------------------------------------
+Started: 2024-03-05 00:37:10.944109
+Existing_entries: 801
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 423
+Summarized using GPT-3.5-turbo-1106
+Append: [特斯拉股价下跌，继续2024年跌势](https://cn.wsj.com/articles/%E7%89%B9%E6%96%AF%E6%8B%89%E8%82%A1%E4%BB%B7%E4%B8%8B%E8%B7%8C-%E7%BB%A7%E7%BB%AD2024%E5%B9%B4%E8%B7%8C%E5%8A%BF-47ef1da3)
+Token length: 504
+Summarized using GPT-3.5-turbo-1106
+Append: [中国官员将在人大会议上提出稳定市场的措施](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%B0%86%E5%9C%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E8%AE%AE%E4%B8%8A%E6%8F%90%E5%87%BA%E7%A8%B3%E5%AE%9A%E5%B8%82%E5%9C%BA%E7%9A%84%E6%8E%AA%E6%96%BD-04a400df)
+append_entries: 2
+Finish: 2024-03-05 00:37:24.584498
