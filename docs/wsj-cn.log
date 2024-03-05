@@ -11299,3 +11299,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国官员将在人大会议上提出稳定市场的措施](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%91%98%E5%B0%86%E5%9C%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A%E8%AE%AE%E4%B8%8A%E6%8F%90%E5%87%BA%E7%A8%B3%E5%AE%9A%E5%B8%82%E5%9C%BA%E7%9A%84%E6%8E%AA%E6%96%BD-04a400df)
 append_entries: 2
 Finish: 2024-03-05 00:37:24.584498
+------------------------------------------------------
+Started: 2024-03-05 02:14:08.650287
+Existing_entries: 803
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 3317
+Summarized using GPT-3.5-turbo-1106
+Append: [担心美股已在历史高位？不如买入中国股票](https://cn.wsj.com/articles/%E6%8B%85%E5%BF%83%E7%BE%8E%E8%82%A1%E5%B7%B2%E5%9C%A8%E5%8E%86%E5%8F%B2%E9%AB%98%E4%BD%8D-%E4%B8%8D%E5%A6%82%E4%B9%B0%E5%85%A5%E4%B8%AD%E5%9B%BD%E8%82%A1%E7%A5%A8-8427192f)
+Token length: 2906
+Summarized using GPT-3.5-turbo-1106
+Append: [中国经济减速但不能停滞，犹如在钢丝上游走](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%87%8F%E9%80%9F%E4%BD%86%E4%B8%8D%E8%83%BD%E5%81%9C%E6%BB%9E-%E7%8A%B9%E5%A6%82%E5%9C%A8%E9%92%A2%E4%B8%9D%E4%B8%8A%E6%B8%B8%E8%B5%B0-77a5f08f)
+Token length: 236
+Summarized using GPT-3.5-turbo-1106
+Append: [中国将2024年GDP增长目标定为5%左右，与2023年持平](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%862024%E5%B9%B4gdp%E5%A2%9E%E9%95%BF%E7%9B%AE%E6%A0%87%E5%AE%9A%E4%B8%BA5-%E5%B7%A6%E5%8F%B3-%E4%B8%8E2023%E5%B9%B4%E6%8C%81%E5%B9%B3-4bc12be3)
+append_entries: 3
+Finish: 2024-03-05 02:14:23.408524
