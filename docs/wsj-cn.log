@@ -11380,3 +11380,12 @@ Existing_entries: 814
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-06 02:14:25.111699
+------------------------------------------------------
+Started: 2024-03-06 04:10:14.404459
+Existing_entries: 814
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2860
+Summarized using GPT-3.5-turbo-1106
+Append: [中国总理退入习近平的阴影深处](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%80%BB%E7%90%86%E9%80%80%E5%85%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%98%B4%E5%BD%B1%E6%B7%B1%E5%A4%84-4048fb3f)
+append_entries: 1
+Finish: 2024-03-06 04:10:25.457409
