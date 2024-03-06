@@ -11410,3 +11410,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [在岸人民币周三继续小幅震荡](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E7%BB%A7%E7%BB%AD%E5%B0%8F%E5%B9%85%E9%9C%87%E8%8D%A1-50e4f084)
 append_entries: 2
 Finish: 2024-03-06 12:16:12.727256
+------------------------------------------------------
+Started: 2024-03-06 14:07:28.662855
+Existing_entries: 818
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-06 14:07:38.088012
