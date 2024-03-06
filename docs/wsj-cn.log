@@ -11374,3 +11374,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国计划今年将军费预算增加7.2%](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AE%A1%E5%88%92%E4%BB%8A%E5%B9%B4%E5%B0%86%E5%86%9B%E8%B4%B9%E9%A2%84%E7%AE%97%E5%A2%9E%E5%8A%A07-2-75563216)
 append_entries: 3
 Finish: 2024-03-06 00:37:51.121195
+------------------------------------------------------
+Started: 2024-03-06 02:14:17.512024
+Existing_entries: 814
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-06 02:14:25.111699
