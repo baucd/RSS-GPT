@@ -11389,3 +11389,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国总理退入习近平的阴影深处](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%80%BB%E7%90%86%E9%80%80%E5%85%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%9A%84%E9%98%B4%E5%BD%B1%E6%B7%B1%E5%A4%84-4048fb3f)
 append_entries: 1
 Finish: 2024-03-06 04:10:25.457409
+------------------------------------------------------
+Started: 2024-03-06 06:12:19.212140
+Existing_entries: 815
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1761
+Summarized using GPT-3.5-turbo-1106
+Append: [中国经济繁荣已落幕，政府政策正让情况变得更糟](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%B9%81%E8%8D%A3%E5%B7%B2%E8%90%BD%E5%B9%95-%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E6%AD%A3%E8%AE%A9%E6%83%85%E5%86%B5%E5%8F%98%E5%BE%97%E6%9B%B4%E7%B3%9F-1839e535)
+append_entries: 1
+Finish: 2024-03-06 06:12:29.994011
