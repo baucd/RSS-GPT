@@ -11398,3 +11398,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国经济繁荣已落幕，政府政策正让情况变得更糟](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%B9%81%E8%8D%A3%E5%B7%B2%E8%90%BD%E5%B9%95-%E6%94%BF%E5%BA%9C%E6%94%BF%E7%AD%96%E6%AD%A3%E8%AE%A9%E6%83%85%E5%86%B5%E5%8F%98%E5%BE%97%E6%9B%B4%E7%B3%9F-1839e535)
 append_entries: 1
 Finish: 2024-03-06 06:12:29.994011
+------------------------------------------------------
+Started: 2024-03-06 12:15:57.035869
+Existing_entries: 816
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 981
+Summarized using GPT-3.5-turbo-1106
+Append: [中国央行行长释放更多宽松信号，强调仍有降准空间](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF%E9%87%8A%E6%94%BE%E6%9B%B4%E5%A4%9A%E5%AE%BD%E6%9D%BE%E4%BF%A1%E5%8F%B7-%E5%BC%BA%E8%B0%83%E4%BB%8D%E6%9C%89%E9%99%8D%E5%87%86%E7%A9%BA%E9%97%B4-d775e9d1)
+Token length: 479
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周三继续小幅震荡](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E7%BB%A7%E7%BB%AD%E5%B0%8F%E5%B9%85%E9%9C%87%E8%8D%A1-50e4f084)
+append_entries: 2
+Finish: 2024-03-06 12:16:12.727256
