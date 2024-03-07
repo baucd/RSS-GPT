@@ -11494,3 +11494,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [京东港股大幅上涨，此前公布了强劲业绩](https://cn.wsj.com/articles/%E4%BA%AC%E4%B8%9C%E6%B8%AF%E8%82%A1%E5%A4%A7%E5%B9%85%E4%B8%8A%E6%B6%A8-%E6%AD%A4%E5%89%8D%E5%85%AC%E5%B8%83%E4%BA%86%E5%BC%BA%E5%8A%B2%E4%B8%9A%E7%BB%A9-f29203f3)
 append_entries: 1
 Finish: 2024-03-07 06:11:51.265394
+------------------------------------------------------
+Started: 2024-03-07 08:09:08.374456
+Existing_entries: 828
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1750
+Summarized using GPT-3.5-turbo-1106
+Append: [从地方到中央：中国新举债模式意味着什么？](https://cn.wsj.com/articles/%E4%BB%8E%E5%9C%B0%E6%96%B9%E5%88%B0%E4%B8%AD%E5%A4%AE-%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%BE%E5%80%BA%E6%A8%A1%E5%BC%8F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-404e493a)
+append_entries: 1
+Finish: 2024-03-07 08:09:20.484773
