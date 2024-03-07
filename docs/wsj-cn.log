@@ -11503,3 +11503,18 @@ Summarized using GPT-3.5-turbo-1106
 Append: [从地方到中央：中国新举债模式意味着什么？](https://cn.wsj.com/articles/%E4%BB%8E%E5%9C%B0%E6%96%B9%E5%88%B0%E4%B8%AD%E5%A4%AE-%E4%B8%AD%E5%9B%BD%E6%96%B0%E4%B8%BE%E5%80%BA%E6%A8%A1%E5%BC%8F%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88-404e493a)
 append_entries: 1
 Finish: 2024-03-07 08:09:20.484773
+------------------------------------------------------
+Started: 2024-03-07 10:08:41.766908
+Existing_entries: 829
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 438
+Summarized using GPT-3.5-turbo-1106
+Append: [中国2月底外储环比转为增长64.97亿美元](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E5%BA%95%E5%A4%96%E5%82%A8%E7%8E%AF%E6%AF%94%E8%BD%AC%E4%B8%BA%E5%A2%9E%E9%95%BF64-97%E4%BA%BF%E7%BE%8E%E5%85%83-34fb69fb)
+Token length: 2117
+Summarized using GPT-3.5-turbo-1106
+Append: [中国出口增长鼓舞人心，但也预示贸易紧张局势或加剧](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%95%BF%E9%BC%93%E8%88%9E%E4%BA%BA%E5%BF%83-%E4%BD%86%E4%B9%9F%E9%A2%84%E7%A4%BA%E8%B4%B8%E6%98%93%E7%B4%A7%E5%BC%A0%E5%B1%80%E5%8A%BF%E6%88%96%E5%8A%A0%E5%89%A7-b1794bf3)
+Token length: 729
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币兑美元周四小幅上涨](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%91%A8%E5%9B%9B%E5%B0%8F%E5%B9%85%E4%B8%8A%E6%B6%A8-08a01a37)
+append_entries: 3
+Finish: 2024-03-07 10:09:02.713380
