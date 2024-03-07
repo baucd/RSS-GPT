@@ -11452,3 +11452,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [美国指控一名中国人从谷歌窃取AI机密](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E6%8C%87%E6%8E%A7%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E4%BB%8E%E8%B0%B7%E6%AD%8C%E7%AA%83%E5%8F%96ai%E6%9C%BA%E5%AF%86-f66f89a0)
 append_entries: 2
 Finish: 2024-03-07 00:31:11.541604
+------------------------------------------------------
+Started: 2024-03-07 02:08:16.022283
+Existing_entries: 820
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2813
+Summarized using GPT-3.5-turbo-1106
+Append: [中国的增长数据为何不可信——细数其中的矛盾之处](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%A2%9E%E9%95%BF%E6%95%B0%E6%8D%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8F%AF%E4%BF%A1-bbebf3bd)
+Token length: 2749
+Summarized using GPT-3.5-turbo-1106
+Append: [一位远在意大利的中国X用户是如何变成中国政府眼中钉的？](https://cn.wsj.com/articles/%E4%B8%80%E4%BD%8D%E8%BF%9C%E5%9C%A8%E6%84%8F%E5%A4%A7%E5%88%A9%E7%9A%84%E4%B8%AD%E5%9B%BDx%E7%94%A8%E6%88%B7%E6%98%AF%E5%A6%82%E4%BD%95%E5%8F%98%E6%88%90%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E7%9C%BC%E4%B8%AD%E9%92%89%E7%9A%84-ef96f6bc)
+append_entries: 2
+Finish: 2024-03-07 02:08:29.819314
