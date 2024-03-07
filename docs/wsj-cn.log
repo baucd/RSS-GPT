@@ -11533,3 +11533,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [这款被“拉黑”的中国产零部件让大量出口美国的豪华车滞留](https://cn.wsj.com/articles/%E5%A4%A7%E4%BC%97%E8%BF%90%E5%BE%80%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%B1%AA%E5%8D%8E%E8%BD%A6%E9%81%AD%E5%BB%B6%E8%BF%9F-%E5%9B%A0%E8%A2%AB%E5%88%97%E5%85%A5%E5%AE%9E%E4%BD%93%E6%B8%85%E5%8D%95%E7%9A%84%E4%B8%AD%E4%BC%81%E7%94%9F%E4%BA%A7%E7%9A%84%E9%83%A8%E4%BB%B6-5903c11a)
 append_entries: 3
 Finish: 2024-03-07 12:14:52.330843
+------------------------------------------------------
+Started: 2024-03-07 14:08:51.583559
+Existing_entries: 835
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-07 14:08:59.252854
