@@ -11599,3 +11599,18 @@ Existing_entries: 837
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-08 08:10:36.873569
+------------------------------------------------------
+Started: 2024-03-08 10:10:08.502617
+Existing_entries: 837
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 577
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币上涨，录得近一个月来的少数几次明显波动](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E4%B8%8A%E6%B6%A8-%E5%BD%95%E5%BE%97%E8%BF%91%E4%B8%80%E4%B8%AA%E6%9C%88%E6%9D%A5%E7%9A%84%E5%B0%91%E6%95%B0%E5%87%A0%E6%AC%A1%E6%98%8E%E6%98%BE%E6%B3%A2%E5%8A%A8-cca6d81f)
+Token length: 724
+Summarized using GPT-3.5-turbo-1106
+Append: [中国2月乘用车销量大幅下滑，价格战和春节长假构成拖累](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E4%B9%98%E7%94%A8%E8%BD%A6%E9%94%80%E9%87%8F%E5%A4%A7%E5%B9%85%E4%B8%8B%E6%BB%91-%E4%BB%B7%E6%A0%BC%E6%88%98%E5%92%8C%E6%98%A5%E8%8A%82%E9%95%BF%E5%81%87%E6%9E%84%E6%88%90%E6%8B%96%E7%B4%AF-677414c3)
+Token length: 571
+Summarized using GPT-3.5-turbo-1106
+Append: [美国众议院下属委员会全票通过可能封禁TikTok的议案](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E4%BC%97%E8%AE%AE%E9%99%A2%E4%B8%8B%E5%B1%9E%E5%A7%94%E5%91%98%E4%BC%9A%E5%85%A8%E7%A5%A8%E9%80%9A%E8%BF%87%E5%8F%AF%E8%83%BD%E5%B0%81%E7%A6%81tiktok%E7%9A%84%E8%AE%AE%E6%A1%88-cc4f5545)
+append_entries: 3
+Finish: 2024-03-08 10:10:27.601196
