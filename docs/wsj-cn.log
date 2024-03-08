@@ -11584,3 +11584,12 @@ Existing_entries: 836
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-08 04:10:28.146113
+------------------------------------------------------
+Started: 2024-03-08 06:10:49.883791
+Existing_entries: 836
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 391
+Summarized using GPT-3.5-turbo-1106
+Append: [拜登：美国希望和中国竞争，而不是冲突](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB-%E7%BE%8E%E5%9B%BD%E5%B8%8C%E6%9C%9B%E5%92%8C%E4%B8%AD%E5%9B%BD%E7%AB%9E%E4%BA%89-%E8%80%8C%E4%B8%8D%E6%98%AF%E5%86%B2%E7%AA%81-1dbe4575)
+append_entries: 1
+Finish: 2024-03-08 06:10:59.895843
