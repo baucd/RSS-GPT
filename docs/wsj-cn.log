@@ -11678,3 +11678,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国2月份PPI同比下降2.7%，降幅时隔两个月再度扩大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E4%BB%BDppi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D2-7-%E9%99%8D%E5%B9%85%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%86%8D%E5%BA%A6%E6%89%A9%E5%A4%A7-8f531ab1)
 append_entries: 2
 Finish: 2024-03-09 04:09:50.985124
+------------------------------------------------------
+Started: 2024-03-09 06:11:55.585350
+Existing_entries: 843
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-09 06:12:01.252640
