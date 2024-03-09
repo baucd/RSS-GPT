@@ -11657,3 +11657,12 @@ Existing_entries: 840
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-09 00:36:12.617074
+------------------------------------------------------
+Started: 2024-03-09 02:11:44.367329
+Existing_entries: 840
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 500
+Summarized using GPT-3.5-turbo-1106
+Append: [拜登支持迫使中国所有者出售TikTok的行动](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E8%BF%AB%E4%BD%BF%E4%B8%AD%E5%9B%BD%E6%89%80%E6%9C%89%E8%80%85%E5%87%BA%E5%94%AEtiktok%E7%9A%84%E8%A1%8C%E5%8A%A8-af7f7388)
+append_entries: 1
+Finish: 2024-03-09 02:11:53.581915
