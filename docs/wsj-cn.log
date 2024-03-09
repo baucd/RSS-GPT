@@ -11666,3 +11666,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [拜登支持迫使中国所有者出售TikTok的行动](https://cn.wsj.com/articles/%E6%8B%9C%E7%99%BB%E6%94%AF%E6%8C%81%E8%BF%AB%E4%BD%BF%E4%B8%AD%E5%9B%BD%E6%89%80%E6%9C%89%E8%80%85%E5%87%BA%E5%94%AEtiktok%E7%9A%84%E8%A1%8C%E5%8A%A8-af7f7388)
 append_entries: 1
 Finish: 2024-03-09 02:11:53.581915
+------------------------------------------------------
+Started: 2024-03-09 04:09:33.544838
+Existing_entries: 841
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国2月份CPI同比上涨0.7%，自去年8月以来首次上涨](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E4%BB%BDcpi%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A80-7-%E9%AB%98%E4%BA%8E%E5%B8%82%E5%9C%BA%E9%A2%84%E6%9C%9F-%E8%87%AA%E5%8E%BB%E5%B9%B48%E6%9C%88%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E4%B8%8A%E6%B6%A8-c0dc1dea)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国2月份PPI同比下降2.7%，降幅时隔两个月再度扩大](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E4%BB%BDppi%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D2-7-%E9%99%8D%E5%B9%85%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88%E5%86%8D%E5%BA%A6%E6%89%A9%E5%A4%A7-8f531ab1)
+append_entries: 2
+Finish: 2024-03-09 04:09:50.985124
