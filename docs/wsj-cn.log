@@ -11819,3 +11819,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国消费者价格小幅上涨，打破连续四个月的跌势](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC%E5%B0%8F%E5%B9%85%E4%B8%8A%E6%B6%A8-%E6%89%93%E7%A0%B4%E8%BF%9E%E7%BB%AD%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B7%8C%E5%8A%BF-20950255)
 append_entries: 1
 Finish: 2024-03-11 02:16:42.923702
+------------------------------------------------------
+Started: 2024-03-11 04:10:33.829017
+Existing_entries: 844
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [未来一周汇债两市关注美国通胀和中国数据](https://cn.wsj.com/articles/%E6%9C%AA%E6%9D%A5%E4%B8%80%E5%91%A8%E6%B1%87%E5%80%BA%E4%B8%A4%E5%B8%82%E5%85%B3%E6%B3%A8%E7%BE%8E%E5%9B%BD%E9%80%9A%E8%83%80%E5%92%8C%E4%B8%AD%E5%9B%BD%E6%95%B0%E6%8D%AE-7ccb454a)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [美国加快步伐遏制TikTok，出售或关停风险迫在眉睫](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%BF%AB%E6%AD%A5%E4%BC%90%E9%81%8F%E5%88%B6tiktok-%E5%87%BA%E5%94%AE%E6%88%96%E5%85%B3%E5%81%9C%E9%A3%8E%E9%99%A9%E8%BF%AB%E5%9C%A8%E7%9C%89%E7%9D%AB-fba6ab8b)
+append_entries: 2
+Finish: 2024-03-11 04:10:51.476941
