@@ -17201,3 +17201,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/87100)
 append_entries: 1
 Finish: 2024-03-11 10:10:52.005804
+------------------------------------------------------
+Started: 2024-03-11 12:14:38.022958
+Existing_entries: 605
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文 | 让「跨界」从概念变成产物：我的桌面游戏设计之旅](https://sspai.com/post/86944)
+append_entries: 1
+Finish: 2024-03-11 12:14:49.334490
