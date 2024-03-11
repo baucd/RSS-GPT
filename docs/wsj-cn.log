@@ -11810,3 +11810,12 @@ Existing_entries: 843
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-11 00:38:41.954993
+------------------------------------------------------
+Started: 2024-03-11 02:16:30.541300
+Existing_entries: 843
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国消费者价格小幅上涨，打破连续四个月的跌势](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC%E5%B0%8F%E5%B9%85%E4%B8%8A%E6%B6%A8-%E6%89%93%E7%A0%B4%E8%BF%9E%E7%BB%AD%E5%9B%9B%E4%B8%AA%E6%9C%88%E7%9A%84%E8%B7%8C%E5%8A%BF-20950255)
+append_entries: 1
+Finish: 2024-03-11 02:16:42.923702

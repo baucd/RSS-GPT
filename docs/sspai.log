@@ -17159,3 +17159,12 @@ Existing_entries: 601
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-03-11 00:38:32.630145
+------------------------------------------------------
+Started: 2024-03-11 02:16:17.393087
+Existing_entries: 601
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [派早报：OpenAI 宣布新董事会成员，Altman 回归](https://sspai.com/post/87084)
+append_entries: 1
+Finish: 2024-03-11 02:16:28.217285
