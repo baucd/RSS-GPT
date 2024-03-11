@@ -17183,3 +17183,12 @@ Existing_entries: 603
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-03-11 06:11:20.725977
+------------------------------------------------------
+Started: 2024-03-11 08:11:22.391604
+Existing_entries: 603
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [一日一技 | 巧用公式实现 Notion 数据库去重](https://sspai.com/post/86909)
+append_entries: 1
+Finish: 2024-03-11 08:11:32.800772
