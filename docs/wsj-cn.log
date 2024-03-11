@@ -11861,3 +11861,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [苹果将在上海开设新店，中国iPhone销售量下滑](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%B0%86%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%BC%80%E8%AE%BE%E6%96%B0%E5%BA%97-%E4%B8%AD%E5%9B%BDiphone%E9%94%80%E5%94%AE%E9%87%8F%E4%B8%8B%E6%BB%91-056cb9b3)
 append_entries: 1
 Finish: 2024-03-11 12:15:04.236123
+------------------------------------------------------
+Started: 2024-03-11 14:07:58.709411
+Existing_entries: 848
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-11 14:08:07.251027
