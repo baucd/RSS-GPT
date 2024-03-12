@@ -17294,3 +17294,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
 append_entries: 3
 Finish: 2024-03-12 10:09:00.268406
+------------------------------------------------------
+Started: 2024-03-12 12:14:08.940715
+Existing_entries: 612
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文 |「狐狸」的成长：兴趣杂、难坚持，如何找到精进之路？](https://sspai.com/post/86886)
+append_entries: 1
+Finish: 2024-03-12 12:14:20.800467
