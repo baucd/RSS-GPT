@@ -17279,3 +17279,18 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [App+1 | 寻找最适合写小说的工具——novelWriter](https://sspai.com/post/86447)
 append_entries: 1
 Finish: 2024-03-12 08:10:42.033771
+------------------------------------------------------
+Started: 2024-03-12 10:08:39.940755
+Existing_entries: 609
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [2024 年，翻盖机还有什么可玩？](https://sspai.com/post/87098)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [社区速递 035 | 派友们的最爱字体、输入法鼓捣和新玩意们](https://sspai.com/post/87128)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [少数派的 12 岁：正版软件特惠限时开启](https://sspai.com/post/87126)
+append_entries: 3
+Finish: 2024-03-12 10:09:00.268406

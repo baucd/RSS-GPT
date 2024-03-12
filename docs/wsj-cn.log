@@ -11933,3 +11933,12 @@ Existing_entries: 852
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-12 08:10:50.073698
+------------------------------------------------------
+Started: 2024-03-12 10:09:02.622166
+Existing_entries: 852
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [在岸人民币连续三日明显反弹；美元指数低位整固、等候CPI](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E8%BF%9E%E7%BB%AD%E4%B8%89%E6%97%A5%E6%98%8E%E6%98%BE%E5%8F%8D%E5%BC%B9-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E4%BD%8E%E4%BD%8D%E6%95%B4%E5%9B%BA-%E7%AD%89%E5%80%99cpi-852110df)
+append_entries: 1
+Finish: 2024-03-12 10:09:15.663702
