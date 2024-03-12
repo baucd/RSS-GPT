@@ -11891,3 +11891,15 @@ Existing_entries: 848
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-11 22:08:10.424845
+------------------------------------------------------
+Started: 2024-03-12 00:36:55.188258
+Existing_entries: 848
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [哔哩哔哩股价上涨，受科技股买盘带动](https://cn.wsj.com/articles/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E8%82%A1%E4%BB%B7%E4%B8%8A%E6%B6%A8-%E5%8F%97%E7%A7%91%E6%8A%80%E8%82%A1%E4%B9%B0%E7%9B%98%E5%B8%A6%E5%8A%A8-42efe899)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [印度成功试飞多弹头弹道导弹，增强对中国的核威慑](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E6%88%90%E5%8A%9F%E8%AF%95%E9%A3%9E%E5%A4%9A%E5%BC%B9%E5%A4%B4%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9-%E5%A2%9E%E5%BC%BA%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%A0%B8%E5%A8%81%E6%85%91-cb446a2f)
+append_entries: 2
+Finish: 2024-03-12 00:37:13.727608
