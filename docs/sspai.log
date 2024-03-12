@@ -17255,3 +17255,12 @@ Existing_entries: 607
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-03-12 02:14:02.569989
+------------------------------------------------------
+Started: 2024-03-12 04:11:30.124365
+Existing_entries: 607
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文 | 一个末代手摄爱好者的回顾](https://sspai.com/post/86779)
+append_entries: 1
+Finish: 2024-03-12 04:11:39.931683
