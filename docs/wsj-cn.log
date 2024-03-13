@@ -12036,3 +12036,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国修复股市如何殃及量化基金？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BF%AE%E5%A4%8D%E8%82%A1%E5%B8%82%E5%A6%82%E4%BD%95%E6%AE%83%E5%8F%8A%E9%87%8F%E5%8C%96%E5%9F%BA%E9%87%91-170c3f37)
 append_entries: 2
 Finish: 2024-03-13 10:09:39.974723
+------------------------------------------------------
+Started: 2024-03-13 12:15:10.353552
+Existing_entries: 860
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-13 12:15:16.396500
