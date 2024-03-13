@@ -11997,3 +11997,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [美国要封禁TikTok难在哪里？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%B0%81%E7%A6%81tiktok%E9%9A%BE%E5%9C%A8%E5%93%AA%E9%87%8C-92b4704b)
 append_entries: 1
 Finish: 2024-03-13 02:17:02.951469
+------------------------------------------------------
+Started: 2024-03-13 04:10:09.391874
+Existing_entries: 855
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国两会未指明推动经济复苏的明确路径](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B8%A4%E4%BC%9A%E6%9C%AA%E6%8C%87%E6%98%8E%E6%8E%A8%E5%8A%A8%E7%BB%8F%E6%B5%8E%E5%A4%8D%E8%8B%8F%E7%9A%84%E6%98%8E%E7%A1%AE%E8%B7%AF%E5%BE%84-3b72ae3f)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [美国封杀法案突如其来，TikTok为何毫无防备？](https://cn.wsj.com/articles/%E9%9D%A2%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B0%81%E6%9D%80%E6%B3%95%E6%A1%88-tiktok%E4%B8%BA%E4%BD%95%E6%AF%AB%E6%97%A0%E9%98%B2%E5%A4%87-08172330)
+append_entries: 2
+Finish: 2024-03-13 04:10:26.821387

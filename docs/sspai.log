@@ -17348,3 +17348,12 @@ Existing_entries: 614
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-03-13 02:16:46.885676
+------------------------------------------------------
+Started: 2024-03-13 04:09:57.252178
+Existing_entries: 614
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文 | 二十年后我再次和纸笔恋爱了](https://sspai.com/post/87018)
+append_entries: 1
+Finish: 2024-03-13 04:10:07.054627
