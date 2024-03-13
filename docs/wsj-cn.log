@@ -12024,3 +12024,15 @@ Existing_entries: 858
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-13 08:10:47.537461
+------------------------------------------------------
+Started: 2024-03-13 10:09:22.885378
+Existing_entries: 858
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [在岸人民币周三跌超200点；美元指数连续修复](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%89%E8%B7%8C%E8%B6%85200%E7%82%B9-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E4%BF%AE%E5%A4%8D-86949032)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国修复股市如何殃及量化基金？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BF%AE%E5%A4%8D%E8%82%A1%E5%B8%82%E5%A6%82%E4%BD%95%E6%AE%83%E5%8F%8A%E9%87%8F%E5%8C%96%E5%9F%BA%E9%87%91-170c3f37)
+append_entries: 2
+Finish: 2024-03-13 10:09:39.974723

@@ -17372,3 +17372,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [手把手教你装机：PC 组装入门指南](https://sspai.com/post/86958)
 append_entries: 1
 Finish: 2024-03-13 08:10:39.395558
+------------------------------------------------------
+Started: 2024-03-13 10:09:05.411788
+Existing_entries: 616
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文｜上什么班啊，不过是来历劫罢了](https://sspai.com/post/86905)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [将手机变成胶片机，拍一张专属「回忆盲盒」：Moment](https://sspai.com/post/85031)
+append_entries: 2
+Finish: 2024-03-13 10:09:20.532285
