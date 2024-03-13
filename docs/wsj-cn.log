@@ -11988,3 +11988,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国对美国尽职调查公司美思明智追加罚款](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%B0%BD%E8%81%8C%E8%B0%83%E6%9F%A5%E5%85%AC%E5%8F%B8%E7%BE%8E%E6%80%9D%E6%98%8E%E6%99%BA%E8%BF%BD%E5%8A%A0%E7%BD%9A%E6%AC%BE-6cc3e543)
 append_entries: 1
 Finish: 2024-03-13 00:38:02.444661
+------------------------------------------------------
+Started: 2024-03-13 02:16:49.257850
+Existing_entries: 854
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [美国要封禁TikTok难在哪里？](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E8%A6%81%E5%B0%81%E7%A6%81tiktok%E9%9A%BE%E5%9C%A8%E5%93%AA%E9%87%8C-92b4704b)
+append_entries: 1
+Finish: 2024-03-13 02:17:02.951469
