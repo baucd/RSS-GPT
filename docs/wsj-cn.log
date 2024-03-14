@@ -12096,3 +12096,18 @@ Existing_entries: 862
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-14 04:10:12.697761
+------------------------------------------------------
+Started: 2024-03-14 06:10:48.789601
+Existing_entries: 862
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国交易滑坡殃及国际律所](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%BA%A4%E6%98%93%E6%BB%91%E5%9D%A1%E6%AE%83%E5%8F%8A%E5%9B%BD%E9%99%85%E5%BE%8B%E6%89%80-dcca317a)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [TikTok会很快从美国人的手机中消失吗？](https://cn.wsj.com/articles/tiktok%E4%BC%9A%E5%BE%88%E5%BF%AB%E4%BB%8E%E7%BE%8E%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%89%8B%E6%9C%BA%E4%B8%AD%E6%B6%88%E5%A4%B1%E5%90%97-528e514d)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国经济增长乏力，但老年市场正蓬勃发展](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%A2%9E%E9%95%BF%E4%B9%8F%E5%8A%9B-%E4%BD%86%E8%80%81%E5%B9%B4%E5%B8%82%E5%9C%BA%E6%AD%A3%E8%93%AC%E5%8B%83%E5%8F%91%E5%B1%95-848034d5)
+append_entries: 3
+Finish: 2024-03-14 06:11:12.405565
