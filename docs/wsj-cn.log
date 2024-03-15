@@ -12198,3 +12198,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国2月新建住宅价格下跌，但环比跌幅基本持平](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C-%E4%BD%86%E7%8E%AF%E6%AF%94%E8%B7%8C%E5%B9%85%E5%9F%BA%E6%9C%AC%E6%8C%81%E5%B9%B3-e1505b5d)
 append_entries: 2
 Finish: 2024-03-15 04:11:30.657346
+------------------------------------------------------
+Started: 2024-03-15 06:11:26.756264
+Existing_entries: 872
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-15 06:11:34.563948
