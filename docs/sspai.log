@@ -17546,3 +17546,15 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [一次常规更新：M3 版 MacBook Air 快速上手](https://sspai.com/post/87202)
 append_entries: 1
 Finish: 2024-03-15 08:11:03.608977
+------------------------------------------------------
+Started: 2024-03-15 10:08:22.534987
+Existing_entries: 626
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [本周看什么 | 最近值得一看的 7 部作品](https://sspai.com/post/87219)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [年度征文 | 从戒除安眠药开始，我选择不再将自己外包](https://sspai.com/post/86911)
+append_entries: 2
+Finish: 2024-03-15 10:08:38.966140
