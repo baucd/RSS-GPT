@@ -12180,3 +12180,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [美国前财长姆努钦称正试图组建投资者财团收购TikTok](https://cn.wsj.com/articles/%E7%BE%8E%E5%9B%BD%E5%89%8D%E8%B4%A2%E9%95%BF%E5%A7%86%E5%8A%AA%E9%92%A6%E7%A7%B0%E6%AD%A3%E8%AF%95%E5%9B%BE%E7%BB%84%E5%BB%BA%E6%8A%95%E8%B5%84%E8%80%85%E8%B4%A2%E5%9B%A2%E6%94%B6%E8%B4%ADtiktok-b8025430)
 append_entries: 2
 Finish: 2024-03-15 00:38:08.626013
+------------------------------------------------------
+Started: 2024-03-15 02:15:41.312890
+Existing_entries: 870
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-15 02:15:48.410797
