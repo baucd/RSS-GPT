@@ -12186,3 +12186,15 @@ Existing_entries: 870
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-15 02:15:48.410797
+------------------------------------------------------
+Started: 2024-03-15 04:11:12.038790
+Existing_entries: 870
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [“中国恐惧”造就TikTok法案，企业被这个委员会盯上后果有多严重？](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%81%90%E6%83%A7-%E9%80%A0%E5%B0%B1tiktok%E6%B3%95%E6%A1%88-%E8%A2%AB%E8%BF%99%E4%B8%AA%E5%A7%94%E5%91%98%E4%BC%9A%E7%9B%AF%E4%B8%8A%E5%90%8E%E6%9E%9C%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D-cf233c71)
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国2月新建住宅价格下跌，但环比跌幅基本持平](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD2%E6%9C%88%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E4%B8%8B%E8%B7%8C-%E4%BD%86%E7%8E%AF%E6%AF%94%E8%B7%8C%E5%B9%85%E5%9F%BA%E6%9C%AC%E6%8C%81%E5%B9%B3-e1505b5d)
+append_entries: 2
+Finish: 2024-03-15 04:11:30.657346
