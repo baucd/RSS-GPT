@@ -12276,3 +12276,12 @@ Existing_entries: 878
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-16 00:36:07.892606
+------------------------------------------------------
+Started: 2024-03-16 02:13:38.077333
+Existing_entries: 878
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [中国举步维艰的IPO市场再添压力](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0%E7%9A%84ipo%E5%B8%82%E5%9C%BA%E5%86%8D%E6%B7%BB%E5%8E%8B%E5%8A%9B-7cf8d1ff)
+append_entries: 1
+Finish: 2024-03-16 02:13:49.007786
