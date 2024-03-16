@@ -12294,3 +12294,9 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [苹果将支付4.9亿美元和解一起诉讼，涉隐瞒中国iPhone需求下降](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%94%AF%E4%BB%984-9%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E5%BA%93%E5%85%8B%E9%9A%90%E7%9E%92%E4%B8%AD%E5%9B%BDiphone%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D%E5%BC%95%E5%8F%91%E7%9A%84%E8%AF%89%E8%AE%BC-c6694ba8)
 append_entries: 1
 Finish: 2024-03-16 04:09:46.852991
+------------------------------------------------------
+Started: 2024-03-16 06:10:19.746561
+Existing_entries: 880
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-16 06:10:25.549607
