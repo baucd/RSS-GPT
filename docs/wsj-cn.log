@@ -12285,3 +12285,12 @@ error: Error code: 429 - {'error': {'message': 'You exceeded your current quota,
 Append: [中国举步维艰的IPO市场再添压力](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B8%BE%E6%AD%A5%E7%BB%B4%E8%89%B0%E7%9A%84ipo%E5%B8%82%E5%9C%BA%E5%86%8D%E6%B7%BB%E5%8E%8B%E5%8A%9B-7cf8d1ff)
 append_entries: 1
 Finish: 2024-03-16 02:13:49.007786
+------------------------------------------------------
+Started: 2024-03-16 04:09:35.080018
+Existing_entries: 879
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Summarization failed, append the original article
+error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+Append: [苹果将支付4.9亿美元和解一起诉讼，涉隐瞒中国iPhone需求下降](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%94%AF%E4%BB%984-9%E4%BA%BF%E7%BE%8E%E5%85%83%E5%92%8C%E8%A7%A3%E5%BA%93%E5%85%8B%E9%9A%90%E7%9E%92%E4%B8%AD%E5%9B%BDiphone%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D%E5%BC%95%E5%8F%91%E7%9A%84%E8%AF%89%E8%AE%BC-c6694ba8)
+append_entries: 1
+Finish: 2024-03-16 04:09:46.852991
