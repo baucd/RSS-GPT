@@ -12459,3 +12459,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国1-2月规上工业增加值同比增长7%，高于前值和预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD1-2%E6%9C%88%E8%A7%84%E4%B8%8A%E5%B7%A5%E4%B8%9A%E5%A2%9E%E5%8A%A0%E5%80%BC%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF7-%E9%AB%98%E4%BA%8E%E5%89%8D%E5%80%BC%E5%92%8C%E9%A2%84%E6%9C%9F-727af840)
 append_entries: 5
 Finish: 2024-03-18 04:10:30.994710
+------------------------------------------------------
+Started: 2024-03-18 06:11:51.419655
+Existing_entries: 887
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-18 06:11:56.801546
