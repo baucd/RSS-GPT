@@ -12477,3 +12477,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国可能如何阻碍印度芯片发展雄心？](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E8%8A%AF%E7%89%87%E5%8F%91%E5%B1%95%E9%9B%84%E5%BF%83%E5%A6%82%E4%BD%95%E5%8F%97%E5%88%B0%E4%B8%AD%E5%9B%BD%E7%89%B5%E7%BB%8A-d0f6891b)
 append_entries: 2
 Finish: 2024-03-18 08:11:28.927496
+------------------------------------------------------
+Started: 2024-03-18 10:09:46.577995
+Existing_entries: 889
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 951
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币周一小幅下跌；美指反弹、但中国经济开局稳健](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%91%A8%E4%B8%80%E5%B0%8F%E5%B9%85%E4%B8%8B%E8%B7%8C-%E7%BE%8E%E6%8C%87%E5%8F%8D%E5%BC%B9-%E4%BD%86%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BC%80%E5%B1%80%E7%A8%B3%E5%81%A5-c195efa8)
+append_entries: 1
+Finish: 2024-03-18 10:09:56.516513
