@@ -12426,3 +12426,15 @@ Existing_entries: 880
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-18 00:38:52.395828
+------------------------------------------------------
+Started: 2024-03-18 02:15:32.419966
+Existing_entries: 880
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1603
+Summarized using GPT-3.5-turbo-1106
+Append: [本田和日产计划在电动车领域合作，以期与中国和美国公司竞争](https://cn.wsj.com/articles/%E6%97%A5%E4%BA%A7%E6%B1%BD%E8%BD%A6%E5%92%8C%E6%9C%AC%E7%94%B0%E6%B1%BD%E8%BD%A6%E5%B0%86%E8%80%83%E8%99%91%E5%9C%A8%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E9%A2%86%E5%9F%9F%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB-9e458a62)
+Token length: 2210
+Summarized using GPT-3.5-turbo-1106
+Append: [关于TikTok封杀法案，你需要知道哪些](https://cn.wsj.com/articles/%E5%85%B3%E4%BA%8Etiktok%E5%B0%81%E6%9D%80%E6%B3%95%E6%A1%88-%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B-2433144d)
+append_entries: 2
+Finish: 2024-03-18 02:15:46.633707
