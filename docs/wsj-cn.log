@@ -12531,3 +12531,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国证监会称中国恒大财务造假、虚增销售额](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E4%BB%A5%E6%AC%BA%E8%AF%88%E6%89%8B%E6%AE%B5%E8%99%9A%E5%A2%9E%E9%94%80%E5%94%AE%E9%A2%9D-ecfafffd)
 append_entries: 1
 Finish: 2024-03-19 00:37:37.799968
+------------------------------------------------------
+Started: 2024-03-19 02:15:17.321270
+Existing_entries: 891
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1937
+Summarized using GPT-3.5-turbo-1106
+Append: [劳动力市场信号凸显中国经济的薄弱环节](https://cn.wsj.com/articles/%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%BF%A1%E5%8F%B7%E5%87%B8%E6%98%BE%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%9A%84%E8%96%84%E5%BC%B1%E7%8E%AF%E8%8A%82-cfd23e10)
+Token length: 2876
+Summarized using GPT-3.5-turbo-1106
+Append: [台湾防范中国夺岛的战术难题：押宝重型武器还是非对称作战？](https://cn.wsj.com/articles/%E5%8F%B0%E6%B9%BE%E9%98%B2%E8%8C%83%E4%B8%AD%E5%9B%BD%E5%A4%BA%E5%B2%9B%E7%9A%84%E6%88%98%E6%9C%AF%E9%9A%BE%E9%A2%98-%E6%8A%BC%E5%AE%9D%E9%87%8D%E5%9E%8B%E6%AD%A6%E5%99%A8%E8%BF%98%E6%98%AF%E9%9D%9E%E5%AF%B9%E7%A7%B0%E4%BD%9C%E6%88%98-565cf897)
+append_entries: 2
+Finish: 2024-03-19 02:15:29.352375
