@@ -12522,3 +12522,12 @@ Existing_entries: 890
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-18 22:08:37.619578
+------------------------------------------------------
+Started: 2024-03-19 00:37:29.522529
+Existing_entries: 890
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 703
+Summarized using GPT-3.5-turbo-1106
+Append: [中国证监会称中国恒大财务造假、虚增销售额](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E7%A7%B0%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E4%BB%A5%E6%AC%BA%E8%AF%88%E6%89%8B%E6%AE%B5%E8%99%9A%E5%A2%9E%E9%94%80%E5%94%AE%E9%A2%9D-ecfafffd)
+append_entries: 1
+Finish: 2024-03-19 00:37:37.799968
