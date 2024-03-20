@@ -12636,3 +12636,12 @@ Existing_entries: 896
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 append_entries: 0
 Finish: 2024-03-20 06:11:12.532076
+------------------------------------------------------
+Started: 2024-03-20 08:10:46.294232
+Existing_entries: 896
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 2301
+Summarized using GPT-3.5-turbo-1106
+Append: [香港通过“第23条”立法，外企高管忧心忡忡](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF%E9%80%9A%E8%BF%87-%E7%AC%AC23%E6%9D%A1-%E7%AB%8B%E6%B3%95-%E5%A4%96%E4%BC%81%E9%AB%98%E7%AE%A1%E5%BF%A7%E5%BF%83%E5%BF%A1%E5%BF%A1-3516f496)
+append_entries: 1
+Finish: 2024-03-20 08:10:59.121545
