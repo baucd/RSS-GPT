@@ -12630,3 +12630,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [从中国政府对待民企的方式看美国政府为何盯上TikTok](https://cn.wsj.com/articles/%E4%BB%8E%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AF%B9%E5%BE%85%E6%B0%91%E4%BC%81%E7%9A%84%E6%96%B9%E5%BC%8F%E7%9C%8B%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E7%9B%AF%E4%B8%8Atiktok-8715a352)
 append_entries: 1
 Finish: 2024-03-20 04:11:58.128731
+------------------------------------------------------
+Started: 2024-03-20 06:11:06.234359
+Existing_entries: 896
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-20 06:11:12.532076
