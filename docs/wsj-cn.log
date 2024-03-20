@@ -12669,3 +12669,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [苹果CEO库克抵达上海，此前iPhone 15在中国市场销售遇挫](https://cn.wsj.com/articles/%E8%8B%B9%E6%9E%9Cceo%E5%BA%93%E5%85%8B%E6%8A%B5%E8%BE%BE%E4%B8%8A%E6%B5%B7-%E6%AD%A4%E5%89%8Diphone-15%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E9%94%80%E5%94%AE%E9%81%87%E6%8C%AB-013c83f1)
 append_entries: 2
 Finish: 2024-03-20 12:14:45.977102
+------------------------------------------------------
+Started: 2024-03-20 14:08:04.944277
+Existing_entries: 901
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+append_entries: 0
+Finish: 2024-03-20 14:08:13.417329
