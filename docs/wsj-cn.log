@@ -12741,3 +12741,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [中国央行暗示将进一步放松货币政策](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%9A%97%E7%A4%BA%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E6%94%BE%E6%9D%BE%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96-a9718cb2)
 append_entries: 2
 Finish: 2024-03-21 06:11:23.882285
+------------------------------------------------------
+Started: 2024-03-21 08:10:56.777168
+Existing_entries: 907
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 545
+Summarized using GPT-3.5-turbo-1106
+Append: [阿里巴巴前CEO张勇加入鲜为人知的中国投资基金](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%89%8Dceo%E5%BC%A0%E5%8B%87%E5%8A%A0%E5%85%A5%E9%B2%9C%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E5%9F%BA%E9%87%91-813eb1f5)
+Token length: 1483
+Summarized using GPT-3.5-turbo-1106
+Append: [从华为回归看美国影响力及其局限](https://cn.wsj.com/articles/%E4%BB%8E%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BD%92%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%8F%8A%E5%85%B6%E5%B1%80%E9%99%90-24445954)
+append_entries: 2
+Finish: 2024-03-21 08:11:12.760435
