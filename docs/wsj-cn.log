@@ -12753,3 +12753,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [从华为回归看美国影响力及其局限](https://cn.wsj.com/articles/%E4%BB%8E%E5%8D%8E%E4%B8%BA%E5%9B%9E%E5%BD%92%E7%9C%8B%E7%BE%8E%E5%9B%BD%E5%BD%B1%E5%93%8D%E5%8A%9B%E5%8F%8A%E5%85%B6%E5%B1%80%E9%99%90-24445954)
 append_entries: 2
 Finish: 2024-03-21 08:11:12.760435
+------------------------------------------------------
+Started: 2024-03-21 10:08:51.415274
+Existing_entries: 909
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 557
+Summarized using GPT-3.5-turbo-1106
+Append: [在岸人民币继续波澜不惊；美元指数前夜大幅回落后今日探底回升](https://cn.wsj.com/articles/%E5%9C%A8%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E7%BB%A7%E7%BB%AD%E6%B3%A2%E6%BE%9C%E4%B8%8D%E6%83%8A-%E7%BE%8E%E5%85%83%E6%8C%87%E6%95%B0%E5%89%8D%E5%A4%9C%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%90%BD%E5%90%8E%E4%BB%8A%E6%97%A5%E6%8E%A2%E5%BA%95%E5%9B%9E%E5%8D%87-cf46f624)
+append_entries: 1
+Finish: 2024-03-21 10:09:01.076227
