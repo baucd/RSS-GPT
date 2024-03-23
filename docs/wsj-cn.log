@@ -12896,3 +12896,10 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 Feed error: 404
 append_entries: 0
 error when rendering xml, skip docs/wsj-cn
+------------------------------------------------------
+Started: 2024-03-23 02:14:45.998416
+Existing_entries: 911
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Feed error: 404
+append_entries: 0
+error when rendering xml, skip docs/wsj-cn
