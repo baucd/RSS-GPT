@@ -18738,3 +18738,10 @@ Summarized using GPT-3.5-turbo-1106
 Append: [本周看什么 | 最近值得一看的一大兜作品](https://sspai.com/post/87654)
 append_entries: 1
 Finish: 2024-03-29 12:15:48.805496
+------------------------------------------------------
+Started: 2024-03-29 14:07:31.096092
+Existing_entries: 683
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai
