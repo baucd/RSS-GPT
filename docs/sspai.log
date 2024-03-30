@@ -18788,3 +18788,12 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 502
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-03-30 06:10:15.763352
+Existing_entries: 683
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 9142
+Summarized using GPT-3.5-turbo-1106
+Append: [尝试了众多输入法方案后，我想和你分享这些心得](https://sspai.com/post/86791)
+append_entries: 1
+Finish: 2024-03-30 06:10:24.750311
