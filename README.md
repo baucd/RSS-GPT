@@ -2000,4 +2000,5 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
 - http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
 - http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
+- http://baucdlovechina.katsusama.xyz/rsshub/sspai/index -> https://baucd.github.io/RSS-GPT/sspai.xml
 - http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china -> https://baucd.github.io/RSS-GPT/wsj-cn.xml
