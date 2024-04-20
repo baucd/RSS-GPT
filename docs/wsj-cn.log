@@ -15227,3 +15227,10 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/wsj-cn
+------------------------------------------------------
+Started: 2024-04-20 06:11:05.834600
+Existing_entries: 911
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/wsj-cn
