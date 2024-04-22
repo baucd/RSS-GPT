@@ -20660,3 +20660,10 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派评 | 近期值得关注的 App](https://sspai.com/post/88259)
 append_entries: 1
 Finish: 2024-04-22 12:16:31.929510
+------------------------------------------------------
+Started: 2024-04-22 14:08:33.665628
+Existing_entries: 755
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai
