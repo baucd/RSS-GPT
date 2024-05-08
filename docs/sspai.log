@@ -21942,3 +21942,12 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-05-08 00:32:48.775098
+Existing_entries: 811
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 3133
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：Apple 发布多款 iPad 新品等](https://sspai.com/post/88620)
+append_entries: 1
+Finish: 2024-05-08 00:32:57.522203
