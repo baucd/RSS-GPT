@@ -22146,3 +22146,15 @@ Existing_entries: 821
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-05-10 08:11:44.988546
+------------------------------------------------------
+Started: 2024-05-10 10:09:48.564362
+Existing_entries: 821
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 8058
+Summarized using GPT-3.5-turbo-1106
+Append: [本周看什么 | 最近值得一看的 10 部作品](https://sspai.com/post/88696)
+Token length: 5108
+Summarized using GPT-3.5-turbo-1106
+Append: [我就是想继续用 Windows 10：那安全漏洞怎么办？](https://sspai.com/post/88541)
+append_entries: 2
+Finish: 2024-05-10 10:09:57.888612
