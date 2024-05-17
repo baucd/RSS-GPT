@@ -22706,3 +22706,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [好文章也想「慢慢读」，于是我写了一个把网页变成电子书的工具](https://sspai.com/post/88800)
 append_entries: 1
 Finish: 2024-05-17 04:11:34.162963
+------------------------------------------------------
+Started: 2024-05-17 06:12:35.558083
+Existing_entries: 843
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2024-05-17 06:12:40.470594
