@@ -23120,3 +23120,12 @@ Existing_entries: 859
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-05-22 06:12:41.604846
+------------------------------------------------------
+Started: 2024-05-22 08:12:32.485112
+Existing_entries: 859
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 5654
+Summarized using GPT-3.5-turbo-1106
+Append: [一群中国的高中生，打算办一场全球性的黑客松](https://sspai.com/post/88924)
+append_entries: 1
+Finish: 2024-05-22 08:12:41.228763
