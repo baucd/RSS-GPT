@@ -23311,3 +23311,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/89070)
 append_entries: 1
 Finish: 2024-05-24 10:10:01.571304
+------------------------------------------------------
+Started: 2024-05-24 12:15:48.305983
+Existing_entries: 870
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 1447
+Summarized using GPT-3.5-turbo-1106
+Append: [关于代糖，你应该多了解的几个问题](https://sspai.com/post/88928)
+append_entries: 1
+Finish: 2024-05-24 12:15:56.091835
