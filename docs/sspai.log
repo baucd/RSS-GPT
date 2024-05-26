@@ -23446,3 +23446,9 @@ Summarized using GPT-3.5-turbo-1106
 Append: [找不到好听的新歌？从这些地方扩充你的华语曲库](https://sspai.com/post/89093)
 append_entries: 1
 Finish: 2024-05-26 04:10:44.906339
+------------------------------------------------------
+Started: 2024-05-26 06:11:32.876522
+Existing_entries: 873
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+append_entries: 0
+Finish: 2024-05-26 06:11:38.088598
