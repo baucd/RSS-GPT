@@ -20582,3 +20582,63 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
 Feed error: 503
 append_entries: 0
 error when rendering xml, skip docs/wsj-cn
+------------------------------------------------------
+Started: 2024-06-23 00:45:02.537242
+Existing_entries: 911
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Token length: 1442
+Summarized using GPT-3.5-turbo-1106
+Append: [印度股市表现遥遥领先中国](https://cn.wsj.com/articles/%E5%8D%B0%E5%BA%A6%E8%82%A1%E5%B8%82%E8%A1%A8%E7%8E%B0%E9%81%A5%E9%81%A5%E9%A2%86%E5%85%88%E4%B8%AD%E5%9B%BD-af2141c8)
+Token length: 1227
+Summarized using GPT-3.5-turbo-1106
+Append: [中国央行暗示货币政策将有重大改革](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E6%9A%97%E7%A4%BA%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E5%B0%86%E6%9C%89%E9%87%8D%E5%A4%A7%E6%94%B9%E9%9D%A9-48b62ebc)
+Token length: 2393
+Summarized using GPT-3.5-turbo-1106
+Append: [在苹果AI宏图中，中国是缺失的一环](https://cn.wsj.com/articles/%E5%9C%A8%E8%8B%B9%E6%9E%9Cai%E5%AE%8F%E5%9B%BE%E4%B8%AD-%E4%B8%AD%E5%9B%BD%E6%98%AF%E7%BC%BA%E5%A4%B1%E7%9A%84%E4%B8%80%E7%8E%AF-e4ba4472)
+Token length: 2199
+Summarized using GPT-3.5-turbo-1106
+Append: [习近平要求打击军中腐败，暗示清洗尚未结束](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A6%81%E6%B1%82%E6%89%93%E5%87%BB%E5%86%9B%E4%B8%AD%E8%85%90%E8%B4%A5-%E6%9A%97%E7%A4%BA%E6%B8%85%E6%B4%97%E5%B0%9A%E6%9C%AA%E7%BB%93%E6%9D%9F-7acfc2b2)
+Token length: 898
+Summarized using GPT-3.5-turbo-1106
+Append: [中国将加强对科创板上市公司的监管](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%8A%A0%E5%BC%BA%E5%AF%B9%E7%A7%91%E5%88%9B%E6%9D%BF%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%9B%91%E7%AE%A1-559b27fa)
+Token length: 1495
+Summarized using GPT-3.5-turbo-1106
+Append: [潘功胜：央行研究买卖国债不代表要搞量化宽松](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E8%A1%8C%E9%95%BF-%E6%8A%8A%E5%9B%BD%E5%80%BA%E4%B9%B0%E5%8D%96%E7%BA%B3%E5%85%A5%E8%B4%A7%E5%B8%81%E6%94%BF%E7%AD%96%E5%B7%A5%E5%85%B7%E7%AE%B1%E4%B8%8D%E4%BB%A3%E8%A1%A8%E8%A6%81%E6%90%9E%E9%87%8F%E5%8C%96%E5%AE%BD%E6%9D%BE-e9be8134)
+Token length: 1990
+Summarized using GPT-3.5-turbo-1106
+Append: [中国房地产危机恶化，刺激措施尚未见效](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%8D%B1%E6%9C%BA%E6%81%B6%E5%8C%96-%E5%88%BA%E6%BF%80%E6%8E%AA%E6%96%BD%E5%B0%9A%E6%97%A0%E5%8F%96%E5%BE%97%E9%A2%84%E6%9C%9F%E6%95%88%E6%9E%9C-13da9691)
+Token length: 447
+Summarized using GPT-3.5-turbo-1106
+Append: [中国5月青年失业率下降](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E9%9D%92%E5%B9%B4%E5%A4%B1%E4%B8%9A%E7%8E%87%E4%B8%8B%E9%99%8D-670d2fc1)
+Token length: 1990
+Summarized using GPT-3.5-turbo-1106
+Append: [想让中国家庭消费为何如此之难？](https://cn.wsj.com/articles/%E6%83%B3%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%AE%B6%E5%BA%AD%E6%B6%88%E8%B4%B9%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E4%B9%8B%E9%9A%BE-e9af038f)
+Token length: 771
+Summarized using GPT-3.5-turbo-1106
+Append: [港交所在恶劣天气下将不停市](https://cn.wsj.com/articles/%E6%9D%8E%E5%AE%B6%E8%B6%85-9%E6%9C%8823%E6%97%A5%E8%B5%B7%E6%B8%AF%E4%BA%A4%E6%89%80%E5%AE%9E%E6%96%BD-%E6%89%93%E9%A3%8E%E4%B8%8D%E5%81%9C%E5%B8%82-72a402ff)
+Append: [中国否认有关税务“倒查30年”的猜测](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%90%A6%E8%AE%A4%E6%89%93%E5%87%BB%E9%80%83%E7%A8%8E%E8%A1%8C%E4%B8%BA%E7%9A%84%E7%8C%9C%E6%B5%8B-f199ca12)
+Append: [《我的阿勒泰》热播：中国剧集试图给新疆打造更美好的形象](https://cn.wsj.com/articles/%E6%88%91%E7%9A%84%E9%98%BF%E5%8B%92%E6%B3%B0-%E7%83%AD%E6%92%AD-%E4%B8%AD%E5%9B%BD%E5%89%A7%E9%9B%86%E8%AF%95%E5%9B%BE%E7%BB%99%E6%96%B0%E7%96%86%E6%89%93%E9%80%A0%E6%9B%B4%E7%BE%8E%E5%A5%BD%E7%9A%84%E5%BD%A2%E8%B1%A1-95897f0a)
+Append: [中国对欧洲进口猪肉发起反倾销调查](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%AF%B9%E6%AC%A7%E6%B4%B2%E8%BF%9B%E5%8F%A3%E7%8C%AA%E8%82%89%E5%8F%91%E8%B5%B7%E5%8F%8D%E5%80%BE%E9%94%80%E8%B0%83%E6%9F%A5-f735236b)
+Append: [中国房地产业持续显露疲软迹象](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E4%BB%BD%E6%96%B0%E5%BB%BA%E4%BD%8F%E5%AE%85%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C-ff9539f6)
+Append: [中国最新经济数据喜忧参半](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E6%B6%88%E8%B4%B9%E5%A2%9E%E9%80%9F%E5%8A%A0%E5%BF%AB-%E5%B7%A5%E4%B8%9A%E5%A2%9E%E5%8A%A0%E5%80%BC%E5%92%8C%E6%8A%95%E8%B5%84%E5%A2%9E%E9%80%9F%E6%94%BE%E7%BC%93-d5c242e6)
+Append: [中国央行维持主要政策利率不变](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E4%B8%BB%E8%A6%81%E6%94%BF%E7%AD%96%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98-4146621a)
+Append: [字节跳动将在印尼电商部门裁员](https://cn.wsj.com/articles/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E5%B0%86%E5%9C%A8%E5%8D%B0%E5%B0%BC%E7%94%B5%E5%95%86%E9%83%A8%E9%97%A8%E8%A3%81%E5%91%98-43f52bf9)
+Append: [失去西方市场，中国的出口机器还能继续运转吗？](https://cn.wsj.com/articles/%E5%A4%B1%E5%8E%BB%E8%A5%BF%E6%96%B9%E5%B8%82%E5%9C%BA-%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%87%BA%E5%8F%A3%E6%9C%BA%E5%99%A8%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E8%BF%90%E8%BD%AC%E5%90%97-4990d33e)
+Append: [欧洲与中国的电动汽车贸易战可能波及到豪车](https://cn.wsj.com/articles/%E6%AC%A7%E6%B4%B2%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E8%B4%B8%E6%98%93%E6%88%98%E5%8F%AF%E8%83%BD%E6%B3%A2%E5%8F%8A%E5%88%B0%E8%B1%AA%E8%BD%A6-9293da55)
+Append: [中国通胀依旧低迷，国内消费萎靡不振](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%B7%E6%A0%BC%E6%8C%87%E6%95%B0%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%9B%9B%E4%B8%AA%E6%9C%88%E4%B8%8A%E6%B6%A8-5280b340)
+Append: [四名美国康奈尔学院教师在中国被刺伤](https://cn.wsj.com/articles/%E5%9B%9B%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%BA%B7%E5%A5%88%E5%B0%94%E5%AD%A6%E9%99%A2%E6%95%99%E5%B8%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E8%A2%AB%E5%88%BA%E4%BC%A4-5942c490)
+Append: [习近平问了个关于独角兽的问题，企业家们直挠头](https://cn.wsj.com/articles/%E4%B9%A0%E8%BF%91%E5%B9%B3%E9%97%AE%E4%BA%86%E4%B8%AA%E5%85%B3%E4%BA%8E%E7%8B%AC%E8%A7%92%E5%85%BD%E7%9A%84%E9%97%AE%E9%A2%98-%E4%BC%81%E4%B8%9A%E5%AE%B6%E4%BB%AC%E7%9B%B4%E6%8C%A0%E5%A4%B4-2f3aee94)
+Append: [阿里巴巴新电商策略初见成效，但竞争愈发残酷](https://cn.wsj.com/articles/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%96%B0%E7%94%B5%E5%95%86%E7%AD%96%E7%95%A5%E5%88%9D%E8%A7%81%E6%88%90%E6%95%88-%E4%BD%86%E7%AB%9E%E4%BA%89%E6%84%88%E5%8F%91%E6%AE%8B%E9%85%B7-3cd1190c)
+Append: [中国5月份出口增速加快](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E4%BB%BD%E5%87%BA%E5%8F%A3%E5%A2%9E%E9%80%9F%E5%8A%A0%E5%BF%AB-c061cf06)
+Append: [中国5月外汇储备增加](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E5%A4%96%E6%B1%87%E5%82%A8%E5%A4%87%E5%A2%9E%E5%8A%A0-efa71acd)
+Append: [中国不再是德国车企的康庄大道](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%86%8D%E6%98%AF%E5%BE%B7%E5%9B%BD%E8%BD%A6%E4%BC%81%E7%9A%84%E5%BA%B7%E5%BA%84%E5%A4%A7%E9%81%93-92b92b0f)
+Append: [天安门事件35年后：过去仍未去，未来还没来](https://cn.wsj.com/articles/%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B635%E5%B9%B4%E5%90%8E-%E8%BF%87%E5%8E%BB%E4%BB%8D%E6%9C%AA%E5%8E%BB-%E6%9C%AA%E6%9D%A5%E8%BF%98%E6%B2%A1%E6%9D%A5-c85ea231)
+Append: [七张图表解析中国的产能过剩为何会更严重](https://cn.wsj.com/articles/%E4%B8%83%E5%BC%A0%E5%9B%BE%E8%A1%A8%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BD%E4%BA%A7%E8%83%BD%E8%BF%87%E5%89%A9%E9%97%AE%E9%A2%98%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%9B%B4%E4%B8%A5%E9%87%8D-3a8b743f)
+Append: [财新5月中国服务业PMI升至54，创10个月来最快增速](https://cn.wsj.com/articles/%E8%B4%A2%E6%96%B05%E6%9C%88%E4%B8%AD%E5%9B%BD%E6%9C%8D%E5%8A%A1%E4%B8%9Apmi%E5%8D%87%E8%87%B354-%E5%88%9B10%E4%B8%AA%E6%9C%88%E6%9D%A5%E6%9C%80%E5%BF%AB%E5%A2%9E%E9%80%9F-d213a198)
+Append: [天安门事件35年后，中国再遭国际社会疏离](https://cn.wsj.com/articles/%E5%A4%A9%E5%AE%89%E9%97%A8%E4%BA%8B%E4%BB%B635%E5%B9%B4%E5%90%8E-%E4%B8%AD%E5%9B%BD%E5%86%8D%E9%81%AD%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E7%96%8F%E7%A6%BB-1b933966)
+Append: [中国依靠制造业重振经济的策略开始失灵](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%E4%B8%9A%E6%B4%BB%E5%8A%A8%E6%84%8F%E5%A4%96%E8%90%8E%E7%BC%A9-%E5%9B%A0%E5%B8%82%E5%9C%BA%E9%9C%80%E6%B1%82%E4%B8%8B%E9%99%8D-bf9ec459)
+Append: [财新PMI显示中国制造业活动加速扩张，与官方数据形成对比](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E8%B4%A2%E6%96%B0%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E5%8D%87%E8%87%B351-7-%E5%88%9B%E4%B8%A4%E5%B9%B4%E6%96%B0%E9%AB%98-fdf2478f)
+Append: [香港4月零售额同比下降15%，显示消费复苏乏力](https://cn.wsj.com/articles/%E9%A6%99%E6%B8%AF4%E6%9C%88%E9%9B%B6%E5%94%AE%E9%A2%9D%E5%90%8C%E6%AF%94%E4%B8%8B%E9%99%8D15-%E6%98%BE%E7%A4%BA%E6%B6%88%E8%B4%B9%E5%A4%8D%E8%8B%8F%E4%B9%8F%E5%8A%9B-1b3ac589)
+Append: [中国5月官方制造业PMI降至49.5，显著低于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E9%99%8D%E8%87%B349-5-%E6%97%B6%E9%9A%94%E4%B8%A4%E6%9C%88%E5%86%8D%E9%99%B7%E8%90%8E%E7%BC%A9-%E4%B8%94%E6%98%BE%E8%91%97%E4%BD%8E%E4%BA%8E%E9%A2%84%E6%9C%9F-7b8d4018)
+append_entries: 34
+Finish: 2024-06-23 00:45:33.960840
