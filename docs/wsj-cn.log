@@ -20642,3 +20642,10 @@ Append: [香港4月零售额同比下降15%，显示消费复苏乏力](https://
 Append: [中国5月官方制造业PMI降至49.5，显著低于预期](https://cn.wsj.com/articles/%E4%B8%AD%E5%9B%BD5%E6%9C%88%E5%AE%98%E6%96%B9%E5%88%B6%E9%80%A0%E4%B8%9Apmi%E9%99%8D%E8%87%B349-5-%E6%97%B6%E9%9A%94%E4%B8%A4%E6%9C%88%E5%86%8D%E9%99%B7%E8%90%8E%E7%BC%A9-%E4%B8%94%E6%98%BE%E8%91%97%E4%BD%8E%E4%BA%8E%E9%A2%84%E6%9C%9F-7b8d4018)
 append_entries: 34
 Finish: 2024-06-23 00:45:33.960840
+------------------------------------------------------
+Started: 2024-06-23 02:28:39.520672
+Existing_entries: 945
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/wsj/zh-cn/china
+Feed error: 503
+append_entries: 0
+error when rendering xml, skip docs/wsj-cn
