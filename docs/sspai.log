@@ -26634,3 +26634,10 @@ Existing_entries: 1000
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-07-03 14:10:06.342097
+------------------------------------------------------
+Started: 2024-07-03 16:12:14.105435
+Existing_entries: 1000
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Feed error: 504
+append_entries: 0
+error when rendering xml, skip docs/sspai
