@@ -26674,3 +26674,12 @@ Existing_entries: 1001
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-07-04 02:28:45.252081
+------------------------------------------------------
+Started: 2024-07-04 04:11:34.024214
+Existing_entries: 1000
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 9760
+Summarized using GPT-3.5-turbo-1106
+Append: [让 RIME 体验更上一层楼：如何用 MediaWiki 扩展词库](https://sspai.com/post/90068)
+append_entries: 1
+Finish: 2024-07-04 04:11:43.437333
