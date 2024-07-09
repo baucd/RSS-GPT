@@ -27100,3 +27100,15 @@ Summarized using GPT-3.5-turbo-1106
 Append: [打扫房间可以很简单：10 个便宜好用的清洁用品](https://sspai.com/post/89304)
 append_entries: 1
 Finish: 2024-07-09 08:11:27.443152
+------------------------------------------------------
+Started: 2024-07-09 10:10:27.019512
+Existing_entries: 1001
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 6302
+Summarized using GPT-3.5-turbo-1106
+Append: [社区速递 052 | 一周热评、派友在用的键盘和新玩意](https://sspai.com/post/90320)
+Token length: 17926
+Summarized using GPT-3.5-turbo-1106
+Append: [用 AutoHotKey 在 Windows 上找回 macOS 使用体验](https://sspai.com/post/90212)
+append_entries: 2
+Finish: 2024-07-09 10:10:38.202474
