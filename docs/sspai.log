@@ -27181,3 +27181,15 @@ Existing_entries: 1001
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-07-10 06:13:25.488497
+------------------------------------------------------
+Started: 2024-07-10 08:13:59.190048
+Existing_entries: 1000
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 3060
+Summarized using GPT-3.5-turbo-1106
+Append: [周末去哪玩：我们收集了这些不同城市的「度假」方式](https://sspai.com/post/90103)
+Token length: 5050
+Summarized using GPT-3.5-turbo-1106
+Append: [「动真格」无需大动作，小处着手保护 iPhone 隐私](https://sspai.com/post/79967)
+append_entries: 2
+Finish: 2024-07-10 08:14:08.395316
