@@ -28150,3 +28150,12 @@ Summarized using GPT-3.5-turbo-1106
 Append: [派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
 append_entries: 1
 Finish: 2024-07-22 02:33:16.552260
+------------------------------------------------------
+Started: 2024-07-22 04:12:04.143985
+Existing_entries: 1001
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 6238
+Summarized using GPT-3.5-turbo-1106
+Append: [GraphRAG + GPT-4o mini 低成本构建 AI 图谱知识库](https://sspai.com/post/90665)
+append_entries: 1
+Finish: 2024-07-22 04:12:16.744976
