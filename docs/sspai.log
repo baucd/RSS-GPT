@@ -28141,3 +28141,12 @@ Existing_entries: 1000
 Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 append_entries: 0
 Finish: 2024-07-22 00:45:23.305370
+------------------------------------------------------
+Started: 2024-07-22 02:33:04.765030
+Existing_entries: 1000
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 3807
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：安全软件缺陷导致全球 Windows 设备故障](https://sspai.com/post/90680)
+append_entries: 1
+Finish: 2024-07-22 02:33:16.552260
