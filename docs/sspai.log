@@ -28313,3 +28313,18 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-07-24 02:29:38.875873
+Existing_entries: 1001
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 1602
+Summarized using GPT-3.5-turbo-1106
+Append: [派早报：英特尔将修复部分酷睿台式机处理器的稳定性问题等](https://sspai.com/post/90755)
+Token length: 6202
+Summarized using GPT-3.5-turbo-1106
+Append: [社区速递 054 | 你没见过的社区文章、一周最热评、派友用的翻译服务](https://sspai.com/post/90736)
+Token length: 3511
+Summarized using GPT-3.5-turbo-1106
+Append: [盖是「蓝屏」的，但锅不全是微软的：聊聊近期的 Windows 大规模宕机](https://sspai.com/post/90673)
+append_entries: 3
+Finish: 2024-07-24 02:29:55.706382
