@@ -28840,3 +28840,15 @@ Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
 Feed error: 504
 append_entries: 0
 error when rendering xml, skip docs/sspai
+------------------------------------------------------
+Started: 2024-07-30 10:11:26.476776
+Existing_entries: 1000
+Fetching from http://baucdlovechina.katsusama.xyz/rsshub/sspai/index
+Token length: 9685
+Summarized using GPT-3.5-turbo-1106
+Append: [社区速递 055 | 你没见过的社区文章、一周最热评、夏日派友翻包](https://sspai.com/post/90990)
+Token length: 2881
+Summarized using GPT-3.5-turbo-1106
+Append: [在曲线中寻找秩序与和谐：跟着 Apple Watch 初识产品工业设计](https://sspai.com/post/90882)
+append_entries: 2
+Finish: 2024-07-30 10:11:42.064041
